@@ -1,0 +1,207 @@
+{
+    "_meta": {
+        "removal_type": "deleted",
+        "retrieved_2nd_on": 1715355438,
+        "was_deleted_later": true
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "parkducksarefree",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_cqjemi4j",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1715225823,
+    "created_utc": 1715225823,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1cnnrct",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#0079d3",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Educational Purpose Only "
+        }
+    ],
+    "link_flair_template_id": "26e7b998-7bbc-11ed-ba93-22ce55064b6a",
+    "link_flair_text": "Educational Purpose Only ",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "2vlq96mmkbzc1": {
+            "e": "Image",
+            "id": "2vlq96mmkbzc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/2vlq96mmkbzc1.png?width=108&crop=smart&auto=webp&s=0e2f70cc6a6b1bda0ebc965416c061ad6dcb08ba",
+                    "x": 108,
+                    "y": 60
+                },
+                {
+                    "u": "https://preview.redd.it/2vlq96mmkbzc1.png?width=216&crop=smart&auto=webp&s=10b19a589c5d21641bda755e64dc7e63638a6fe7",
+                    "x": 216,
+                    "y": 121
+                },
+                {
+                    "u": "https://preview.redd.it/2vlq96mmkbzc1.png?width=320&crop=smart&auto=webp&s=d92728496e6bb117ac8824d40b69e139e809d997",
+                    "x": 320,
+                    "y": 179
+                },
+                {
+                    "u": "https://preview.redd.it/2vlq96mmkbzc1.png?width=640&crop=smart&auto=webp&s=20be7298352b8804d79173862a7ecd8e2678e061",
+                    "x": 640,
+                    "y": 359
+                },
+                {
+                    "u": "https://preview.redd.it/2vlq96mmkbzc1.png?width=960&crop=smart&auto=webp&s=df1d6d720b87ddfa83b1d03bc76e539df536654c",
+                    "x": 960,
+                    "y": 539
+                },
+                {
+                    "u": "https://preview.redd.it/2vlq96mmkbzc1.png?width=1080&crop=smart&auto=webp&s=40266430a44120cb20ad6e35a83e23e4c7a4990c",
+                    "x": 1080,
+                    "y": 607
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/2vlq96mmkbzc1.png?width=1818&format=png&auto=webp&s=3fe6045f4532265e0a4c35414a643e1cd8d5c843",
+                "x": 1818,
+                "y": 1022
+            },
+            "status": "valid"
+        },
+        "p9my77mmkbzc1": {
+            "e": "Image",
+            "id": "p9my77mmkbzc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/p9my77mmkbzc1.png?width=108&crop=smart&auto=webp&s=44f7ce46469305ceed0de5c8d4afa51deba411b3",
+                    "x": 108,
+                    "y": 14
+                },
+                {
+                    "u": "https://preview.redd.it/p9my77mmkbzc1.png?width=216&crop=smart&auto=webp&s=5ce768491381bcce1a243a8b1083edf8d46642b5",
+                    "x": 216,
+                    "y": 29
+                },
+                {
+                    "u": "https://preview.redd.it/p9my77mmkbzc1.png?width=320&crop=smart&auto=webp&s=83a22c6af63a2e9e34a342ce0610fddc74cdc886",
+                    "x": 320,
+                    "y": 43
+                },
+                {
+                    "u": "https://preview.redd.it/p9my77mmkbzc1.png?width=640&crop=smart&auto=webp&s=7255aa8e1b4a3c181dda6341509372413d2f4b96",
+                    "x": 640,
+                    "y": 87
+                },
+                {
+                    "u": "https://preview.redd.it/p9my77mmkbzc1.png?width=960&crop=smart&auto=webp&s=615cd935a8223a55f8fdc4b05385329040d54e52",
+                    "x": 960,
+                    "y": 131
+                },
+                {
+                    "u": "https://preview.redd.it/p9my77mmkbzc1.png?width=1080&crop=smart&auto=webp&s=71c12c39f80e119c04448599b0d556b755dd25ea",
+                    "x": 1080,
+                    "y": 147
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/p9my77mmkbzc1.png?width=1802&format=png&auto=webp&s=bfbcd551a7d3d4b38e42ac51f70fb39d1b72b1a0",
+                "x": 1802,
+                "y": 246
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1cnnrct",
+    "no_follow": false,
+    "num_comments": 2,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1cnnrct/nsweduchat_remarks_and_notes/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1715225840,
+    "saved": false,
+    "score": 2,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "https://preview.redd.it/p9my77mmkbzc1.png?width=1802&format=png&auto=webp&s=bfbcd551a7d3d4b38e42ac51f70fb39d1b72b1a0\n\nhttps://preview.redd.it/2vlq96mmkbzc1.png?width=1818&format=png&auto=webp&s=3fe6045f4532265e0a4c35414a643e1cd8d5c843\n\nThis is NSWEduChat which has been officially rolled out today to beta. Myself being one of the first to try it.\n\nIt is a ChatGPT based product for AI-assisted education in the New South Wales region of Australia and it's school system.\n\nThe pre-prompt tells wonders about what it's intentions are, and as such it cannot solve basic integrals, and rather will prompt the user with a single step to solve out. It often will not provide quotes from texts where ChatGPT can, obviously the dpt of education locking this down to stop students using this for 100% of their study. This is heavily restricted and won't be available to the public for very obvious reasons, however will slowly be rolled out to students as it's perfected. Language translation and interpretation seems to be it's strongest suit, as it will do a 1:1 translation to any department-taught language in a single step.\n\nThis is weird, even for the Department of Education. Their presentation on it's use was very simplistic, and didn't go into any of it's actual behind the scenes basis; even going so far as to say that it was \"better than ChatGPT\" (despite being based on ChatGPT3 see above), and that \"it was based on a next-gen AI model that has more information available than other options\"\n\nAnyway, just one person's comments on a very strange product. Interesting indeed!",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5372207,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/FNvdW0tMjBFeEgnrbwhZEl2eudTs85HWKU3MTD74lKE.jpg",
+    "thumbnail_height": 19,
+    "thumbnail_width": 140,
+    "title": "NSWEduChat remarks and notes",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 2,
+    "upvote_ratio": 1,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1cnnrct/nsweduchat_remarks_and_notes/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

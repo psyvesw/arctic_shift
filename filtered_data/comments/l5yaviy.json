@@ -1,0 +1,121 @@
+{
+    "_meta": {
+        "is_edited": true,
+        "retrieved_2nd_on": 1716982518
+    },
+    "all_awardings": [],
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "associated_award": null,
+    "author": "heartlandsg",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_kn2vdwy",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "body": "Wanted to share the best approach I've found for ChatGPT to google docs in May 2024. It takes just a few seconds.\n\nThis is actually a Google Docs Add-on that was created by a teacher and has proved very useful for this purpose. You can find the link to the add-on here: [https://workspace.google.com/marketplace/app/remove\\_blank\\_lines\\_by\\_alicekeeler/179568473077](https://workspace.google.com/marketplace/app/remove_blank_lines_by_alicekeeler/179568473077)\n\n1. Copy using the copy button at the end of the GPT response\n\n2. Paste into Google Docs and highlight the text\n\n3. Go to the top bar: Extensions > Remove Blank Lines by AliceKeeler > \n\n4. Use whichever options make sense for your content formatting - I typically use \\*\\*bold\\*\\* and ## to headings\n\n  \nI've included a GIF of the process here.\n\nhttps://i.redd.it/xt208f60123d1.gif",
+    "can_gild": false,
+    "can_mod_post": false,
+    "collapsed": false,
+    "collapsed_because_crowd_control": null,
+    "collapsed_reason": null,
+    "collapsed_reason_code": null,
+    "comment_type": null,
+    "controversiality": 0,
+    "created": 1716852910,
+    "created_utc": 1716852910,
+    "distinguished": null,
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "id": "l5yaviy",
+    "is_submitter": false,
+    "likes": null,
+    "link_id": "t3_172dnse",
+    "locked": false,
+    "media_metadata": {
+        "xt208f60123d1": {
+            "e": "AnimatedImage",
+            "id": "xt208f60123d1",
+            "m": "image/gif",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/xt208f60123d1.gif?width=108&crop=smart&format=png8&s=23a8c0c1a8e9c8e9b2641aca968ab55cefb01ac9",
+                    "x": 108,
+                    "y": 60
+                },
+                {
+                    "u": "https://preview.redd.it/xt208f60123d1.gif?width=216&crop=smart&format=png8&s=5bc7505c89f5e991ac9ed02e8c73967a49b5f8ec",
+                    "x": 216,
+                    "y": 121
+                },
+                {
+                    "u": "https://preview.redd.it/xt208f60123d1.gif?width=320&crop=smart&format=png8&s=26c319a5fb55c42dc1061727c725a282dc36724c",
+                    "x": 320,
+                    "y": 180
+                },
+                {
+                    "u": "https://preview.redd.it/xt208f60123d1.gif?width=640&crop=smart&format=png8&s=730e7691474332620cb9628190351cbf621d4875",
+                    "x": 640,
+                    "y": 360
+                },
+                {
+                    "u": "https://preview.redd.it/xt208f60123d1.gif?width=960&crop=smart&format=png8&s=8978dc8c3e6c5e83ab0bb8e69ae140343a4fae4c",
+                    "x": 960,
+                    "y": 540
+                },
+                {
+                    "u": "https://preview.redd.it/xt208f60123d1.gif?width=1080&crop=smart&format=png8&s=bd7bc343bff179c364cb5dfe8ab72f5ddc8413e5",
+                    "x": 1080,
+                    "y": 607
+                }
+            ],
+            "s": {
+                "gif": "https://i.redd.it/xt208f60123d1.gif",
+                "mp4": "https://preview.redd.it/xt208f60123d1.gif?format=mp4&s=904c101e05742d612f43b6167022470d64035eb5",
+                "x": 2000,
+                "y": 1125
+            },
+            "status": "valid"
+        }
+    },
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t1_l5yaviy",
+    "no_follow": true,
+    "num_reports": null,
+    "parent_id": "t3_172dnse",
+    "permalink": "/r/ChatGPT/comments/172dnse/how_to_paste_from_chatgpt_into_word_or_google/l5yaviy/",
+    "removal_reason": null,
+    "replies": "",
+    "report_reasons": null,
+    "retrieved_on": 1716852927,
+    "saved": false,
+    "score": 1,
+    "score_hidden": false,
+    "send_replies": true,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_type": "public",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "unrepliable_reason": null,
+    "ups": 1,
+    "user_reports": []
+}

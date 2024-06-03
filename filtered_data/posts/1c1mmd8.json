@@ -1,0 +1,213 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1712990374
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "carnage_maximum",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_24bkyzq3",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1712860767,
+    "created_utc": 1712860767,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1c1mmd8",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#7193ff",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Prompt engineering "
+        }
+    ],
+    "link_flair_template_id": "b5394392-9962-11ed-af6a-768e8d834d7a",
+    "link_flair_text": "Prompt engineering ",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "cezwmfny9wtc1": {
+            "e": "Image",
+            "id": "cezwmfny9wtc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/cezwmfny9wtc1.png?width=108&crop=smart&auto=webp&s=2031f605785cc091f5542b1d178419a00668d3ac",
+                    "x": 108,
+                    "y": 45
+                },
+                {
+                    "u": "https://preview.redd.it/cezwmfny9wtc1.png?width=216&crop=smart&auto=webp&s=8212c486b69437ed0bc3fbbaa342258ef3c3fd36",
+                    "x": 216,
+                    "y": 91
+                },
+                {
+                    "u": "https://preview.redd.it/cezwmfny9wtc1.png?width=320&crop=smart&auto=webp&s=9b86ed117b2a542b4b56a9c4b5bdff71c53a78fb",
+                    "x": 320,
+                    "y": 135
+                },
+                {
+                    "u": "https://preview.redd.it/cezwmfny9wtc1.png?width=640&crop=smart&auto=webp&s=3979cbb77cbd123de99ce113bba0e73d8bed1eea",
+                    "x": 640,
+                    "y": 271
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/cezwmfny9wtc1.png?width=830&format=png&auto=webp&s=bffea68489b8b067ab69e4ef049e92725adffad0",
+                "x": 830,
+                "y": 352
+            },
+            "status": "valid"
+        },
+        "oawk2l5x9wtc1": {
+            "e": "Image",
+            "id": "oawk2l5x9wtc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/oawk2l5x9wtc1.png?width=108&crop=smart&auto=webp&s=83e2c92d9b77e09af57a452bd2e65be2e96b76cd",
+                    "x": 108,
+                    "y": 41
+                },
+                {
+                    "u": "https://preview.redd.it/oawk2l5x9wtc1.png?width=216&crop=smart&auto=webp&s=777e34b6da5326b63b59ef2e51f897741f3774d9",
+                    "x": 216,
+                    "y": 83
+                },
+                {
+                    "u": "https://preview.redd.it/oawk2l5x9wtc1.png?width=320&crop=smart&auto=webp&s=5dac9ec4b4c1912539e7e38b900acb7f37abf92e",
+                    "x": 320,
+                    "y": 124
+                },
+                {
+                    "u": "https://preview.redd.it/oawk2l5x9wtc1.png?width=640&crop=smart&auto=webp&s=fa3578b4c7f5013bcd2861973c59c5fe00f208ae",
+                    "x": 640,
+                    "y": 248
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/oawk2l5x9wtc1.png?width=794&format=png&auto=webp&s=0dffd8e3a1295c3a059767a89155e194745262e9",
+                "x": 794,
+                "y": 308
+            },
+            "status": "valid"
+        },
+        "tglxdwew9wtc1": {
+            "e": "Image",
+            "id": "tglxdwew9wtc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/tglxdwew9wtc1.png?width=108&crop=smart&auto=webp&s=b2e71c909f6334b041d49c8e6ffca5ee077764ea",
+                    "x": 108,
+                    "y": 124
+                },
+                {
+                    "u": "https://preview.redd.it/tglxdwew9wtc1.png?width=216&crop=smart&auto=webp&s=53077b71f273aeccca5e4789f71950a0adddc718",
+                    "x": 216,
+                    "y": 248
+                },
+                {
+                    "u": "https://preview.redd.it/tglxdwew9wtc1.png?width=320&crop=smart&auto=webp&s=39f1004ce0da0ababa1c306b5dc7f0840f9ae15b",
+                    "x": 320,
+                    "y": 368
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/tglxdwew9wtc1.png?width=561&format=png&auto=webp&s=37b114243ae4b7c67d85232d317aaf2b18940483",
+                "x": 561,
+                "y": 646
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1c1mmd8",
+    "no_follow": true,
+    "num_comments": 1,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1c1mmd8/a_simple_trick_to_make_chatgpts_answers_easier_to/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1712860782,
+    "saved": false,
+    "score": 1,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "You know how ChatGPT lets you customize its responses through the settings? You can actually get it to **bold the really important bits** in its answers. A simple change but it seriously improves readability and helps you quickly spot the key points without having to comb through walls of text.\n\n&#x200B;\n\nhttps://preview.redd.it/tglxdwew9wtc1.png?width=561&format=png&auto=webp&s=37b114243ae4b7c67d85232d317aaf2b18940483\n\n1. Go to the \"Customize ChatGPT\" settings\n2. In the \"What should ChatGPT know about you?\" and \"How should ChatGPT respond?\" boxes, just type: \"**Highlight any important words or points in BOLD**\"\n\n\\[You can also use this technique to make some different bits in Italics or any other format\\]  \n\n\n**Results:**\n\n**Before**\n\n&#x200B;\n\nhttps://preview.redd.it/oawk2l5x9wtc1.png?width=794&format=png&auto=webp&s=0dffd8e3a1295c3a059767a89155e194745262e9\n\n**After**\n\n&#x200B;\n\nhttps://preview.redd.it/cezwmfny9wtc1.png?width=830&format=png&auto=webp&s=bffea68489b8b067ab69e4ef049e92725adffad0\n\nFor anyone using ChatGPT a lot for work, school, or just casual browsing, giving this a try is a total game-changer. It saves so much time and mental energy trying to spot the important info. Thought I'd spread the word in case any of you find it useful too!",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5044367,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://a.thumbs.redditmedia.com/aVFhzEawkXIrBclfRb-2KMpCoeSSnMtoLokT5nCO7N4.jpg",
+    "thumbnail_height": 140,
+    "thumbnail_width": 140,
+    "title": "A Simple Trick to Make ChatGPT's Answers Easier to Read",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 1,
+    "upvote_ratio": 0.6600000262260437,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1c1mmd8/a_simple_trick_to_make_chatgpts_answers_easier_to/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

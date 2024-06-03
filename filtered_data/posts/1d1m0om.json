@@ -1,0 +1,271 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1716924389
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "discombobulatedpeep",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_v189jnb6",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1716794783,
+    "created_utc": 1716794783,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "reddit.com",
+    "downs": 0,
+    "edited": false,
+    "gallery_data": {
+        "items": [
+            {
+                "caption": "",
+                "id": 459811987,
+                "media_id": "i5s8rqfb8x2d1",
+                "outbound_url": ""
+            },
+            {
+                "caption": "",
+                "id": 459811988,
+                "media_id": "gx65wqfb8x2d1",
+                "outbound_url": ""
+            },
+            {
+                "caption": "",
+                "id": 459811989,
+                "media_id": "x6z6mqfb8x2d1",
+                "outbound_url": ""
+            }
+        ]
+    },
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1d1m0om",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_gallery": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#94e044",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Other "
+        }
+    ],
+    "link_flair_template_id": "b4536a20-7be9-11ed-9a10-deed22fd00f8",
+    "link_flair_text": "Other ",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "gx65wqfb8x2d1": {
+            "e": "Image",
+            "id": "gx65wqfb8x2d1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/gx65wqfb8x2d1.jpg?width=108&crop=smart&auto=webp&s=92e1824ba4cf97415581ee4b2ea31ac85bea6172",
+                    "x": 108,
+                    "y": 81
+                },
+                {
+                    "u": "https://preview.redd.it/gx65wqfb8x2d1.jpg?width=216&crop=smart&auto=webp&s=0626e7e704fb5549d8935f391741198466afe22f",
+                    "x": 216,
+                    "y": 162
+                },
+                {
+                    "u": "https://preview.redd.it/gx65wqfb8x2d1.jpg?width=320&crop=smart&auto=webp&s=d986e5503bac68545fa0d4ca90e7483150a238b4",
+                    "x": 320,
+                    "y": 240
+                },
+                {
+                    "u": "https://preview.redd.it/gx65wqfb8x2d1.jpg?width=640&crop=smart&auto=webp&s=034f9d254e9683cdae49d91ab2da62f5c3874e4f",
+                    "x": 640,
+                    "y": 480
+                },
+                {
+                    "u": "https://preview.redd.it/gx65wqfb8x2d1.jpg?width=960&crop=smart&auto=webp&s=8075258e98e5fc48b78aabc1e10bf1bf6a6dae26",
+                    "x": 960,
+                    "y": 720
+                },
+                {
+                    "u": "https://preview.redd.it/gx65wqfb8x2d1.jpg?width=1080&crop=smart&auto=webp&s=4d6f02585ed6cfded1cbb037a755cb48d33427d9",
+                    "x": 1080,
+                    "y": 810
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/gx65wqfb8x2d1.jpg?width=4032&format=pjpg&auto=webp&s=c4c904aeadcdb72aea412b6ab7a50ab95cd9bbb2",
+                "x": 4032,
+                "y": 3024
+            },
+            "status": "valid"
+        },
+        "i5s8rqfb8x2d1": {
+            "e": "Image",
+            "id": "i5s8rqfb8x2d1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/i5s8rqfb8x2d1.jpg?width=108&crop=smart&auto=webp&s=2f05be0163f1c5861d81b14a189c8371837c5381",
+                    "x": 108,
+                    "y": 81
+                },
+                {
+                    "u": "https://preview.redd.it/i5s8rqfb8x2d1.jpg?width=216&crop=smart&auto=webp&s=7aedb36b884dfb3ca77c749fe116c163c2236c24",
+                    "x": 216,
+                    "y": 162
+                },
+                {
+                    "u": "https://preview.redd.it/i5s8rqfb8x2d1.jpg?width=320&crop=smart&auto=webp&s=64afc0eeb299365458133a2a6891d3f57837a95a",
+                    "x": 320,
+                    "y": 240
+                },
+                {
+                    "u": "https://preview.redd.it/i5s8rqfb8x2d1.jpg?width=640&crop=smart&auto=webp&s=bc3decb8b379784f16faf9b97bd8904e25382d48",
+                    "x": 640,
+                    "y": 480
+                },
+                {
+                    "u": "https://preview.redd.it/i5s8rqfb8x2d1.jpg?width=960&crop=smart&auto=webp&s=444188876d02aa60b027afb14131eafb53d472f6",
+                    "x": 960,
+                    "y": 720
+                },
+                {
+                    "u": "https://preview.redd.it/i5s8rqfb8x2d1.jpg?width=1080&crop=smart&auto=webp&s=3b87cbe746e027cfda644a7125c649024e615812",
+                    "x": 1080,
+                    "y": 810
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/i5s8rqfb8x2d1.jpg?width=4032&format=pjpg&auto=webp&s=de3753521ad9d20e36ec3b9a81735928e40a82e6",
+                "x": 4032,
+                "y": 3024
+            },
+            "status": "valid"
+        },
+        "x6z6mqfb8x2d1": {
+            "e": "Image",
+            "id": "x6z6mqfb8x2d1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/x6z6mqfb8x2d1.jpg?width=108&crop=smart&auto=webp&s=94f3f4c655fbeab55056ddf3b748b88218ada415",
+                    "x": 108,
+                    "y": 81
+                },
+                {
+                    "u": "https://preview.redd.it/x6z6mqfb8x2d1.jpg?width=216&crop=smart&auto=webp&s=b4e78d25da75f82cf1f4710fee207e83d32663a4",
+                    "x": 216,
+                    "y": 162
+                },
+                {
+                    "u": "https://preview.redd.it/x6z6mqfb8x2d1.jpg?width=320&crop=smart&auto=webp&s=c1a6a2b770d13e92ae49b879295197ea0d32016c",
+                    "x": 320,
+                    "y": 240
+                },
+                {
+                    "u": "https://preview.redd.it/x6z6mqfb8x2d1.jpg?width=640&crop=smart&auto=webp&s=728cdc0f79555d8b07fc81b6c520b2062f40f83d",
+                    "x": 640,
+                    "y": 480
+                },
+                {
+                    "u": "https://preview.redd.it/x6z6mqfb8x2d1.jpg?width=960&crop=smart&auto=webp&s=20284ac71d05241e160e0ed780892acd67802a64",
+                    "x": 960,
+                    "y": 720
+                },
+                {
+                    "u": "https://preview.redd.it/x6z6mqfb8x2d1.jpg?width=1080&crop=smart&auto=webp&s=0192b1e76d715d49282318df80a083cd0cffb4e3",
+                    "x": 1080,
+                    "y": 810
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/x6z6mqfb8x2d1.jpg?width=4032&format=pjpg&auto=webp&s=da8e7204993fce7983b4e184d6bffc63e86265e9",
+                "x": 4032,
+                "y": 3024
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1d1m0om",
+    "no_follow": true,
+    "num_comments": 3,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1d1m0om/made_a_mini_studying_app_system_within_chatgpt_to/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1716794797,
+    "saved": false,
+    "score": 1,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "this is my first time making or trying something like this, i dont know what exactly this little system i made can be defined as but it actually works opening up the different folders and wut not and the scoreboard too for if i get the answers right i get a point if the system does then the machine gets points, but its my second day trying to learn to code and beginning with Python (heard its simpler than others and from there learning other languages wont be as hard) \n(Python full course for free - Bro Code) - youtube 1hr in\n\nalthough i didnt code to make it i typed out all the basic parts on how each thing should function in their own little parts which i think is how making a program works no? separating the parts into smaller portions and working on them individually? pic 3 was the whole thing, i dont rly know much about the coding world but i alteast want to have a go at it ",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5646674,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/lVEJzYKEbYm1aJJTZD6niNrVkOOBvch96vnA5gy7sbM.jpg",
+    "thumbnail_height": 105,
+    "thumbnail_width": 140,
+    "title": "Made a mini studying app system WITHIN ChatGPT to learn (beginner)",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 1,
+    "upvote_ratio": 0.6000000238418579,
+    "url": "https://www.reddit.com/gallery/1d1m0om",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

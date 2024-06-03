@@ -1,0 +1,171 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1715353910
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "Maxie445",
+    "author_flair_background_color": "",
+    "author_flair_css_class": null,
+    "author_flair_richtext": [
+        {
+            "a": ":Discord:",
+            "e": "emoji",
+            "u": "https://emoji.redditmedia.com/0zlhaela6zub1_t5_7hqomg/Discord"
+        }
+    ],
+    "author_flair_template_id": null,
+    "author_flair_text": ":Discord:",
+    "author_flair_text_color": "dark",
+    "author_flair_type": "richtext",
+    "author_fullname": "t2_rpv4m",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": true,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1715224300,
+    "created_utc": 1715224300,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "cnbc.com",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1cnnaff",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#ddbd37",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "News \ud83d\udcf0"
+        }
+    ],
+    "link_flair_template_id": "1c39d510-f1ac-11ed-8167-5e7479c0f87c",
+    "link_flair_text": "News \ud83d\udcf0",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1cnnaff",
+    "no_follow": true,
+    "num_comments": 11,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1cnnaff/ai_is_speeding_up_humanlike_robot_development_it/",
+    "pinned": false,
+    "post_hint": "link",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "cz4432XTl9QoO2WDSNvbu4TIfZLThtXU1oq5K_-o8pE",
+                "resolutions": [
+                    {
+                        "height": 60,
+                        "url": "https://external-preview.redd.it/kDm_ncHkeUWOYWkE0eGxAQoY8vrRLtpV2pmoRfe1nZ8.jpg?width=108&crop=smart&auto=webp&s=069761f2d64326fde4e32265c2bbbb587fb3b5ca",
+                        "width": 108
+                    },
+                    {
+                        "height": 121,
+                        "url": "https://external-preview.redd.it/kDm_ncHkeUWOYWkE0eGxAQoY8vrRLtpV2pmoRfe1nZ8.jpg?width=216&crop=smart&auto=webp&s=3020d5036ba6bbd152d7f5a97d9b6016d94742b2",
+                        "width": 216
+                    },
+                    {
+                        "height": 180,
+                        "url": "https://external-preview.redd.it/kDm_ncHkeUWOYWkE0eGxAQoY8vrRLtpV2pmoRfe1nZ8.jpg?width=320&crop=smart&auto=webp&s=d98f28df4635abb61c77b68816438bc47503bad0",
+                        "width": 320
+                    },
+                    {
+                        "height": 360,
+                        "url": "https://external-preview.redd.it/kDm_ncHkeUWOYWkE0eGxAQoY8vrRLtpV2pmoRfe1nZ8.jpg?width=640&crop=smart&auto=webp&s=649c1c1b411baf3b52df4bcf08fc7a52a5644fbe",
+                        "width": 640
+                    },
+                    {
+                        "height": 540,
+                        "url": "https://external-preview.redd.it/kDm_ncHkeUWOYWkE0eGxAQoY8vrRLtpV2pmoRfe1nZ8.jpg?width=960&crop=smart&auto=webp&s=547a20983cac363f13a861a45d1827c563b84387",
+                        "width": 960
+                    },
+                    {
+                        "height": 607,
+                        "url": "https://external-preview.redd.it/kDm_ncHkeUWOYWkE0eGxAQoY8vrRLtpV2pmoRfe1nZ8.jpg?width=1080&crop=smart&auto=webp&s=31f96f9d3f41142d65c9c51bd26ea5e33077665a",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 1080,
+                    "url": "https://external-preview.redd.it/kDm_ncHkeUWOYWkE0eGxAQoY8vrRLtpV2pmoRfe1nZ8.jpg?auto=webp&s=68d36f77c6ff0185d972f68eb15bc7c7328c1d43",
+                    "width": 1920
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1715224315,
+    "saved": false,
+    "score": 24,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5371946,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/r1TAWldDUKW0BFZEMxnbBphnitqB1F3p2-jipNoRSXU.jpg",
+    "thumbnail_height": 78,
+    "thumbnail_width": 140,
+    "title": "AI is speeding up human-like robot development | \u201cIt has accelerated our entire research and development cycle.\u201d",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 24,
+    "upvote_ratio": 0.8299999833106995,
+    "url": "https://www.cnbc.com/2024/05/08/how-generative-chatgpt-like-ai-is-accelerating-humanoid-robots.html",
+    "url_overridden_by_dest": "https://www.cnbc.com/2024/05/08/how-generative-chatgpt-like-ai-is-accelerating-humanoid-robots.html",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

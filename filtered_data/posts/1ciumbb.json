@@ -1,0 +1,169 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1714823556
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "unimajo55",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_tmnz6vgox",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1714693947,
+    "created_utc": 1714693947,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1ciumbb",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#ff66ac",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Serious replies only "
+        },
+        {
+            "a": ":closed-ai:",
+            "e": "emoji",
+            "u": "https://emoji.redditmedia.com/kiux00uuphia1_t5_7hqomg/closed-ai"
+        }
+    ],
+    "link_flair_template_id": "c660b6fa-7be9-11ed-974b-1eca573371bf",
+    "link_flair_text": "Serious replies only :closed-ai:",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1ciumbb",
+    "no_follow": true,
+    "num_comments": 3,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1ciumbb/why_chatgpt_cant_read_my_file/",
+    "pinned": false,
+    "post_hint": "self",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "7coCTghHEWXd_E20yByam7-szj590l-odUU2a2jEA6A",
+                "resolutions": [
+                    {
+                        "height": 56,
+                        "url": "https://external-preview.redd.it/7kwYK23Ntmucg8a49izSWW472GiEH5RCb80DxocWohA.jpg?width=108&crop=smart&auto=webp&s=8fe589a3b127ab4741798a95b2cfeedb431c99a2",
+                        "width": 108
+                    },
+                    {
+                        "height": 113,
+                        "url": "https://external-preview.redd.it/7kwYK23Ntmucg8a49izSWW472GiEH5RCb80DxocWohA.jpg?width=216&crop=smart&auto=webp&s=d327984ef734a06b8b7083155cb2a5e6f4988cea",
+                        "width": 216
+                    },
+                    {
+                        "height": 168,
+                        "url": "https://external-preview.redd.it/7kwYK23Ntmucg8a49izSWW472GiEH5RCb80DxocWohA.jpg?width=320&crop=smart&auto=webp&s=ed91288e0a120932c62b9dcac9888e4b8d60fc41",
+                        "width": 320
+                    },
+                    {
+                        "height": 336,
+                        "url": "https://external-preview.redd.it/7kwYK23Ntmucg8a49izSWW472GiEH5RCb80DxocWohA.jpg?width=640&crop=smart&auto=webp&s=039eb7244d5274980b57902c5f2f66169112b7b3",
+                        "width": 640
+                    },
+                    {
+                        "height": 504,
+                        "url": "https://external-preview.redd.it/7kwYK23Ntmucg8a49izSWW472GiEH5RCb80DxocWohA.jpg?width=960&crop=smart&auto=webp&s=06188639371ce998d00abcf8e0f02e027d50e911",
+                        "width": 960
+                    },
+                    {
+                        "height": 567,
+                        "url": "https://external-preview.redd.it/7kwYK23Ntmucg8a49izSWW472GiEH5RCb80DxocWohA.jpg?width=1080&crop=smart&auto=webp&s=89cd6ab000fd53b03d37efd22724165ed2339fe0",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 630,
+                    "url": "https://external-preview.redd.it/7kwYK23Ntmucg8a49izSWW472GiEH5RCb80DxocWohA.jpg?auto=webp&s=9eccf5db3e712b18a3e4dbc1f97c5f58ceaaeb6f",
+                    "width": 1200
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1714693963,
+    "saved": false,
+    "score": 2,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "Hello,\n\nI'm trying to get chatgpt to analyze an excel for my master's thesis, I just want it to find a number and it can't. This information tells me: \"It seems that we are experiencing an ongoing technical difficulty when trying to access and process the CSV file. This problem may be related to the tool or to some particularity of the file that is not being interpreted well by the system. At this point, I suggest checking the file directly on your computer or converting the file to a simpler format like CSV to try again. If there's anything else I can help with or another approach you'd like to try, I'm happy to continue trying to help. it.\" I've already tried it in excel and csv and I don't understand why it doesn't work.  \nI leave the link with a sample of the data, otherwise I can do this I will have to analyze 1000 reviews one by one: [https://docs.google.com/spreadsheets/d/1hcSVbb1fTYYTTjfilgXUN8WOjtqqvJuuHMH28eF9LXw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1hcSVbb1fTYYTTjfilgXUN8WOjtqqvJuuHMH28eF9LXw/edit?usp=sharing)",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5296609,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "self",
+    "thumbnail_height": null,
+    "thumbnail_width": null,
+    "title": "Why ChatGPT can't read my file?",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 2,
+    "upvote_ratio": 0.75,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1ciumbb/why_chatgpt_cant_read_my_file/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

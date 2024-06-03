@@ -1,0 +1,210 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1715320664
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "Fantastic_Cup_6833",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_bc36uwo5s",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1715191057,
+    "created_utc": 1715191057,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1cnay1h",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#ff66ac",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Serious replies only "
+        },
+        {
+            "a": ":closed-ai:",
+            "e": "emoji",
+            "u": "https://emoji.redditmedia.com/kiux00uuphia1_t5_7hqomg/closed-ai"
+        }
+    ],
+    "link_flair_template_id": "c660b6fa-7be9-11ed-974b-1eca573371bf",
+    "link_flair_text": "Serious replies only :closed-ai:",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "5g75buxhr8zc1": {
+            "e": "Image",
+            "id": "5g75buxhr8zc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/5g75buxhr8zc1.png?width=108&crop=smart&auto=webp&s=72216f818d3179f3e5adcc7b88293be0d81991a9",
+                    "x": 108,
+                    "y": 55
+                },
+                {
+                    "u": "https://preview.redd.it/5g75buxhr8zc1.png?width=216&crop=smart&auto=webp&s=cdf525e8c49a44da4febeca04f622f35b088ac36",
+                    "x": 216,
+                    "y": 111
+                },
+                {
+                    "u": "https://preview.redd.it/5g75buxhr8zc1.png?width=320&crop=smart&auto=webp&s=f3aa3b3817f827bffc852dbc3620b6636253d041",
+                    "x": 320,
+                    "y": 165
+                },
+                {
+                    "u": "https://preview.redd.it/5g75buxhr8zc1.png?width=640&crop=smart&auto=webp&s=932561f242f5e5e688d8a832c3fd86849df7e628",
+                    "x": 640,
+                    "y": 330
+                },
+                {
+                    "u": "https://preview.redd.it/5g75buxhr8zc1.png?width=960&crop=smart&auto=webp&s=c061cd23542b11f584a9c01391fd38e829859577",
+                    "x": 960,
+                    "y": 495
+                },
+                {
+                    "u": "https://preview.redd.it/5g75buxhr8zc1.png?width=1080&crop=smart&auto=webp&s=f1b836d0f2fa8331dac898ad008cc46a75ad48f9",
+                    "x": 1080,
+                    "y": 557
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/5g75buxhr8zc1.png?width=1121&format=png&auto=webp&s=8109281633b0d3d306cf353a7188a1ffd176e4df",
+                "x": 1121,
+                "y": 579
+            },
+            "status": "valid"
+        },
+        "dvdpwb4hr8zc1": {
+            "e": "Image",
+            "id": "dvdpwb4hr8zc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/dvdpwb4hr8zc1.png?width=108&crop=smart&auto=webp&s=930a22fa965d3be12bb6c46509556e3423a9f3de",
+                    "x": 108,
+                    "y": 37
+                },
+                {
+                    "u": "https://preview.redd.it/dvdpwb4hr8zc1.png?width=216&crop=smart&auto=webp&s=5729f8b56b72380ee5741039624f111484a3ef71",
+                    "x": 216,
+                    "y": 74
+                },
+                {
+                    "u": "https://preview.redd.it/dvdpwb4hr8zc1.png?width=320&crop=smart&auto=webp&s=a4c43456d26816d91d156b324611f23ef315d154",
+                    "x": 320,
+                    "y": 110
+                },
+                {
+                    "u": "https://preview.redd.it/dvdpwb4hr8zc1.png?width=640&crop=smart&auto=webp&s=aaef5740c985561721f987a48affde6d3ada54ce",
+                    "x": 640,
+                    "y": 220
+                },
+                {
+                    "u": "https://preview.redd.it/dvdpwb4hr8zc1.png?width=960&crop=smart&auto=webp&s=2117201cfb9896c7c00f1719ebd993b4912b010d",
+                    "x": 960,
+                    "y": 330
+                },
+                {
+                    "u": "https://preview.redd.it/dvdpwb4hr8zc1.png?width=1080&crop=smart&auto=webp&s=164a2de98970509db06aafc9985c7a858acf93f8",
+                    "x": 1080,
+                    "y": 371
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/dvdpwb4hr8zc1.png?width=1203&format=png&auto=webp&s=de108ada5f85e0e8048122df6f319dcde0cc9f6a",
+                "x": 1203,
+                "y": 414
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1cnay1h",
+    "no_follow": true,
+    "num_comments": 5,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1cnay1h/chatgpt_cant_follow_a_simple_instruction_using/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1715191170,
+    "saved": false,
+    "score": 2,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "Hi all! So I'm a writer and I like using ChatGPT to finish my passages to get any ideas or to finish something that I'm having a hard time. However, what I hate the most is its consistent use of antithesis. I have asked it repeatedly, over and over, to stop using antithesis. This is in its memory:\n\nhttps://preview.redd.it/dvdpwb4hr8zc1.png?width=1203&format=png&auto=webp&s=de108ada5f85e0e8048122df6f319dcde0cc9f6a\n\nAnd then... I get this.\n\nhttps://preview.redd.it/5g75buxhr8zc1.png?width=1121&format=png&auto=webp&s=8109281633b0d3d306cf353a7188a1ffd176e4df\n\nIt won't follow a simple instruction. It literally won't. Not using an antithesis in its memory alongside custom instructions. Is there something I can do to make it stop?  \n",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5366587,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/AmLkkR7OjsE5VaTwZHW2a9FmaByjKQwdh5y2BRqy_HM.jpg",
+    "thumbnail_height": 48,
+    "thumbnail_width": 140,
+    "title": "ChatGPT can't follow a simple instruction using both memory + custom instructions",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 2,
+    "upvote_ratio": 0.6700000166893005,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1cnay1h/chatgpt_cant_follow_a_simple_instruction_using/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

@@ -1,0 +1,212 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1715849261
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "Inspireyd",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_w7g7u4eu",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1715719654,
+    "created_utc": 1715719654,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "reddit.com",
+    "downs": 0,
+    "edited": false,
+    "gallery_data": {
+        "items": [
+            {
+                "caption": "",
+                "id": 453607795,
+                "media_id": "oknexzkefg0d1",
+                "outbound_url": ""
+            },
+            {
+                "caption": "",
+                "id": 453607796,
+                "media_id": "dahjqvqefg0d1",
+                "outbound_url": ""
+            }
+        ]
+    },
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1cs2r9i",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_gallery": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#94e044",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Other "
+        }
+    ],
+    "link_flair_template_id": "b4536a20-7be9-11ed-9a10-deed22fd00f8",
+    "link_flair_text": "Other ",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "dahjqvqefg0d1": {
+            "e": "Image",
+            "id": "dahjqvqefg0d1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/dahjqvqefg0d1.jpg?width=108&crop=smart&auto=webp&s=9844033a59a6ed5bf96d80494966ec47275be4b2",
+                    "x": 108,
+                    "y": 174
+                },
+                {
+                    "u": "https://preview.redd.it/dahjqvqefg0d1.jpg?width=216&crop=smart&auto=webp&s=b6731964aec245ef73c438d3e1ceb5c7c21eff9d",
+                    "x": 216,
+                    "y": 349
+                },
+                {
+                    "u": "https://preview.redd.it/dahjqvqefg0d1.jpg?width=320&crop=smart&auto=webp&s=1df17dd08565c74245535b32f39f7ebd3b009611",
+                    "x": 320,
+                    "y": 517
+                },
+                {
+                    "u": "https://preview.redd.it/dahjqvqefg0d1.jpg?width=640&crop=smart&auto=webp&s=1dcd5c4dd9e1677aa5e7e1ab865648eac316f0c9",
+                    "x": 640,
+                    "y": 1035
+                },
+                {
+                    "u": "https://preview.redd.it/dahjqvqefg0d1.jpg?width=960&crop=smart&auto=webp&s=e9670a255236fcb23d4ae0f8ba4d517ba8cdee9f",
+                    "x": 960,
+                    "y": 1553
+                },
+                {
+                    "u": "https://preview.redd.it/dahjqvqefg0d1.jpg?width=1080&crop=smart&auto=webp&s=d1afdce0129a4af4a06843fa5fa68afab62a9b54",
+                    "x": 1080,
+                    "y": 1748
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/dahjqvqefg0d1.jpg?width=1080&format=pjpg&auto=webp&s=d6512847046aca8de16bfff9a2789c5ed24bf2a5",
+                "x": 1080,
+                "y": 1748
+            },
+            "status": "valid"
+        },
+        "oknexzkefg0d1": {
+            "e": "Image",
+            "id": "oknexzkefg0d1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/oknexzkefg0d1.jpg?width=108&crop=smart&auto=webp&s=51761db672ab8de7a84b190cb51a775c05820a5e",
+                    "x": 108,
+                    "y": 216
+                },
+                {
+                    "u": "https://preview.redd.it/oknexzkefg0d1.jpg?width=216&crop=smart&auto=webp&s=003660dc7ebfa3cbcafa79e894751e3de315a10b",
+                    "x": 216,
+                    "y": 432
+                },
+                {
+                    "u": "https://preview.redd.it/oknexzkefg0d1.jpg?width=320&crop=smart&auto=webp&s=c1be7d073c1521bdb9bd5107dddc6abd6ff38eda",
+                    "x": 320,
+                    "y": 640
+                },
+                {
+                    "u": "https://preview.redd.it/oknexzkefg0d1.jpg?width=640&crop=smart&auto=webp&s=972d5703989cda7eedfd2c6824d7302f1b1f7ebf",
+                    "x": 640,
+                    "y": 1280
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/oknexzkefg0d1.jpg?width=785&format=pjpg&auto=webp&s=9c85f48f59135eda0aec6e78e307495982d6ba34",
+                "x": 785,
+                "y": 1781
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1cs2r9i",
+    "no_follow": true,
+    "num_comments": 1,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1cs2r9i/im_still_surprising_myself_with_gpt4o/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1715719668,
+    "saved": false,
+    "score": 4,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "GPT-4o is truly impressive. Earlier today, I saw a post related to a military theme, where it seemed that Russia had captured the Patriot system and donated it to China, most likely for reverse engineering. Someone took a photo of it in China, claimed it was a Patriot, and posted it on Twitter. I took a screenshot of the photo and submitted it to GPT-4o, and it confirmed that it was indeed a Patriot.\n\nThis got me intrigued and excited. Then, I downloaded two photos of the Chinese HQ-9 anti-aircraft system and a screenshot of a Chinese destroyer that I didn't even recognize. I submitted them to GPT-4o and asked for details, characteristics, and origin. Amazingly, it was able to accurately identify them. For both photos, it correctly identified them as HQ-9 (even though they had different colors, which wasn't an issue). For the ship, it informed me that it was a Type 055 destroyer known as \"Nanchang,\" and when I researched it, it indeed was the Nanchang ship.\n\nThis is simply incredible because I had asked for similar things before (GPT-4 Turbo), but it couldn't identify them with such precision and richness in detail. Today, with GPT-4o, I got information about the weight, class, propulsion system, and many other details. It's very impressive.\n\nNote 1: I chose Chinese military vehicles because they are not as famous as the American ones, which, in my opinion, would be more challenging for GPT-4o to get right.\n\nNote 2: If anyone wants a screenshot, feel free to ask. I didn't post them because the text is in Portuguese, my native language, and here everyone speaks English.",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5452930,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://a.thumbs.redditmedia.com/6DugFMzwWYS4vUybTi4vozgAt7GmMEkMDEYzZ5Xh1e8.jpg",
+    "thumbnail_height": 140,
+    "thumbnail_width": 140,
+    "title": "I'm still surprising myself with GPT-4o",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 4,
+    "upvote_ratio": 0.8299999833106995,
+    "url": "https://www.reddit.com/gallery/1cs2r9i",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

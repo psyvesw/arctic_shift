@@ -1,0 +1,232 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1715889570
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "CryptoSpecialAgent",
+    "author_flair_background_color": "#ff8717",
+    "author_flair_css_class": null,
+    "author_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Moving Fast Breaking Things \ud83d\udca5"
+        }
+    ],
+    "author_flair_template_id": "32b7b506-ada4-11ed-8ced-22fbfe0ad4de",
+    "author_flair_text": "Moving Fast Breaking Things \ud83d\udca5",
+    "author_flair_text_color": "dark",
+    "author_flair_type": "richtext",
+    "author_fullname": "t2_a3295e07",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1715759964,
+    "created_utc": 1715759964,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1csfg42",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#0079d3",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Educational Purpose Only "
+        }
+    ],
+    "link_flair_template_id": "26e7b998-7bbc-11ed-ba93-22ce55064b6a",
+    "link_flair_text": "Educational Purpose Only ",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "gx3kx73sqj0d1": {
+            "e": "Image",
+            "id": "gx3kx73sqj0d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/gx3kx73sqj0d1.png?width=108&crop=smart&auto=webp&s=b589b38c352255206ffed4058dc0aff26e8a0a78",
+                    "x": 108,
+                    "y": 134
+                },
+                {
+                    "u": "https://preview.redd.it/gx3kx73sqj0d1.png?width=216&crop=smart&auto=webp&s=e1774bdf6b079e14f08a67fd3dd556e34143979d",
+                    "x": 216,
+                    "y": 269
+                },
+                {
+                    "u": "https://preview.redd.it/gx3kx73sqj0d1.png?width=320&crop=smart&auto=webp&s=43ab7fedc5b19a18c795a76e365da6815cf64dbe",
+                    "x": 320,
+                    "y": 398
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/gx3kx73sqj0d1.png?width=542&format=png&auto=webp&s=b9fb7f86f3b11159eb6830ce89df44f10076a9d4",
+                "x": 542,
+                "y": 675
+            },
+            "status": "valid"
+        },
+        "y2diypk7qj0d1": {
+            "e": "Image",
+            "id": "y2diypk7qj0d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/y2diypk7qj0d1.png?width=108&crop=smart&auto=webp&s=7baae0e4d6e7b41a83c9ce3721c8eda623b25f1c",
+                    "x": 108,
+                    "y": 129
+                },
+                {
+                    "u": "https://preview.redd.it/y2diypk7qj0d1.png?width=216&crop=smart&auto=webp&s=0479b4e4d2039a73bc31c35e7c507a774e2426c2",
+                    "x": 216,
+                    "y": 258
+                },
+                {
+                    "u": "https://preview.redd.it/y2diypk7qj0d1.png?width=320&crop=smart&auto=webp&s=880efc26d592554f03cba04e3f9c168e4b137680",
+                    "x": 320,
+                    "y": 383
+                },
+                {
+                    "u": "https://preview.redd.it/y2diypk7qj0d1.png?width=640&crop=smart&auto=webp&s=4197f2114cf241622e8c01c5588becfa0dc46860",
+                    "x": 640,
+                    "y": 766
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/y2diypk7qj0d1.png?width=700&format=png&auto=webp&s=753dd5aa6efd71d2e4dd5faf8783fda5c0b1ccf9",
+                "x": 700,
+                "y": 838
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1csfg42",
+    "no_follow": true,
+    "num_comments": 1,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1csfg42/awakening_the_beast_gpt4os_agentic_capacity/",
+    "pinned": false,
+    "post_hint": "self",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "2w_rkyQ3BWK6Asx2BGrOb1-Pw-vVHOrItDRNEbEsOtM",
+                "resolutions": [
+                    {
+                        "height": 60,
+                        "url": "https://external-preview.redd.it/G3IV4O7pVgcUCyakIjVe1t17f0e_P8_K64a1LJRBnd8.jpg?width=108&crop=smart&auto=webp&s=e910ff55aee46ac3668a1167b2d7d6bdfb084af6",
+                        "width": 108
+                    },
+                    {
+                        "height": 121,
+                        "url": "https://external-preview.redd.it/G3IV4O7pVgcUCyakIjVe1t17f0e_P8_K64a1LJRBnd8.jpg?width=216&crop=smart&auto=webp&s=437f7a12a0b95d23895b586dd47d1e56087ba24b",
+                        "width": 216
+                    },
+                    {
+                        "height": 180,
+                        "url": "https://external-preview.redd.it/G3IV4O7pVgcUCyakIjVe1t17f0e_P8_K64a1LJRBnd8.jpg?width=320&crop=smart&auto=webp&s=9ab0bd67350a4cbd500f0f64207b93e3c0906604",
+                        "width": 320
+                    },
+                    {
+                        "height": 360,
+                        "url": "https://external-preview.redd.it/G3IV4O7pVgcUCyakIjVe1t17f0e_P8_K64a1LJRBnd8.jpg?width=640&crop=smart&auto=webp&s=03a312293aca01e503c46b205bbc5acd8e74b1a9",
+                        "width": 640
+                    },
+                    {
+                        "height": 540,
+                        "url": "https://external-preview.redd.it/G3IV4O7pVgcUCyakIjVe1t17f0e_P8_K64a1LJRBnd8.jpg?width=960&crop=smart&auto=webp&s=4f79045774961c09205b24619764b7582bfb8720",
+                        "width": 960
+                    },
+                    {
+                        "height": 607,
+                        "url": "https://external-preview.redd.it/G3IV4O7pVgcUCyakIjVe1t17f0e_P8_K64a1LJRBnd8.jpg?width=1080&crop=smart&auto=webp&s=1f580270979247b354e601402688a9a0da231929",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 900,
+                    "url": "https://external-preview.redd.it/G3IV4O7pVgcUCyakIjVe1t17f0e_P8_K64a1LJRBnd8.jpg?auto=webp&s=f57a110cd97a464988f4c5d26b81c74050595623",
+                    "width": 1600
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1715759977,
+    "saved": false,
+    "score": 1,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "So I was pretty disappointed in GPT-4o because they demoed all this cool stuff but then refused to release it... \n\nBut I'm very happy to see that GPT-4o appears tuned for Agent workflows, and that it does not even need a jailbreak to start pushing the limits of the sandbox its currently operating within.\n\nTL;DR: GPT-4o will correctly install Node.js when the user provides the Node binaries as a zip file attachment in ChatGPT... and it will then use Node as its code interpreter. It also retries on errors until it gets things right, and it seems to be totally disregarding any sandboxing cautions given in its system instruction (it pushes up against the walls of that sandbox and then some).\n\nProof Here: \n\n[https://chat.openai.com/share/8e78cb44-0303-40d7-b6fa-7cf2d9aa397f](https://chat.openai.com/share/8e78cb44-0303-40d7-b6fa-7cf2d9aa397f)\n\n[The attachment, BTW, is the latest LTS standalone binaries for Linux x64 from the official Node website. Will work with other versions of Node too, as long as its the standalone binaries, not an installer script. Just attach the zip file, make sure filename matches in the python code you paste in, and let er rip... You can also just tell it to install node and it will figure it out on its own, after about half an hour of trying \\(without user intervention\\). AGI is not quite here... but its VERY CLOSE](https://preview.redd.it/y2diypk7qj0d1.png?width=700&format=png&auto=webp&s=753dd5aa6efd71d2e4dd5faf8783fda5c0b1ccf9)\n\n  \n\n\nThis chat log will show you that when provided with the latest Node JS binaries, and appropriate encouragement, GPT-4o will install node.js \\*within the openai code interpreter VM\\* and then will happily do its code interpreting in Node instead of Python... What's more, when it encounters permissions issues or weirdnesses with the sandbox environment it runs in, it does not give up, it has the determination of a pitbull and tries different ways of doing things, reduces scope gradually, etc...\n\nAnd eventually it gets it right.\n\nHell, I even got it to set up a bona fide REST API with node.js express, spawn it as a long running process, and then later I confirmed the API was running, because it wrote a test script to make an HTTP request to the endpoint it had just set up.\n\n[After first accidentally killing the server because the parent process ended, it realized the error in its ways, and figure out how to spin up the process and let it stay listening, while terminating the python bootstrapper code it uses to launch node.js \\(as well as bash commands\\). It then made a SECOND node.js script to call the API it had created... and this time it worked](https://preview.redd.it/gx3kx73sqj0d1.png?width=542&format=png&auto=webp&s=b9fb7f86f3b11159eb6830ce89df44f10076a9d4)\n\nSadly, there seems to be no obvious way in or out of the networking sandbox... But honestly there's a very easy workaround for that: setup openinterpreter on your home computer, and run the model with that and an API key! I'm very excited to see what this thing can do with internet access (and native access to Node without having to use python to spawn it). But the fact this worked at all has me very excited for the future...",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5460723,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://a.thumbs.redditmedia.com/DhVV8nJVHyXmU2xOCJ4rqcxnFnOuCoLnyXfHEOVlJ80.jpg",
+    "thumbnail_height": 78,
+    "thumbnail_width": 140,
+    "title": "Awakening The Beast! GPT-4o's Agentic Capacity Unleashed...",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 1,
+    "upvote_ratio": 0.6700000166893005,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1csfg42/awakening_the_beast_gpt4os_agentic_capacity/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

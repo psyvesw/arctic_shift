@@ -1,0 +1,181 @@
+{
+    "_meta": {
+        "is_edited": true,
+        "retrieved_2nd_on": 1713834759
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "LesleyFair",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_az3v2qdw",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1713705150,
+    "created_utc": 1713705150,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1c9hkkv",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#0079d3",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Educational Purpose Only "
+        }
+    ],
+    "link_flair_template_id": "26e7b998-7bbc-11ed-ba93-22ce55064b6a",
+    "link_flair_text": "Educational Purpose Only ",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "7758ndmu0uvc1": {
+            "e": "Image",
+            "id": "7758ndmu0uvc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/7758ndmu0uvc1.png?width=108&crop=smart&auto=webp&s=379a63fccb3a62ff9bcf95fecde10c252452aa6d",
+                    "x": 108,
+                    "y": 92
+                },
+                {
+                    "u": "https://preview.redd.it/7758ndmu0uvc1.png?width=216&crop=smart&auto=webp&s=dfb152cd2ad83c876dd00370529d3bee91dcbc64",
+                    "x": 216,
+                    "y": 184
+                },
+                {
+                    "u": "https://preview.redd.it/7758ndmu0uvc1.png?width=320&crop=smart&auto=webp&s=0a7b2c97eb0494e10093e221f617daa7653fc257",
+                    "x": 320,
+                    "y": 273
+                },
+                {
+                    "u": "https://preview.redd.it/7758ndmu0uvc1.png?width=640&crop=smart&auto=webp&s=7c21df47bce14ab80b3e09d74a71e8602a69dc24",
+                    "x": 640,
+                    "y": 547
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/7758ndmu0uvc1.png?width=914&format=png&auto=webp&s=90d535b9def30f528f51cdff8a0f3faef9a2c7b6",
+                "x": 914,
+                "y": 782
+            },
+            "status": "valid"
+        },
+        "frip8p1t0uvc1": {
+            "e": "Image",
+            "id": "frip8p1t0uvc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/frip8p1t0uvc1.png?width=108&crop=smart&auto=webp&s=30ad94f02aea0b8fe777eadc83c00059a396e167",
+                    "x": 108,
+                    "y": 48
+                },
+                {
+                    "u": "https://preview.redd.it/frip8p1t0uvc1.png?width=216&crop=smart&auto=webp&s=70a46cbafcb99df670ed4993aa9bfc4fa95abe55",
+                    "x": 216,
+                    "y": 97
+                },
+                {
+                    "u": "https://preview.redd.it/frip8p1t0uvc1.png?width=320&crop=smart&auto=webp&s=0a8aaa7c916e6f2be092016d567908490412aa60",
+                    "x": 320,
+                    "y": 144
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/frip8p1t0uvc1.png?width=588&format=png&auto=webp&s=1637c0e6cdad0c9d587f356c8639e3dc625a61cf",
+                "x": 588,
+                "y": 266
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1c9hkkv",
+    "no_follow": true,
+    "num_comments": 2,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1c9hkkv/improve_reasoning_in_llms_and_reduce_errors_by_10/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1713705170,
+    "saved": false,
+    "score": 2,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "Some questions are easier than others.\n\nhttps://preview.redd.it/frip8p1t0uvc1.png?width=588&format=png&auto=webp&s=1637c0e6cdad0c9d587f356c8639e3dc625a61cf\n\nWhat color is the sky when the sun is out?\n\nThis does not require us to do a whole lot of thinking. It\u2019s trivial to us. The same goes for an LLM.\n\nIt can simply output the answer.\n\nHowever, asking a question such as \u201cWhat color is the sky across the hours of the day?\u201d is much harder.\n\nThe color will change depending on the weather, the time of day, humidity, and a gazillion other factors. If a human would try to answer this question, she would break the reasoning up into multiple steps.\n\nFor example:\n\n* How does the color of the sky change when the angle of the sun changes relative to the Earth?\n* How does humidity influence this change?\n* \u2026\n\nThen, a human would try to draw upon physical principles to explain each of these effects. Lastly, she would draw general conclusions based on these principles before working herself across different levels of abstraction to come up with a satisfactory answer.\n\nBoom.\n\n\u201cThe sky goes from blue to red to black, whereas the red is more pronounced on humid days.\u201d\n\nThis multi-step reasoning is one of the hardest challenges for LLMs to date.\n\nMost of the errors a model makes on benchmarks happen during this kind of reasoning. Different methods, such as chain-of-though prompting have been used to improve these shortcomings.\n\nIn a [*recent paper*](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2FyeGl2Lm9yZy9wZGYvMjMxMC4wNjExNy5wZGY_dXRtX3NvdXJjZT13d3cudGhlZGVjb2RpbmcubmV0JnV0bV9tZWRpdW09cmVmZXJyYWwmdXRtX2NhbXBhaWduPWEtc2ltcGxlLXRyaWNrLXRoYXQtaW1wcm92ZXMtcmVhc29uaW5nLWluLWxsbXMiLCJwb3N0X2lkIjoiMjkzMTJmZWItN2MyOC00N2VmLWI1OGEtMjhmOTM4YjI4MjEyIiwicHVibGljYXRpb25faWQiOiIwMWEzNmYyMC00Y2I5LTQ0ZDAtOTU5MS1lMmM2OWViM2M5NzciLCJ2aXNpdF90b2tlbiI6IjVlMGUyNTU4LTY1ZDItNGZhNS05YWZmLTVhOGVhY2M4MTgxOCIsImlhdCI6MTcxMzcwNDg0OCwiaXNzIjoib3JjaGlkIn0.Tx4mRTMydj-Yx953aLdYjguZG15N7LRddrnUQbp4FXY), researchers from Google DeepMind proposed to ask so-called step-back questions to improve the model\u2019s reasoning abilities.\n\nIn the following, we will look at how this works and see how we can use it to improve our workflows.\n\nLet\u2019s start at the beginning! \n\n## What Is A Step-Back Question?\n\nThe authors define a step-back question as a question at a higher level of abstraction that is derived from the original question.\n\nLet\u2019s say we want a model to answer our sky-color question from above. A step-back question would ask the model to provide us with a list of all possible colors the sky can have.\n\nSo far so simple.\n\nBut why is this helpful?\n\nThe authors argue that step-back questions work because it is typically much easier to answer them first to obtain helpful abstractions. Grounding a final answer in these abstractions helps to avoid reasoning errors in intermediate steps.\n\nHere is how the authors suggest implementing this strategy.\n\n## How To Do Step-Back Prompting\n\nIn the paper, the authors suggest to perform two distinct steps:\n\n1. **Abstraction**: The model is prompted to ask a generic step-back question about the concepts that underlie the original question., such as: \u201cWhat are the physics principles involved in solving this problem?\u201d\n2. **Reasoning**: In this second step, the model is asked the original question. In doing so, it is provided with the output of the step-back prompt. The authors term this step Abstraction-grounded Reasoning because the model can reason about the solution using information about the high-level concept or principle.\n\nBefore we wrap up, I would like to emphasize another neat aspect of the paper.\n\n## Categorizing Errors In Step-Back Results\n\nComparing the results from step-back prompting against the baseline of using the PaLM-2L model shows that the method corrects 20.5% of errors while introducing 11.9% of new ones.\n\nSo, a net positive of 10%.\n\nTo further understand what types of errors were made by the model, the false outputs are annotated. This split the errors into five different classes.\n\n[Error Types And Shares](https://preview.redd.it/7758ndmu0uvc1.png?width=914&format=png&auto=webp&s=90d535b9def30f528f51cdff8a0f3faef9a2c7b6)\n\nFour of the five error types happen during the reasoning step.\n\nCombined, they make up over 90% of all errors made by the model. Less than 10% of errors are caused by the model creating the wrong abstractions (Principle Error) during step-back prompting.\n\nSo, reasoning remains the bottleneck.\n\nI would have liked to see a comparison of the error distribution with and without step-back prompting. However, a net reduction in errors of 10% is still great for such a simple method.\n\nI dearly hope this gave you some food for thought. Go ahead and check out the original paper. It\u2019s a fun read.\n\nLots of love and see you next time!",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5162125,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/L08GZ1R5IE-FJbUK6yv7-R3fO42HNsGjaznawwFEw1M.jpg",
+    "thumbnail_height": 63,
+    "thumbnail_width": 140,
+    "title": "Improve Reasoning In LLMs And Reduce Errors By 10% Using This Prompting Trick",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 2,
+    "upvote_ratio": 0.5699999928474426,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1c9hkkv/improve_reasoning_in_llms_and_reduce_errors_by_10/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

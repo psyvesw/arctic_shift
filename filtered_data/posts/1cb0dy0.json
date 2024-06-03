@@ -1,0 +1,214 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1713994622
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "lovesumornah",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_hmw1c91d",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1713865013,
+    "created_utc": 1713865013,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1cb0dy0",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#ff66ac",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Serious replies only "
+        },
+        {
+            "a": ":closed-ai:",
+            "e": "emoji",
+            "u": "https://emoji.redditmedia.com/kiux00uuphia1_t5_7hqomg/closed-ai"
+        }
+    ],
+    "link_flair_template_id": "c660b6fa-7be9-11ed-974b-1eca573371bf",
+    "link_flair_text": "Serious replies only :closed-ai:",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "px4ech8d87wc1": {
+            "e": "Image",
+            "id": "px4ech8d87wc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/px4ech8d87wc1.png?width=108&crop=smart&auto=webp&s=2bcb0039c1eed858cf5477661b09831f982c7283",
+                    "x": 108,
+                    "y": 19
+                },
+                {
+                    "u": "https://preview.redd.it/px4ech8d87wc1.png?width=216&crop=smart&auto=webp&s=f9621e555f3a8e49b8624419f680094d7b162417",
+                    "x": 216,
+                    "y": 39
+                },
+                {
+                    "u": "https://preview.redd.it/px4ech8d87wc1.png?width=320&crop=smart&auto=webp&s=3838498d59f6b996db9c0bdefc2fe5a79930cec3",
+                    "x": 320,
+                    "y": 57
+                },
+                {
+                    "u": "https://preview.redd.it/px4ech8d87wc1.png?width=640&crop=smart&auto=webp&s=8139df1fc87b431459f440012c6568f85debf530",
+                    "x": 640,
+                    "y": 115
+                },
+                {
+                    "u": "https://preview.redd.it/px4ech8d87wc1.png?width=960&crop=smart&auto=webp&s=6655599a4e8b0f975fbf1bf6550ce28f8fb95d8b",
+                    "x": 960,
+                    "y": 173
+                },
+                {
+                    "u": "https://preview.redd.it/px4ech8d87wc1.png?width=1080&crop=smart&auto=webp&s=be3b913b5e93b047db6370625ca629c4a28661ff",
+                    "x": 1080,
+                    "y": 195
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/px4ech8d87wc1.png?width=2054&format=png&auto=webp&s=8e8c58b8b342cb270d5fa478654c30ab5167940e",
+                "x": 2054,
+                "y": 372
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1cb0dy0",
+    "no_follow": false,
+    "num_comments": 3,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1cb0dy0/goatai_help_for_a_mac_user/",
+    "pinned": false,
+    "post_hint": "self",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "7hkaywErsLukIAizZh4wqSQJm4IXH3OwSROYI_fbJik",
+                "resolutions": [
+                    {
+                        "height": 60,
+                        "url": "https://external-preview.redd.it/KeULiLsVKBRKEiTzUtHZhHrZPVoCpD3VSlXUlEcqszw.jpg?width=108&crop=smart&auto=webp&s=5ec0e0ed60a0b2305eb3749f476a2a6cccdf25ab",
+                        "width": 108
+                    },
+                    {
+                        "height": 121,
+                        "url": "https://external-preview.redd.it/KeULiLsVKBRKEiTzUtHZhHrZPVoCpD3VSlXUlEcqszw.jpg?width=216&crop=smart&auto=webp&s=347096123334935784ff324592bdf3837ed0aec0",
+                        "width": 216
+                    },
+                    {
+                        "height": 180,
+                        "url": "https://external-preview.redd.it/KeULiLsVKBRKEiTzUtHZhHrZPVoCpD3VSlXUlEcqszw.jpg?width=320&crop=smart&auto=webp&s=65e14bb2c0429c2c2b25143be6c8fcd483154c85",
+                        "width": 320
+                    },
+                    {
+                        "height": 360,
+                        "url": "https://external-preview.redd.it/KeULiLsVKBRKEiTzUtHZhHrZPVoCpD3VSlXUlEcqszw.jpg?width=640&crop=smart&auto=webp&s=7cc4d06006fb75438b80c06c258f89b095ba1fd7",
+                        "width": 640
+                    },
+                    {
+                        "height": 540,
+                        "url": "https://external-preview.redd.it/KeULiLsVKBRKEiTzUtHZhHrZPVoCpD3VSlXUlEcqszw.jpg?width=960&crop=smart&auto=webp&s=7d013dc54fa73b7d644e382d85a663c84f42b049",
+                        "width": 960
+                    },
+                    {
+                        "height": 607,
+                        "url": "https://external-preview.redd.it/KeULiLsVKBRKEiTzUtHZhHrZPVoCpD3VSlXUlEcqszw.jpg?width=1080&crop=smart&auto=webp&s=82484fa0d232709e42201eb2c107245099f586ac",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 1080,
+                    "url": "https://external-preview.redd.it/KeULiLsVKBRKEiTzUtHZhHrZPVoCpD3VSlXUlEcqszw.jpg?auto=webp&s=0eac31d46b80f1227c640fea256a0d9fd5c4d75c",
+                    "width": 1920
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1713865040,
+    "saved": false,
+    "score": 0,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "So a year ago, I installed this app called [GOAT.AI](https://GOAT.AI) for storytelling (green icon with speech bubble) it worked fine. I wanted to save space for my other school applications, so I removed it. Now, I recently dowloaded it for Mac, an it isn't working, I type in a scenario, and it's \"stuck\", I tried re installing three times and downloading, it's still the same result, what do I do?\n\n&#x200B;\n\nhttps://preview.redd.it/px4ech8d87wc1.png?width=2054&format=png&auto=webp&s=8e8c58b8b342cb270d5fa478654c30ab5167940e",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5185980,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/heC1hQ66xSM9XjVE15hcKGHUDZ6V9YVTR3No0sHFbjM.jpg",
+    "thumbnail_height": 78,
+    "thumbnail_width": 140,
+    "title": "GOAT.AI help for a Mac user",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 0,
+    "upvote_ratio": 0.5,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1cb0dy0/goatai_help_for_a_mac_user/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

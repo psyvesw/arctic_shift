@@ -1,0 +1,119 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1715741983
+    },
+    "all_awardings": [],
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "associated_award": null,
+    "author": "RemoteWorkWarrior",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_78jzhrh8",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "body": "https://preview.redd.it/78gkt6r4k70d1.png?width=1600&format=png&auto=webp&s=d8f3fd2176dfb7ef05ce3d1c75450f76fd82d745\n\nIn case anyone is curious - heree's my drafted fix. It's still very preachy, still very ChatGPT-esque, but that's how we're bridging the gap. There's lot of other things I could do for Georgia but after spending so much time on it - and Stone mountain being a cool trip we went to as kids with school and as family without it registering until I was in my 30s the problems with it - that I kinda wanted to keep it for personal reasons. I know my nephews have all been there too, so they'll like it.",
+    "can_gild": false,
+    "can_mod_post": false,
+    "collapsed": false,
+    "collapsed_because_crowd_control": null,
+    "collapsed_reason": null,
+    "collapsed_reason_code": null,
+    "comment_type": null,
+    "controversiality": 0,
+    "created": 1715612374,
+    "created_utc": 1715612374,
+    "distinguished": null,
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "id": "l3uxe07",
+    "is_submitter": true,
+    "likes": null,
+    "link_id": "t3_1cqhq17",
+    "locked": false,
+    "media_metadata": {
+        "78gkt6r4k70d1": {
+            "e": "Image",
+            "id": "78gkt6r4k70d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/78gkt6r4k70d1.png?width=108&crop=smart&auto=webp&s=eade98f17ba8a099dd744245a1e3dac0b4f9270b",
+                    "x": 108,
+                    "y": 135
+                },
+                {
+                    "u": "https://preview.redd.it/78gkt6r4k70d1.png?width=216&crop=smart&auto=webp&s=94389e26752e7820dc11cb4c8da3f69c8b61df49",
+                    "x": 216,
+                    "y": 270
+                },
+                {
+                    "u": "https://preview.redd.it/78gkt6r4k70d1.png?width=320&crop=smart&auto=webp&s=ed473fa9691f1803c96bab0e182ea0829a2df5af",
+                    "x": 320,
+                    "y": 400
+                },
+                {
+                    "u": "https://preview.redd.it/78gkt6r4k70d1.png?width=640&crop=smart&auto=webp&s=da5657eafe16e9d5fc07470614e8db27274f4b09",
+                    "x": 640,
+                    "y": 800
+                },
+                {
+                    "u": "https://preview.redd.it/78gkt6r4k70d1.png?width=960&crop=smart&auto=webp&s=ca1960195824069ed399b8d059b0b017e4d8a8d7",
+                    "x": 960,
+                    "y": 1200
+                },
+                {
+                    "u": "https://preview.redd.it/78gkt6r4k70d1.png?width=1080&crop=smart&auto=webp&s=f30599219badec2080b7018d6dae2e0a999002e2",
+                    "x": 1080,
+                    "y": 1350
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/78gkt6r4k70d1.png?width=1600&format=png&auto=webp&s=d8f3fd2176dfb7ef05ce3d1c75450f76fd82d745",
+                "x": 1600,
+                "y": 2000
+            },
+            "status": "valid"
+        }
+    },
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t1_l3uxe07",
+    "no_follow": true,
+    "num_reports": null,
+    "parent_id": "t3_1cqhq17",
+    "permalink": "/r/ChatGPT/comments/1cqhq17/unfortunate_content_filter_use_case/l3uxe07/",
+    "removal_reason": null,
+    "replies": "",
+    "report_reasons": null,
+    "retrieved_on": 1715612391,
+    "saved": false,
+    "score": 1,
+    "score_hidden": false,
+    "send_replies": true,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_type": "public",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "unrepliable_reason": null,
+    "ups": 1,
+    "user_reports": []
+}

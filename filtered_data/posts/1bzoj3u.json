@@ -1,0 +1,171 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1712787287
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "Maxie445",
+    "author_flair_background_color": "",
+    "author_flair_css_class": null,
+    "author_flair_richtext": [
+        {
+            "a": ":Discord:",
+            "e": "emoji",
+            "u": "https://emoji.redditmedia.com/0zlhaela6zub1_t5_7hqomg/Discord"
+        }
+    ],
+    "author_flair_template_id": null,
+    "author_flair_text": ":Discord:",
+    "author_flair_text_color": "dark",
+    "author_flair_type": "richtext",
+    "author_fullname": "t2_rpv4m",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1712657674,
+    "created_utc": 1712657674,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "i.redd.it",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1bzoj3u",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": true,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#94e044",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "AI-Art"
+        }
+    ],
+    "link_flair_template_id": "657a4a52-614b-11ee-88b0-165b9450c7a6",
+    "link_flair_text": "AI-Art",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1bzoj3u",
+    "no_follow": false,
+    "num_comments": 1,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1bzoj3u/create_a_sign_with_a_message_on_it_that_says_what/",
+    "pinned": false,
+    "post_hint": "image",
+    "preview": {
+        "enabled": true,
+        "images": [
+            {
+                "id": "yruATEwu3rpivEEPrR3OMNS9iXiiJpF5NeDg9vwFDdU",
+                "resolutions": [
+                    {
+                        "height": 89,
+                        "url": "https://preview.redd.it/rj0edwjiiftc1.png?width=108&crop=smart&auto=webp&s=11639d33aa87b5d221d0f3079135c1d0ca2d23e1",
+                        "width": 108
+                    },
+                    {
+                        "height": 179,
+                        "url": "https://preview.redd.it/rj0edwjiiftc1.png?width=216&crop=smart&auto=webp&s=d7f8dc986a39c8412b67a35c612b95b072f2194b",
+                        "width": 216
+                    },
+                    {
+                        "height": 266,
+                        "url": "https://preview.redd.it/rj0edwjiiftc1.png?width=320&crop=smart&auto=webp&s=65ef25393ebf6ec309dc9fa14975ec9dff82bfc2",
+                        "width": 320
+                    },
+                    {
+                        "height": 532,
+                        "url": "https://preview.redd.it/rj0edwjiiftc1.png?width=640&crop=smart&auto=webp&s=76a00811cf4720bf392c49c96cda5fe4698bdddc",
+                        "width": 640
+                    },
+                    {
+                        "height": 798,
+                        "url": "https://preview.redd.it/rj0edwjiiftc1.png?width=960&crop=smart&auto=webp&s=9122bb4f544e9233799315491b86a1a75e63148e",
+                        "width": 960
+                    },
+                    {
+                        "height": 898,
+                        "url": "https://preview.redd.it/rj0edwjiiftc1.png?width=1080&crop=smart&auto=webp&s=b452e462f6925cdd74b13f81fe703f020be0c6c0",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 1874,
+                    "url": "https://preview.redd.it/rj0edwjiiftc1.png?auto=webp&s=4031caeadb3c46c51bed6b22d9e0fea5922a91bb",
+                    "width": 2252
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1712657688,
+    "saved": false,
+    "score": 1,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "",
+    "send_replies": false,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5016402,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/3QeB1FG57-ZBNAi7sNXPRfMZrN6coLBtuag95yKB6qM.jpg",
+    "thumbnail_height": 116,
+    "thumbnail_width": 140,
+    "title": "\"create a sign with a message on it that says what you would do if we shut down all AI research\"",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 1,
+    "upvote_ratio": 0.6000000238418579,
+    "url": "https://i.redd.it/rj0edwjiiftc1.png",
+    "url_overridden_by_dest": "https://i.redd.it/rj0edwjiiftc1.png",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

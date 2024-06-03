@@ -1,0 +1,119 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1712285786
+    },
+    "all_awardings": [],
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "associated_award": null,
+    "author": "Severe_Ad620",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_hsaa6o8qp",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "body": "I apparently do. The color change of the paper airplane send icon follows the color selected from the main chat screen. I assume that when I choose 'GPT-4 Creative' on the main screen it will also follow the selector switch setting, but I don't have a good way to check to make sure.\n\nThe weird thing is even though I have the file upload paperclip on the main chat window, it's not present in notebook mode. Probably just an oversight. They are rolling out the file upload feature right now. I do have access to the code interpreter in notebook mode, though.\n\n&#x200B;\n\nhttps://preview.redd.it/xtccdgzv2asc1.png?width=1394&format=png&auto=webp&s=4f0aaac75ba37dbaae8168dc58ada3c1c8bcadf8",
+    "can_gild": false,
+    "can_mod_post": false,
+    "collapsed": false,
+    "collapsed_because_crowd_control": null,
+    "collapsed_reason": null,
+    "collapsed_reason_code": null,
+    "comment_type": null,
+    "controversiality": 0,
+    "created": 1712156174,
+    "created_utc": 1712156174,
+    "distinguished": null,
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "id": "kxv0l2p",
+    "is_submitter": false,
+    "likes": null,
+    "link_id": "t3_1bu31ax",
+    "locked": false,
+    "media_metadata": {
+        "xtccdgzv2asc1": {
+            "e": "Image",
+            "id": "xtccdgzv2asc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/xtccdgzv2asc1.png?width=108&crop=smart&auto=webp&s=70bde39cdd3d6e3263b34c585d01fc0705d9e511",
+                    "x": 108,
+                    "y": 70
+                },
+                {
+                    "u": "https://preview.redd.it/xtccdgzv2asc1.png?width=216&crop=smart&auto=webp&s=44de7b8a04a010cf6802865d4cc2107761f3c02f",
+                    "x": 216,
+                    "y": 141
+                },
+                {
+                    "u": "https://preview.redd.it/xtccdgzv2asc1.png?width=320&crop=smart&auto=webp&s=89595006658b7349be1885a61df0ab5cad7b1d5c",
+                    "x": 320,
+                    "y": 209
+                },
+                {
+                    "u": "https://preview.redd.it/xtccdgzv2asc1.png?width=640&crop=smart&auto=webp&s=63a2a24ece36ad7edb54e82ef1724e35d5080097",
+                    "x": 640,
+                    "y": 418
+                },
+                {
+                    "u": "https://preview.redd.it/xtccdgzv2asc1.png?width=960&crop=smart&auto=webp&s=c35cc348dd3d845ffb871b93f19d37b05cb070b7",
+                    "x": 960,
+                    "y": 628
+                },
+                {
+                    "u": "https://preview.redd.it/xtccdgzv2asc1.png?width=1080&crop=smart&auto=webp&s=fd2b9c657fe04d65e9c0628dc0fee3a13ed4344b",
+                    "x": 1080,
+                    "y": 706
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/xtccdgzv2asc1.png?width=1394&format=png&auto=webp&s=4f0aaac75ba37dbaae8168dc58ada3c1c8bcadf8",
+                "x": 1394,
+                "y": 912
+            },
+            "status": "valid"
+        }
+    },
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t1_kxv0l2p",
+    "no_follow": true,
+    "num_reports": null,
+    "parent_id": "t1_kxuxhrx",
+    "permalink": "/r/ChatGPT/comments/1bu31ax/when_will_we_get_access_to_gpt_45_turbo/kxv0l2p/",
+    "removal_reason": null,
+    "replies": "",
+    "report_reasons": null,
+    "retrieved_on": 1712156187,
+    "saved": false,
+    "score": 2,
+    "score_hidden": false,
+    "send_replies": true,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_type": "public",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "unrepliable_reason": null,
+    "ups": 2,
+    "user_reports": []
+}

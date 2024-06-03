@@ -1,0 +1,177 @@
+{
+    "_meta": {
+        "is_edited": true,
+        "retrieved_2nd_on": 1715331874
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "Altruistic_Gibbon907",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_ztxmoq4ap",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1715202250,
+    "created_utc": 1715202250,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1cnfciw",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#ddbd37",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "News \ud83d\udcf0"
+        }
+    ],
+    "link_flair_template_id": "1c39d510-f1ac-11ed-8167-5e7479c0f87c",
+    "link_flair_text": "News \ud83d\udcf0",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "0qvypd62o9zc1": {
+            "dashUrl": "https://v.redd.it/link/1cnfciw/asset/0qvypd62o9zc1/DASHPlaylist.mpd?a=1717794266%2CMDQ3NTE1ZDA2Yjk3ZDhmMGM4NzIxZmYwYzgwOTZmNjc1ODdiOWIxOWJjOTI3YzYzMTM4YThiZmFmY2FhMTY4OA%3D%3D&v=1&f=sd",
+            "e": "RedditVideo",
+            "hlsUrl": "https://v.redd.it/link/1cnfciw/asset/0qvypd62o9zc1/HLSPlaylist.m3u8?a=1717794266%2CODBiMzJjMTM1NWE4ZmZkNWIyNzliNGJlYWE5M2FiMmUyYjVmNDBmNDcwNDA1MDU1MWJhY2I0MWY4OTZmMmNmMQ%3D%3D&v=1&f=sd",
+            "id": "0qvypd62o9zc1",
+            "isGif": false,
+            "status": "valid",
+            "x": 1920,
+            "y": 1080
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1cnfciw",
+    "no_follow": true,
+    "num_comments": 1,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1cnfciw/google_announces_alphafold_3_ai_model_for/",
+    "pinned": false,
+    "post_hint": "self",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "d2vH9jJYWx0Rw78oLAo279WE1ZRfN0NMg0LS5TfVnHY",
+                "resolutions": [
+                    {
+                        "height": 61,
+                        "url": "https://external-preview.redd.it/8mGY6fHM4TllJ6TTAb4iTEZnJGylfKgVd668VpBm0Cc.jpg?width=108&crop=smart&auto=webp&s=024580c066771be8a1b7c4d0a3b77ef0368bece1",
+                        "width": 108
+                    },
+                    {
+                        "height": 123,
+                        "url": "https://external-preview.redd.it/8mGY6fHM4TllJ6TTAb4iTEZnJGylfKgVd668VpBm0Cc.jpg?width=216&crop=smart&auto=webp&s=f59ae28a39ecc56383af4d5b1b04e72e3c87dc4e",
+                        "width": 216
+                    },
+                    {
+                        "height": 182,
+                        "url": "https://external-preview.redd.it/8mGY6fHM4TllJ6TTAb4iTEZnJGylfKgVd668VpBm0Cc.jpg?width=320&crop=smart&auto=webp&s=2c0b1c29e27d2028d150a23c15c71940179736ee",
+                        "width": 320
+                    },
+                    {
+                        "height": 365,
+                        "url": "https://external-preview.redd.it/8mGY6fHM4TllJ6TTAb4iTEZnJGylfKgVd668VpBm0Cc.jpg?width=640&crop=smart&auto=webp&s=20841429c1ca73c7af2d37501e5de8e646d5f9d9",
+                        "width": 640
+                    },
+                    {
+                        "height": 548,
+                        "url": "https://external-preview.redd.it/8mGY6fHM4TllJ6TTAb4iTEZnJGylfKgVd668VpBm0Cc.jpg?width=960&crop=smart&auto=webp&s=5d5e4ed14e8ab11451c572dd94fb9c65d641f9fa",
+                        "width": 960
+                    },
+                    {
+                        "height": 616,
+                        "url": "https://external-preview.redd.it/8mGY6fHM4TllJ6TTAb4iTEZnJGylfKgVd668VpBm0Cc.jpg?width=1080&crop=smart&auto=webp&s=c0befd038e38a9fa042148882827b278ef3e24b0",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 738,
+                    "url": "https://external-preview.redd.it/8mGY6fHM4TllJ6TTAb4iTEZnJGylfKgVd668VpBm0Cc.jpg?auto=webp&s=7d3e9ff35c93a9a68f127a1531aaa8a438e71ee7",
+                    "width": 1292
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1715202266,
+    "saved": false,
+    "score": 4,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "https://reddit.com/link/1cnfciw/video/0qvypd62o9zc1/player\n\nAlphaFold 3 can generate the 3D structures of proteins, DNA, RNA, and smaller molecules, while also revealing how they fit together.   \n  \nIt can also model chemical changes to them that control the healthy functioning of cells - and when disrupted, could lead to disease.\n\nThe model could help unlock new progress in biology, drug development, and advancing the study of our genes.\n\n[https://thesummary.ai/p/alphafold-3-enhances-drug-research](https://thesummary.ai/p/alphafold-3-enhances-drug-research)",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5368771,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/rJ3B_It5Nbunc2dlQGnEXAetLkykrulxDQk_cRT2yqM.jpg",
+    "thumbnail_height": 79,
+    "thumbnail_width": 140,
+    "title": "Google Announces AlphaFold 3 AI model for predicting the structure and interactions of all life\u2019s molecules",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 4,
+    "upvote_ratio": 0.75,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1cnfciw/google_announces_alphafold_3_ai_model_for/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

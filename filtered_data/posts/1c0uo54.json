@@ -1,0 +1,193 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1712908114
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "TheSkyeLord_",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_7z7h41fk",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1712778504,
+    "created_utc": 1712778504,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "/r/ChatGPT/comments/1c0uo54/non_plus_subscriber_yet_gpt4_limit/",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1c0uo54",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": true,
+    "likes": null,
+    "link_flair_background_color": "#94e044",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Other "
+        }
+    ],
+    "link_flair_template_id": "b4536a20-7be9-11ed-9a10-deed22fd00f8",
+    "link_flair_text": "Other ",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": {
+        "reddit_video": {
+            "bitrate_kbps": 5000,
+            "dash_url": "https://v.redd.it/t9m6ld3uhptc1/DASHPlaylist.mpd?a=1715500112%2CZjhlOWE4N2MwOTVhMDQ1M2U4ZTJlYjlkMjM1MmJjNDg2MWFiYmI5NDJjMjA1NGRlMDZkNjdjYTYzMzQ1YWMwNQ%3D%3D&v=1&f=sd",
+            "duration": 16,
+            "fallback_url": "https://v.redd.it/t9m6ld3uhptc1/DASH_1080.mp4?source=fallback",
+            "has_audio": true,
+            "height": 1920,
+            "hls_url": "https://v.redd.it/t9m6ld3uhptc1/HLSPlaylist.m3u8?a=1715500112%2CMGVhNjBhYmRiNmYzZTY4ODM2MmE5ZjJiYTY2NThlOGM1ZThkNzU4YTZlZmNkZTg5NzA2OTJhNzZiMGNkMTQ1Yw%3D%3D&v=1&f=sd",
+            "is_gif": false,
+            "scrubber_media_url": "https://v.redd.it/t9m6ld3uhptc1/DASH_96.mp4",
+            "transcoding_status": "completed",
+            "width": 1080
+        }
+    },
+    "media_embed": {},
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1c0uo54",
+    "no_follow": true,
+    "num_comments": 6,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1c0uo54/non_plus_subscriber_yet_gpt4_limit/",
+    "pinned": false,
+    "post_hint": "hosted:video",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "aTB6YjgxenRocHRjMfX20N3-3853hHJRJKhfgi4VPDmeC-6kzyqxs_-SWIV3",
+                "resolutions": [
+                    {
+                        "height": 192,
+                        "url": "https://external-preview.redd.it/aTB6YjgxenRocHRjMfX20N3-3853hHJRJKhfgi4VPDmeC-6kzyqxs_-SWIV3.png?width=108&crop=smart&format=pjpg&auto=webp&s=59befc1cd51ff26af810df4d57c9ef58902b0327",
+                        "width": 108
+                    },
+                    {
+                        "height": 384,
+                        "url": "https://external-preview.redd.it/aTB6YjgxenRocHRjMfX20N3-3853hHJRJKhfgi4VPDmeC-6kzyqxs_-SWIV3.png?width=216&crop=smart&format=pjpg&auto=webp&s=5a612b9a4c669ca18c7337a4bd0743c8413bcf52",
+                        "width": 216
+                    },
+                    {
+                        "height": 568,
+                        "url": "https://external-preview.redd.it/aTB6YjgxenRocHRjMfX20N3-3853hHJRJKhfgi4VPDmeC-6kzyqxs_-SWIV3.png?width=320&crop=smart&format=pjpg&auto=webp&s=c625759256c9633ed2e6a42cb6edcb3bed5e1a00",
+                        "width": 320
+                    },
+                    {
+                        "height": 1137,
+                        "url": "https://external-preview.redd.it/aTB6YjgxenRocHRjMfX20N3-3853hHJRJKhfgi4VPDmeC-6kzyqxs_-SWIV3.png?width=640&crop=smart&format=pjpg&auto=webp&s=d5163bbb9665d7320c12e4eed1934bdd53771a0a",
+                        "width": 640
+                    },
+                    {
+                        "height": 1706,
+                        "url": "https://external-preview.redd.it/aTB6YjgxenRocHRjMfX20N3-3853hHJRJKhfgi4VPDmeC-6kzyqxs_-SWIV3.png?width=960&crop=smart&format=pjpg&auto=webp&s=1a9a70418ac0084f22d60be8855d2a914a3337be",
+                        "width": 960
+                    },
+                    {
+                        "height": 1920,
+                        "url": "https://external-preview.redd.it/aTB6YjgxenRocHRjMfX20N3-3853hHJRJKhfgi4VPDmeC-6kzyqxs_-SWIV3.png?width=1080&crop=smart&format=pjpg&auto=webp&s=961a58f674dbc09105411ae9aa0ad0e3b04515c0",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 3840,
+                    "url": "https://external-preview.redd.it/aTB6YjgxenRocHRjMfX20N3-3853hHJRJKhfgi4VPDmeC-6kzyqxs_-SWIV3.png?format=pjpg&auto=webp&s=f4d51a4aece9ba8638da1b76ec2e37ee12d58a7b",
+                    "width": 2160
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1712778519,
+    "saved": false,
+    "score": 4,
+    "secure_media": {
+        "reddit_video": {
+            "bitrate_kbps": 5000,
+            "dash_url": "https://v.redd.it/t9m6ld3uhptc1/DASHPlaylist.mpd?a=1715500112%2CZjhlOWE4N2MwOTVhMDQ1M2U4ZTJlYjlkMjM1MmJjNDg2MWFiYmI5NDJjMjA1NGRlMDZkNjdjYTYzMzQ1YWMwNQ%3D%3D&v=1&f=sd",
+            "duration": 16,
+            "fallback_url": "https://v.redd.it/t9m6ld3uhptc1/DASH_1080.mp4?source=fallback",
+            "has_audio": true,
+            "height": 1920,
+            "hls_url": "https://v.redd.it/t9m6ld3uhptc1/HLSPlaylist.m3u8?a=1715500112%2CMGVhNjBhYmRiNmYzZTY4ODM2MmE5ZjJiYTY2NThlOGM1ZThkNzU4YTZlZmNkZTg5NzA2OTJhNzZiMGNkMTQ1Yw%3D%3D&v=1&f=sd",
+            "is_gif": false,
+            "scrubber_media_url": "https://v.redd.it/t9m6ld3uhptc1/DASH_96.mp4",
+            "transcoding_status": "completed",
+            "width": 1080
+        }
+    },
+    "secure_media_embed": {},
+    "selftext": "Sorry about all the background noise, I\u2019m currently on college campus while sending this. I have seen that the GPT-4 model can have limited access. But I\u2019m not a plus subscriber, yet it\u2019s saying that I\u2019ve hit a GPT-4 limit, and it won\u2019t let me use the default model. Any ideas? I have tried clearing browser cache. Thanks!\n\n(P.S. I hope it\u2019s okay to post for help here, if not, I\u2019ll happily move this post elsewhere)",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5033639,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://external-preview.redd.it/aTB6YjgxenRocHRjMfX20N3-3853hHJRJKhfgi4VPDmeC-6kzyqxs_-SWIV3.png?width=140&height=140&crop=140:140,smart&format=jpg&v=enabled&lthumb=true&s=672e7e36bb54fbd749e59d984cfc8bbf01853d5b",
+    "thumbnail_height": 140,
+    "thumbnail_width": 140,
+    "title": "Non Plus Subscriber, Yet GPT-4 Limit?",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 4,
+    "upvote_ratio": 0.6100000143051147,
+    "url": "https://v.redd.it/t9m6ld3uhptc1",
+    "url_overridden_by_dest": "https://v.redd.it/t9m6ld3uhptc1",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

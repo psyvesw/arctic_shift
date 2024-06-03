@@ -1,0 +1,165 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1714891278
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "Rare_Adhesiveness518",
+    "author_flair_background_color": "",
+    "author_flair_css_class": null,
+    "author_flair_richtext": [
+        {
+            "a": ":Discord:",
+            "e": "emoji",
+            "u": "https://emoji.redditmedia.com/0zlhaela6zub1_t5_7hqomg/Discord"
+        }
+    ],
+    "author_flair_template_id": null,
+    "author_flair_text": ":Discord:",
+    "author_flair_text_color": "dark",
+    "author_flair_type": "richtext",
+    "author_fullname": "t2_xvwpuyudd",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1714753982,
+    "created_utc": 1714753982,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1cjd0qx",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#ddbd37",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "News \ud83d\udcf0"
+        }
+    ],
+    "link_flair_template_id": "1c39d510-f1ac-11ed-8167-5e7479c0f87c",
+    "link_flair_text": "News \ud83d\udcf0",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1cjd0qx",
+    "no_follow": false,
+    "num_comments": 13,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1cjd0qx/googles_medgemini_ai_outperforms_gpt4_in/",
+    "pinned": false,
+    "post_hint": "self",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "hUoD74lq87v31VVV3xonOr89MY40k4xfIY--l5iSBBY",
+                "resolutions": [
+                    {
+                        "height": 96,
+                        "url": "https://external-preview.redd.it/CVQOIks2Hn2E8q25mFoI4IZML7HYmSxq7T6cS9FGjEI.jpg?width=108&crop=smart&auto=webp&s=45d538032643930b116b9dd04983761a8f62043d",
+                        "width": 108
+                    },
+                    {
+                        "height": 193,
+                        "url": "https://external-preview.redd.it/CVQOIks2Hn2E8q25mFoI4IZML7HYmSxq7T6cS9FGjEI.jpg?width=216&crop=smart&auto=webp&s=6d574aa718f5389d3fff5b56b32b87935eac5231",
+                        "width": 216
+                    },
+                    {
+                        "height": 286,
+                        "url": "https://external-preview.redd.it/CVQOIks2Hn2E8q25mFoI4IZML7HYmSxq7T6cS9FGjEI.jpg?width=320&crop=smart&auto=webp&s=86dba5901ac8145f182d42c2dd1a8d3b26ea5aa9",
+                        "width": 320
+                    },
+                    {
+                        "height": 573,
+                        "url": "https://external-preview.redd.it/CVQOIks2Hn2E8q25mFoI4IZML7HYmSxq7T6cS9FGjEI.jpg?width=640&crop=smart&auto=webp&s=fca360306095faa077098837d3c7fcf359ba71e4",
+                        "width": 640
+                    },
+                    {
+                        "height": 860,
+                        "url": "https://external-preview.redd.it/CVQOIks2Hn2E8q25mFoI4IZML7HYmSxq7T6cS9FGjEI.jpg?width=960&crop=smart&auto=webp&s=76a04fc1de56a5f5b1726bfffdd67c5e8f060d1c",
+                        "width": 960
+                    }
+                ],
+                "source": {
+                    "height": 900,
+                    "url": "https://external-preview.redd.it/CVQOIks2Hn2E8q25mFoI4IZML7HYmSxq7T6cS9FGjEI.jpg?auto=webp&s=25784a48b085704f6bbb03a0d9d27e77ff84e380",
+                    "width": 1004
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1714753999,
+    "saved": false,
+    "score": 45,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "The race for tailored medical AI models is heating up. Google and DeepMind released [a paper on Monday describing Med-Gemini](https://www.forbes.com/sites/talpatalon/2024/05/01/med-geminis-lions-roar/), a group of advanced AI models targeting healthcare applications.\n\nIf you want to stay ahead of the latest AI developments,\u00a0[take a look here](https://smmry.tech/?utm_source=reddit)!\n\n**Key findings:**\n\n* Google claims its Med-Gemini AI models majorly outperform competitor GPT-4 in healthcare tasks.\n* Med-Gemini focuses on understanding context and temporality, aiming to grasp the background and sequence of medical information.\n* This focus on context is seen as a major leap forward in medical AI, addressing a known challenge in existing models.\n* While Med-Gemini is still under research, GPT-4 is making its own moves in healthcare with a collaboration with Moderna.\n\n[Source (Forbes)](https://www.forbes.com/sites/talpatalon/2024/05/01/med-geminis-lions-roar/)\n\n**PS: If you enjoyed this post**, you\u2019ll love my\u00a0[AI-powered newsletter](https://smmry.tech/?utm_source=reddit)\u00a0that summarizes the best AI/tech news from 50+ media sources. It\u2019s already being read by\u00a0**hundreds of professionals**\u00a0from\u00a0**OpenAI, Google, Meta**\u2026",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5303832,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "self",
+    "thumbnail_height": null,
+    "thumbnail_width": null,
+    "title": "Google's Med-Gemini AI Outperforms GPT-4 in Healthcare",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 45,
+    "upvote_ratio": 0.8500000238418579,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1cjd0qx/googles_medgemini_ai_outperforms_gpt4_in/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

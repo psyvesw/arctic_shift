@@ -1,0 +1,222 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1716994630
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "Agreeable-State6881",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_kqc5996wb",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1716865016,
+    "created_utc": 1716865016,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "reddit.com",
+    "downs": 0,
+    "edited": false,
+    "gallery_data": {
+        "items": [
+            {
+                "caption": "",
+                "id": 460283780,
+                "media_id": "zi3xxgq5133d1",
+                "outbound_url": ""
+            },
+            {
+                "caption": "",
+                "id": 460283781,
+                "media_id": "yvgw4hq5133d1",
+                "outbound_url": ""
+            }
+        ]
+    },
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1d29fu2",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_gallery": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#ffb000",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Gone Wild "
+        }
+    ],
+    "link_flair_template_id": "bd4e6832-7bbc-11ed-97cb-0e48625ac41d",
+    "link_flair_text": "Gone Wild ",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "yvgw4hq5133d1": {
+            "e": "Image",
+            "id": "yvgw4hq5133d1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/yvgw4hq5133d1.jpg?width=108&crop=smart&auto=webp&s=c6d41c49eccf4f4f4e68bf1070c6670c67dba75c",
+                    "x": 108,
+                    "y": 121
+                },
+                {
+                    "u": "https://preview.redd.it/yvgw4hq5133d1.jpg?width=216&crop=smart&auto=webp&s=eb01cd7339451dffab0e589ac8e1799ff6cba66a",
+                    "x": 216,
+                    "y": 243
+                },
+                {
+                    "u": "https://preview.redd.it/yvgw4hq5133d1.jpg?width=320&crop=smart&auto=webp&s=d1c3b2f2ba31a67588a7a2900d8d254fa89222d9",
+                    "x": 320,
+                    "y": 360
+                },
+                {
+                    "u": "https://preview.redd.it/yvgw4hq5133d1.jpg?width=640&crop=smart&auto=webp&s=768384646d5931111584f0e2dd87f47c03e693ed",
+                    "x": 640,
+                    "y": 720
+                },
+                {
+                    "u": "https://preview.redd.it/yvgw4hq5133d1.jpg?width=960&crop=smart&auto=webp&s=1fa44428db5fbdef4b2fbf19439a0f266244c11c",
+                    "x": 960,
+                    "y": 1080
+                },
+                {
+                    "u": "https://preview.redd.it/yvgw4hq5133d1.jpg?width=1080&crop=smart&auto=webp&s=1eeb09f013285d794fed837962c3ca0734f9a71c",
+                    "x": 1080,
+                    "y": 1215
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/yvgw4hq5133d1.jpg?width=1552&format=pjpg&auto=webp&s=eeb95ecac73e1a9dd483a455fac637138a111d7b",
+                "x": 1552,
+                "y": 1746
+            },
+            "status": "valid"
+        },
+        "zi3xxgq5133d1": {
+            "e": "Image",
+            "id": "zi3xxgq5133d1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/zi3xxgq5133d1.jpg?width=108&crop=smart&auto=webp&s=90c8f5941a0f4cf47947ff1409fa04f51b22b6e7",
+                    "x": 108,
+                    "y": 97
+                },
+                {
+                    "u": "https://preview.redd.it/zi3xxgq5133d1.jpg?width=216&crop=smart&auto=webp&s=0b7b90c764c0e9f8999332338742e618868b587c",
+                    "x": 216,
+                    "y": 195
+                },
+                {
+                    "u": "https://preview.redd.it/zi3xxgq5133d1.jpg?width=320&crop=smart&auto=webp&s=a7a7ea75ec04968cd4270e2b64c2581e51e1a5cd",
+                    "x": 320,
+                    "y": 289
+                },
+                {
+                    "u": "https://preview.redd.it/zi3xxgq5133d1.jpg?width=640&crop=smart&auto=webp&s=9f6f6c06a2b93d5f07c3e9ba9f88803a3a51d5ea",
+                    "x": 640,
+                    "y": 578
+                },
+                {
+                    "u": "https://preview.redd.it/zi3xxgq5133d1.jpg?width=960&crop=smart&auto=webp&s=0062dc9430ce7285453eedf199af2818f917d225",
+                    "x": 960,
+                    "y": 867
+                },
+                {
+                    "u": "https://preview.redd.it/zi3xxgq5133d1.jpg?width=1080&crop=smart&auto=webp&s=724ec5bc34940d6f99367255dd2945ef3cdd927b",
+                    "x": 1080,
+                    "y": 975
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/zi3xxgq5133d1.jpg?width=1556&format=pjpg&auto=webp&s=844531210d6992ef0b87cc90d3b74ace7e142857",
+                "x": 1556,
+                "y": 1406
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1d29fu2",
+    "no_follow": true,
+    "num_comments": 17,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1d29fu2/it_looks_like_there_was_a_mixup_in_my_responses/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1716865031,
+    "saved": false,
+    "score": 18,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "I was doing some research when this bizarre mix-up occurred on the desktop version of ChatGPT.\n\nI\u2019m befuddled as to how this happened, but laughing at the thought that someone out there is asking ChatGPT-4o about \u201cA Dog Named Christmas.\u201d Also, if you click the link it goes to Hallmark\u2019s website but I can\u2019t find anything about this imaginary heartwarming film.",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5658723,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/9TFk8VXN0dk6pqKOChLYKbocHbgl322UTjyoHl5yZuE.jpg",
+    "thumbnail_height": 126,
+    "thumbnail_width": 140,
+    "title": "\u201cIt looks like there was a mix-up in my responses\u2026\u201d ChatGPT-4o",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 18,
+    "upvote_ratio": 0.8199999928474426,
+    "url": "https://www.reddit.com/gallery/1d29fu2",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

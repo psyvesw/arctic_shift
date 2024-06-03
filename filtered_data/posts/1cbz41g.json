@@ -1,0 +1,256 @@
+{
+    "_meta": {
+        "is_edited": true,
+        "retrieved_2nd_on": 1714097256
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "lostlifon",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_9ieoba2",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": true,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1713967645,
+    "created_utc": 1713967645,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1cbz41g",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#0079d3",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Educational Purpose Only "
+        }
+    ],
+    "link_flair_template_id": "26e7b998-7bbc-11ed-ba93-22ce55064b6a",
+    "link_flair_text": "Educational Purpose Only ",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "7kt0c5wvkfwc1": {
+            "status": "unprocessed"
+        },
+        "uayeqwfwbfwc1": {
+            "e": "Image",
+            "id": "uayeqwfwbfwc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/uayeqwfwbfwc1.png?width=108&crop=smart&auto=webp&s=409807893df7e1a079273dd5049f369d1c822326",
+                    "x": 108,
+                    "y": 60
+                },
+                {
+                    "u": "https://preview.redd.it/uayeqwfwbfwc1.png?width=216&crop=smart&auto=webp&s=b432e219c4fe98c4a9b42ac2ca71757829365a48",
+                    "x": 216,
+                    "y": 120
+                },
+                {
+                    "u": "https://preview.redd.it/uayeqwfwbfwc1.png?width=320&crop=smart&auto=webp&s=0677675c2fb00367c3975d9747ac2b309addca35",
+                    "x": 320,
+                    "y": 178
+                },
+                {
+                    "u": "https://preview.redd.it/uayeqwfwbfwc1.png?width=640&crop=smart&auto=webp&s=b4be9f1300ff4b6488c25a1b52e0881afc0aee8d",
+                    "x": 640,
+                    "y": 357
+                },
+                {
+                    "u": "https://preview.redd.it/uayeqwfwbfwc1.png?width=960&crop=smart&auto=webp&s=f2168ca5fd671620e2af2a0926b4a6e4e34b040f",
+                    "x": 960,
+                    "y": 536
+                },
+                {
+                    "u": "https://preview.redd.it/uayeqwfwbfwc1.png?width=1080&crop=smart&auto=webp&s=9aabbdfd7f0ef89d0e20d19fedbbe42f21251642",
+                    "x": 1080,
+                    "y": 603
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/uayeqwfwbfwc1.png?width=2356&format=png&auto=webp&s=dd90a8541fce16d5e8edeeca9a9a7f5ff3447e02",
+                "x": 2356,
+                "y": 1316
+            },
+            "status": "valid"
+        },
+        "yvewvu0ccfwc1": {
+            "e": "Image",
+            "id": "yvewvu0ccfwc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/yvewvu0ccfwc1.png?width=108&crop=smart&auto=webp&s=7350f84d0d5f43750513b61257ca3432e4db21d2",
+                    "x": 108,
+                    "y": 23
+                },
+                {
+                    "u": "https://preview.redd.it/yvewvu0ccfwc1.png?width=216&crop=smart&auto=webp&s=064795352725bce628ba8df1aa203ed42075e222",
+                    "x": 216,
+                    "y": 46
+                },
+                {
+                    "u": "https://preview.redd.it/yvewvu0ccfwc1.png?width=320&crop=smart&auto=webp&s=596dacb8b93c1c400d9e8facd24c609833340a56",
+                    "x": 320,
+                    "y": 69
+                },
+                {
+                    "u": "https://preview.redd.it/yvewvu0ccfwc1.png?width=640&crop=smart&auto=webp&s=1c218153fce16c61fc898bfb714218d6d66a5b97",
+                    "x": 640,
+                    "y": 138
+                },
+                {
+                    "u": "https://preview.redd.it/yvewvu0ccfwc1.png?width=960&crop=smart&auto=webp&s=0a6d30cabd424ce6812571dd1c0965b7d0563687",
+                    "x": 960,
+                    "y": 207
+                },
+                {
+                    "u": "https://preview.redd.it/yvewvu0ccfwc1.png?width=1080&crop=smart&auto=webp&s=38e5c97796eb88aa1393bbcd3ff11c471576d62f",
+                    "x": 1080,
+                    "y": 233
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/yvewvu0ccfwc1.png?width=1200&format=png&auto=webp&s=5f43d4a65549ea0b01e8051aadcfb07a89b95e44",
+                "x": 1200,
+                "y": 259
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1cbz41g",
+    "no_follow": true,
+    "num_comments": 5,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1cbz41g/why_metas_llama_3_release_just_changed_the_ai/",
+    "pinned": false,
+    "post_hint": "self",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "T6UsYmOY581pjCU91J-Xy7u8dF1aL3zfNmW21C1kwpU",
+                "resolutions": [
+                    {
+                        "height": 60,
+                        "url": "https://external-preview.redd.it/HLVluBN-jnl4TkVxGHCYEUBlzZZjbBfuNX76TlLIbsE.jpg?width=108&crop=smart&auto=webp&s=29075e44ca1619bccc017e8769ee77bd2ff0cc97",
+                        "width": 108
+                    },
+                    {
+                        "height": 121,
+                        "url": "https://external-preview.redd.it/HLVluBN-jnl4TkVxGHCYEUBlzZZjbBfuNX76TlLIbsE.jpg?width=216&crop=smart&auto=webp&s=02cf9f5b372e0727b40002caaa42c7222499291b",
+                        "width": 216
+                    },
+                    {
+                        "height": 180,
+                        "url": "https://external-preview.redd.it/HLVluBN-jnl4TkVxGHCYEUBlzZZjbBfuNX76TlLIbsE.jpg?width=320&crop=smart&auto=webp&s=406b980ef1c939ce6c37be2e3c4750b91ea40173",
+                        "width": 320
+                    },
+                    {
+                        "height": 360,
+                        "url": "https://external-preview.redd.it/HLVluBN-jnl4TkVxGHCYEUBlzZZjbBfuNX76TlLIbsE.jpg?width=640&crop=smart&auto=webp&s=5c29972376135508454af04a9379670e5ffe87f2",
+                        "width": 640
+                    },
+                    {
+                        "height": 540,
+                        "url": "https://external-preview.redd.it/HLVluBN-jnl4TkVxGHCYEUBlzZZjbBfuNX76TlLIbsE.jpg?width=960&crop=smart&auto=webp&s=9a18ade66a3a713f6cd1956ea2f0abecc1d2e4c0",
+                        "width": 960
+                    },
+                    {
+                        "height": 607,
+                        "url": "https://external-preview.redd.it/HLVluBN-jnl4TkVxGHCYEUBlzZZjbBfuNX76TlLIbsE.jpg?width=1080&crop=smart&auto=webp&s=31d1a00d42244e055c9a7cdb9aadd330eb7ad05e",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 2160,
+                    "url": "https://external-preview.redd.it/HLVluBN-jnl4TkVxGHCYEUBlzZZjbBfuNX76TlLIbsE.jpg?auto=webp&s=b1f8df33ac73bfadd6ef95337da6462b8992fe28",
+                    "width": 3840
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1713967658,
+    "saved": false,
+    "score": 5,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "So Meta released Llama 3 last week and Zuck did a podcast but I haven't seen that much talk about it on reddit so I thought I'd give some insight from the perspective of someone who's chronically online.\n\n  \nSome context - Meta open sourced two versions of their new Llama 3 models, 8B and 70B. They also announced that they're training a 400B model. Here's their blog post \\[[Link](https://ai.meta.com/blog/meta-llama-3/)\\] Here's the podcast \\[[Link](https://www.youtube.com/watch?v=bc6uFV9CJGg)\\]\n\n# Lets start with the 8B\n\nFirstly, the 8B version is very solid. For its size, its an incredibly powerful model. How powerful? It can code snake, and it can answer questions only GPT4 and Claude Opus can answer \\[[Link](https://huggingface.co/MaziyarPanahi/Meta-Llama-3-8B-Instruct-GGUF/discussions/5)\\]\n\nMore importantly, however, are the implications.\n\nMeta trained the 8B model on 15 Trillion tokens, which is an absolutely insane amount. For reference, gpt3.5 was trained on 500 billion tokens. Meta also confirmed that none of this data came from their users (whatsapp, fb, insta).\n\nAccording to our current understanding of scaling laws, the most compute optimal way to train the 8B model would be to train it on \\~200B tokens (oversimplified understanding). The reason why this is so crazy is because according to Zuck, 8B was still learning and improving when they stopped its training, even after 15 Trillion tokens. This means that every model we're currently using could possibly be made **significantly** better by simply training it more - Karpathy himself thinks current LLMs are undertrained by up to 1000x.\n\nThe big AI labs are training models 100x bigger than what we have now, and will probably train these models on 1000x more data. We're still very early. Zuck also mentioned that they only stopped training the model so they could start testing Llama 4...\n\nMind you, the smallest version of Llama 3, this 8B model, is better than the largest Llama 1 model, the 65B. This is one year of progress.\n\n*Processing img 7kt0c5wvkfwc1...*\n\n# The 70B\n\nNot much to say about the 70B other than it's now second on the LLM leaderboard, only behind the new version of GPT4. \n\nhttps://preview.redd.it/uayeqwfwbfwc1.png?width=2356&format=png&auto=webp&s=dd90a8541fce16d5e8edeeca9a9a7f5ff3447e02\n\nThis is a 70B model compared to a 1.8 Trillion model. This begs the question, what does a properly trained trillion parameter model look like?\n\n\n\n# The 400B\n\nAlthough they haven't released this model, the 400B is already basically as good as GPT4 and Claude Opus on benchmarks, and it is still in training.\n\nhttps://preview.redd.it/yvewvu0ccfwc1.png?width=1200&format=png&auto=webp&s=5f43d4a65549ea0b01e8051aadcfb07a89b95e44\n\nIt is likely that when it is done training, it will be the first open source model to be better than gpt4 on the benchmarks.\n\n\n\n# The real question, why is meta doing this?\n\nI'm going to summarise here\n\n- meta owns the distribution and they don't want anyone to have the technological advantage. They can afford to burn money by open sourcing because the release of better models doesn't affect their business.\n\n- if meta open sources llama 3 and the community makes it even slightly better, its worth it for them. This is already happening with people increasing the context limit.\n\n- open sourcing the best models means the community could adopt their standards, which would benefit them tremendously.\n\nMeta doesn't see the models themselves as the product, that's why they open source them. To them, using AI to connect all your data and build AI assistants, like the ones in fb, insta and whatsapp, is the goal. They achieve their goal while undercutting their competitors like OAI. They also don't need to raise money like their competitors (OAI, Anthropic, xAI)\n\n# Zuck's predictions\n\nLike elon musk has been saying for years, Zuck also believes that energy is the next big bottleneck, and this is why he thinks we wont get to AGI sometime soon. We'll be restricted by regulatory pace, not technological.\n\nHe mentions that a gigawatt data centre currently doesn't even exist, and that you'd need at least that size when it comes to just training a model, not even inference. Building these things takes time.\n\nZuck also mentioned that meta use their own custom chips for inference and only use their gigantic stockpile of Nvidia gpus for training.\n\nAlso mentions that future iterations of Llama 3, perhaps the 400B, will focus on multi modality.\n\n  \nI write detailed newsletters on everything happening in the AI space. This is some info from my last one covering llama 3. For $5/mo, I'll send you a weekly newsletter covering the most important & interesting stories written in a digestible way. You can subscribe here \\[[Link](https://nofil.beehiiv.com/upgrade)\\] and read old posts here \\[[Link](https://nofil.beehiiv.com/)\\]\n\n",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5200214,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/9wns0dCJhcTDplksjrIIdAslr2LJPmX6h0SYmU0e8ok.jpg",
+    "thumbnail_height": 78,
+    "thumbnail_width": 140,
+    "title": "Why Meta's Llama 3 release just changed the AI landscape and how Zuck sees the future of AI playing out",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 5,
+    "upvote_ratio": 0.6499999761581421,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1cbz41g/why_metas_llama_3_release_just_changed_the_ai/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

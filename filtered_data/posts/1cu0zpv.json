@@ -1,0 +1,254 @@
+{
+    "_meta": {
+        "removal_type": "moderator",
+        "retrieved_2nd_on": 1716067622,
+        "was_deleted_later": true
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "RobinRuf",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_b4dnhvtk",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1715938011,
+    "created_utc": 1715938011,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1cu0zpv",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#373c3f",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Resources "
+        }
+    ],
+    "link_flair_template_id": "c8a7075c-9962-11ed-86d0-b2c48b46bf22",
+    "link_flair_text": "Resources ",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "f8031z5dgy0d1": {
+            "e": "Image",
+            "id": "f8031z5dgy0d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/f8031z5dgy0d1.png?width=108&crop=smart&auto=webp&s=8d18c050818b68ad44fd34cc7c93864f246c1b2c",
+                    "x": 108,
+                    "y": 59
+                },
+                {
+                    "u": "https://preview.redd.it/f8031z5dgy0d1.png?width=216&crop=smart&auto=webp&s=85e77a8e6f516370523b37567b8d29d9e2d05121",
+                    "x": 216,
+                    "y": 119
+                },
+                {
+                    "u": "https://preview.redd.it/f8031z5dgy0d1.png?width=320&crop=smart&auto=webp&s=1279b35f135c3c453134a8961494f8335c427d07",
+                    "x": 320,
+                    "y": 176
+                },
+                {
+                    "u": "https://preview.redd.it/f8031z5dgy0d1.png?width=640&crop=smart&auto=webp&s=169d9965df8d2bcce89fe8eff71385126d617a97",
+                    "x": 640,
+                    "y": 353
+                },
+                {
+                    "u": "https://preview.redd.it/f8031z5dgy0d1.png?width=960&crop=smart&auto=webp&s=534ba7d4ea8853317519da128561f2bc531a45f8",
+                    "x": 960,
+                    "y": 529
+                },
+                {
+                    "u": "https://preview.redd.it/f8031z5dgy0d1.png?width=1080&crop=smart&auto=webp&s=49d66243a756685214641f87b851684c576a5165",
+                    "x": 1080,
+                    "y": 596
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/f8031z5dgy0d1.png?width=3008&format=png&auto=webp&s=0852b80ede305ab832592d0dd8dcf733902a5abd",
+                "x": 3008,
+                "y": 1660
+            },
+            "status": "valid"
+        },
+        "g8jwk0uegy0d1": {
+            "e": "Image",
+            "id": "g8jwk0uegy0d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/g8jwk0uegy0d1.png?width=108&crop=smart&auto=webp&s=5499c2a364d96ab6b64b939f9c40156528942fd3",
+                    "x": 108,
+                    "y": 55
+                },
+                {
+                    "u": "https://preview.redd.it/g8jwk0uegy0d1.png?width=216&crop=smart&auto=webp&s=b932c60d3071e1713744e222a04b605b8698dd47",
+                    "x": 216,
+                    "y": 111
+                },
+                {
+                    "u": "https://preview.redd.it/g8jwk0uegy0d1.png?width=320&crop=smart&auto=webp&s=845b5cd8236a4a51698a44d9441fb6fac865bb21",
+                    "x": 320,
+                    "y": 164
+                },
+                {
+                    "u": "https://preview.redd.it/g8jwk0uegy0d1.png?width=640&crop=smart&auto=webp&s=08ba4f4d77e6ebfaea1a13b2a362cb4359c0a4e3",
+                    "x": 640,
+                    "y": 329
+                },
+                {
+                    "u": "https://preview.redd.it/g8jwk0uegy0d1.png?width=960&crop=smart&auto=webp&s=57808ba3133fe214fb8e937cb0cf517f15593fa7",
+                    "x": 960,
+                    "y": 493
+                },
+                {
+                    "u": "https://preview.redd.it/g8jwk0uegy0d1.png?width=1080&crop=smart&auto=webp&s=ce6297ba321dbaccf11c5eaa6b5da4348c20df2f",
+                    "x": 1080,
+                    "y": 555
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/g8jwk0uegy0d1.png?width=3380&format=png&auto=webp&s=05d721458dd24f8609c5afcff6357b5e78f4c072",
+                "x": 3380,
+                "y": 1738
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1cu0zpv",
+    "no_follow": true,
+    "num_comments": 13,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1cu0zpv/chatgpt_messenger_everywhere_and_anytime_without/",
+    "pinned": false,
+    "post_hint": "self",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "SUG_JjzHRiqkoxPUA2Gm7u3Yg9h2XOnYFEqz4Nmmk8c",
+                "resolutions": [
+                    {
+                        "height": 59,
+                        "url": "https://external-preview.redd.it/E9B30h5kXg0r2YzFtReam_P1EfsEOHzSdwLyoYNND3I.jpg?width=108&crop=smart&auto=webp&s=712d53efa2cd275e820eca015bb2488a81c5d460",
+                        "width": 108
+                    },
+                    {
+                        "height": 118,
+                        "url": "https://external-preview.redd.it/E9B30h5kXg0r2YzFtReam_P1EfsEOHzSdwLyoYNND3I.jpg?width=216&crop=smart&auto=webp&s=d9591cdb63192809d7da16eb8cfd281fcbb64cbe",
+                        "width": 216
+                    },
+                    {
+                        "height": 176,
+                        "url": "https://external-preview.redd.it/E9B30h5kXg0r2YzFtReam_P1EfsEOHzSdwLyoYNND3I.jpg?width=320&crop=smart&auto=webp&s=7d552882cdc731a1776647ff88fab1db2d84b413",
+                        "width": 320
+                    },
+                    {
+                        "height": 352,
+                        "url": "https://external-preview.redd.it/E9B30h5kXg0r2YzFtReam_P1EfsEOHzSdwLyoYNND3I.jpg?width=640&crop=smart&auto=webp&s=03db827f942d82fd2072cc3f1add174a5bd2796e",
+                        "width": 640
+                    },
+                    {
+                        "height": 528,
+                        "url": "https://external-preview.redd.it/E9B30h5kXg0r2YzFtReam_P1EfsEOHzSdwLyoYNND3I.jpg?width=960&crop=smart&auto=webp&s=d551ee6f6c496b00a2357493fb85bc1dc5e0b09e",
+                        "width": 960
+                    },
+                    {
+                        "height": 594,
+                        "url": "https://external-preview.redd.it/E9B30h5kXg0r2YzFtReam_P1EfsEOHzSdwLyoYNND3I.jpg?width=1080&crop=smart&auto=webp&s=3653894f543e33fd76bd17cfa929c14319c27cc0",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 660,
+                    "url": "https://external-preview.redd.it/E9B30h5kXg0r2YzFtReam_P1EfsEOHzSdwLyoYNND3I.jpg?auto=webp&s=4d0bf891784eb32fa2a664db077bfc506821a8dd",
+                    "width": 1200
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1715938025,
+    "saved": false,
+    "score": 4,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "# Hey folks,\n\nI've heard from some students that their university has blocked ChatGPT on the school network and even those who are actually allowed to use it are sticking with GPT-3.5 because the subscription is too expensive for them.\n\nI thought I would offer a solution for both problems at the same time. A messenger, just like ChatGPT, but accessible and with prepaid plans instead of monthly subscriptions. Pay only for what you need\n\n***UPDATE:***  \nMeanwhile GPT-4o is also available for non-subscribers of ChatGPT. This is supposedly because a GPT-5 is already coming in the next 2 months, according to certain leaks.\n\nGPT-5 will then again only be available for subscribers - which makes sense, otherwise subscribers would hardly pay $20+, just for a slightly higher limit.\n\nAs soon as that happens, I will only offer GPT-4o and GPT-5 on this platform, then it will make a little more sense, as at the moment with free GPT-4o the benefit is unfortunately somewhat lost.\n\nAt the moment ChatGPT Messenger offers a mixture of GPT-3.5 and GPT-4o, which is controlled by its own algorithm in such a way that the appropriate model is selected for the request and the most efficient response possible is output\n\nLet me know what you think!  \n[chatgpt-messenger.app](https://chatgpt-messenger.app/)\n\nCheers",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5494593,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/P4QnzajkHhSVTw2p6YqVUQ1unnhp2YO42RAsPWn-8hE.jpg",
+    "thumbnail_height": 77,
+    "thumbnail_width": 140,
+    "title": "ChatGPT Messenger - everywhere and anytime, without expensive subscriptions",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 4,
+    "upvote_ratio": 0.6600000262260437,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1cu0zpv/chatgpt_messenger_everywhere_and_anytime_without/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

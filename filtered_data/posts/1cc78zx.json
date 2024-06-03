@@ -1,0 +1,199 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1714116646
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "monties122",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_5oyvfh6i",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1713987038,
+    "created_utc": 1713987038,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "reddit.com",
+    "downs": 0,
+    "edited": false,
+    "gallery_data": {
+        "items": [
+            {
+                "id": 443078649,
+                "media_id": "qw92od7gbhwc1"
+            },
+            {
+                "id": 443078650,
+                "media_id": "xa2ibe7gbhwc1"
+            }
+        ]
+    },
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1cc78zx",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_gallery": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#0079d3",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Educational Purpose Only "
+        }
+    ],
+    "link_flair_template_id": "26e7b998-7bbc-11ed-ba93-22ce55064b6a",
+    "link_flair_text": "Educational Purpose Only ",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "qw92od7gbhwc1": {
+            "e": "Image",
+            "id": "qw92od7gbhwc1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/qw92od7gbhwc1.jpg?width=108&crop=smart&auto=webp&s=a144051023ab355ecedbdd7911383df4a9da2263",
+                    "x": 108,
+                    "y": 216
+                },
+                {
+                    "u": "https://preview.redd.it/qw92od7gbhwc1.jpg?width=216&crop=smart&auto=webp&s=5656190d6a518c513d56615d960a78673eb18c33",
+                    "x": 216,
+                    "y": 432
+                },
+                {
+                    "u": "https://preview.redd.it/qw92od7gbhwc1.jpg?width=320&crop=smart&auto=webp&s=1f84b1ed3b3f195d54cac229ff50cc60d4147625",
+                    "x": 320,
+                    "y": 640
+                },
+                {
+                    "u": "https://preview.redd.it/qw92od7gbhwc1.jpg?width=640&crop=smart&auto=webp&s=23437fb8f00906695d0892b74cbbeb91a4089807",
+                    "x": 640,
+                    "y": 1280
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/qw92od7gbhwc1.jpg?width=828&format=pjpg&auto=webp&s=38d2dc8b53fafdf088d18d92adcb72a77797408b",
+                "x": 828,
+                "y": 1792
+            },
+            "status": "valid"
+        },
+        "xa2ibe7gbhwc1": {
+            "e": "Image",
+            "id": "xa2ibe7gbhwc1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/xa2ibe7gbhwc1.jpg?width=108&crop=smart&auto=webp&s=f4e1ecc16514af300fd6382e03cf3c71fda2c29e",
+                    "x": 108,
+                    "y": 216
+                },
+                {
+                    "u": "https://preview.redd.it/xa2ibe7gbhwc1.jpg?width=216&crop=smart&auto=webp&s=513d22268a78558ac288f57d3ea2a44ae9b4075c",
+                    "x": 216,
+                    "y": 432
+                },
+                {
+                    "u": "https://preview.redd.it/xa2ibe7gbhwc1.jpg?width=320&crop=smart&auto=webp&s=d31a6941a38fd4828ad9d859e0b0e36a6b13a9ee",
+                    "x": 320,
+                    "y": 640
+                },
+                {
+                    "u": "https://preview.redd.it/xa2ibe7gbhwc1.jpg?width=640&crop=smart&auto=webp&s=fdc232935e6f2002e92bfdb21b34b54d3b6eb4dc",
+                    "x": 640,
+                    "y": 1280
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/xa2ibe7gbhwc1.jpg?width=828&format=pjpg&auto=webp&s=63576e76009ebdf5483e90fa804b47a85d149f06",
+                "x": 828,
+                "y": 1792
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1cc78zx",
+    "no_follow": true,
+    "num_comments": 2,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1cc78zx/youcom_review/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1713987053,
+    "saved": false,
+    "score": 0,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "I\u2019ve been using you.com pro for one week , i feel like it\u2019s not really using the AI models that it claims that it use , i tried to answer a simple question to all of it\u2019s AI models that require a simple search on any search engine to get it right but they all failed except the (research) model which i don\u2019t really know which AI model it is using.\n\n\nThe question was ( 1 USD to EGP ) i wanted it to easily tell me the instant exchange rate for the dollar to the egyptian pound , all of the results were not updated since like 6 months ago as shown in the screenshots , it\u2019s telling me exchange rate 1 usd = 30.75 egp which is not true it\u2019s 47.90 !",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5203437,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/AHXJxGz48Ki9Ar3DlPSt2uPNh2z0IbkYiY554UNnx9E.jpg",
+    "thumbnail_height": 140,
+    "thumbnail_width": 140,
+    "title": "You.com review",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 0,
+    "upvote_ratio": 0.33000001311302185,
+    "url": "https://www.reddit.com/gallery/1cc78zx",
+    "url_overridden_by_dest": "https://www.reddit.com/gallery/1cc78zx",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

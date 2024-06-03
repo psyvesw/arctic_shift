@@ -1,0 +1,210 @@
+{
+    "_meta": {
+        "removal_type": "reddit",
+        "retrieved_2nd_on": 1713402118,
+        "was_deleted_later": true
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "BabelCloud",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_9jj5ixt8r",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1713272512,
+    "created_utc": 1713272512,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1c5fjaq",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#94e044",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Other "
+        }
+    ],
+    "link_flair_template_id": "b4536a20-7be9-11ed-9a10-deed22fd00f8",
+    "link_flair_text": "Other ",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "3l2lnxsx9uuc1": {
+            "e": "Image",
+            "id": "3l2lnxsx9uuc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/3l2lnxsx9uuc1.png?width=108&crop=smart&auto=webp&s=fab9a20270c7cd9c9ae7aad78c6b859e69ddd97f",
+                    "x": 108,
+                    "y": 81
+                },
+                {
+                    "u": "https://preview.redd.it/3l2lnxsx9uuc1.png?width=216&crop=smart&auto=webp&s=6ba4af623b86f021f90a10c7e7ac0ad1bee945cc",
+                    "x": 216,
+                    "y": 162
+                },
+                {
+                    "u": "https://preview.redd.it/3l2lnxsx9uuc1.png?width=320&crop=smart&auto=webp&s=35797ed6fb904162810062595a42ff6605381d5a",
+                    "x": 320,
+                    "y": 240
+                },
+                {
+                    "u": "https://preview.redd.it/3l2lnxsx9uuc1.png?width=640&crop=smart&auto=webp&s=38a46e9d3a91506966db8e4e0a7e26b8d1dac604",
+                    "x": 640,
+                    "y": 481
+                },
+                {
+                    "u": "https://preview.redd.it/3l2lnxsx9uuc1.png?width=960&crop=smart&auto=webp&s=8c5d66697a19d5cf3fb78f886298513ad9bbe763",
+                    "x": 960,
+                    "y": 722
+                },
+                {
+                    "u": "https://preview.redd.it/3l2lnxsx9uuc1.png?width=1080&crop=smart&auto=webp&s=a48f797cf9ad3e7f71fb44a92cf0a4c02872f665",
+                    "x": 1080,
+                    "y": 813
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/3l2lnxsx9uuc1.png?width=1080&format=png&auto=webp&s=a8bd542dd07e44aa31af4068834623e67fc7fd8e",
+                "x": 1080,
+                "y": 813
+            },
+            "status": "valid"
+        },
+        "jkzm44qfauuc1": {
+            "status": "unprocessed"
+        },
+        "xa2zl6i6auuc1": {
+            "e": "Image",
+            "id": "xa2zl6i6auuc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/xa2zl6i6auuc1.png?width=108&crop=smart&auto=webp&s=33802ab7555cb60366437a47407f7d9cbf26d011",
+                    "x": 108,
+                    "y": 61
+                },
+                {
+                    "u": "https://preview.redd.it/xa2zl6i6auuc1.png?width=216&crop=smart&auto=webp&s=2649b061f467e3fe2ed6da3056dfd4d40d8ddc5d",
+                    "x": 216,
+                    "y": 122
+                },
+                {
+                    "u": "https://preview.redd.it/xa2zl6i6auuc1.png?width=320&crop=smart&auto=webp&s=b477876a8e3769189012d3b08d6b908c82feb287",
+                    "x": 320,
+                    "y": 181
+                },
+                {
+                    "u": "https://preview.redd.it/xa2zl6i6auuc1.png?width=640&crop=smart&auto=webp&s=6001f26db499b5827785762214d9fa36f28dc189",
+                    "x": 640,
+                    "y": 363
+                },
+                {
+                    "u": "https://preview.redd.it/xa2zl6i6auuc1.png?width=960&crop=smart&auto=webp&s=97f24c892a344ddbf9a3ba59f5d017398c0c0452",
+                    "x": 960,
+                    "y": 544
+                },
+                {
+                    "u": "https://preview.redd.it/xa2zl6i6auuc1.png?width=1080&crop=smart&auto=webp&s=a3d72c201957f209bcd9616c1fcab96d1dd7ac62",
+                    "x": 1080,
+                    "y": 612
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/xa2zl6i6auuc1.png?width=1080&format=png&auto=webp&s=b85a6d2c1aeef20e09c55b0c3c40a7479c8622ee",
+                "x": 1080,
+                "y": 613
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1c5fjaq",
+    "no_follow": false,
+    "num_comments": 1,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1c5fjaq/the_path_to_agi_12_predictions_for_the_large/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1713272526,
+    "saved": false,
+    "score": 0,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "I do not believe in AGI (Artificial General Intelligence), because I do not believe that humanity was created to ultimately create AGI that would lead to our own destruction. However, I do believe that the pursuit of AGI can lead to the development of many technologies that will benefit humanity.\n\nOver a year has passed since the introduction of ChatGPT, and it\u2019s clear that the industry has reached deeper waters. Surface-level applications are gradually disappearing, giving way to Agents. Just a year ago, spending $100 a month on OpenAI would have classified you as a major user; now, we\u2019re averaging $1000 per day. Prompts are no longer about fitting a few templates by hand; instead, they are generated by a complex mechanism. Our average Prompt is 20,000 tokens long, and an Agent can easily handle jobs that are several hundred thousand tokens, with the longer ones reaching up to 20 million tokens.\n\nI recently read an article titled \u201c[Interesting or Useful](https://new.qq.com/rain/a/20240404A07A0Q00),\u201d which had a significant impact on me. It\u2019s the best piece I\u2019ve read in the past six months that discusses the current AI landscape, and it resonated with me, perhaps because the author discussed the issues from an application perspective, which is closely related to my work developing Agents over the last half-year.\n\n[Let's see who is still alive after a year](https://preview.redd.it/3l2lnxsx9uuc1.png?width=1080&format=png&auto=webp&s=a8bd542dd07e44aa31af4068834623e67fc7fd8e)\n\nCoupled with recent frequent communications with investors, I\u2019ve had some reflections that I\u2019ve recorded for future contemplation.\n\n# The Barrier of Models\n\nWhy address this issue first? After the release of Claude 3, we tested the migration cost and found that we could seamlessly switch an Agent from GPT-4 to Claude 3 without changing a single line of code or Prompt. This was quite shocking to me. In principle, the technologies required for large models are public, and with the current development of the model industry, every company\u2019s models are converging towards GPT-4, with some even surpassing it, such as Claude 3. Does this lead to the conclusion that large models have no technological barriers, only engineering ones? That is, if the industry\u2019s growth slows down, the differences between companies will quickly diminish or even disappear. This implies that the capabilities provided by large models are more like mobile operators, with almost zero cost for upper-layer migration. From this perspective, large models are not a good business. But can you really create a model that outperforms the current commercial models or costs less than the existing open-source models? Ultimately, large models are bound to be a business with high capital and policy barriers.\n\nThere are many rumors currently suggesting that GPT-5 will have built-in Agent capabilities. I boldly speculate that this statement is half correct:\n\n**Speculation 1: OpenAI will definitely provide System 2 capabilities, that is, Agent capabilities.**\n\nGiven that the current Chat interface is stateless and too simplistic, which is not conducive to the development of complex Agents in upper-layer applications nor to the building of a moat for OpenAI, it is certain that OpenAI will provide stateful interfaces, such as a Plan interface, to deeply integrate the model with applications.\n\n**Speculation 2: The System 2 capabilities provided by OpenAI will be B2B-oriented, and won\u2019t delve into Agents for specific scenarios.**\n\nEvery specific scene involves industry know-how and private data, which for OpenAI is akin to guerrilla warfare, and is pointless. They only need to capture the largest scenario, transitioning from personal super assistant ChatGPT to ChatAgent.\n\n**Speculation 3: There are no so-called vertical models.**\n\nI firmly believe that intelligence is universal, and the only way to achieve it is through the scaling law. Practical results show that smaller models are simply not as smart as larger ones. Currently, only GPT-4 and Claude 3 are capable of satisfying super complex reasoning scenarios like those required by a Babel Agent. OpenAI\u2019s abandonment of the large coding model CodeX is very telling. Thus, I think that training a vertical large model is most likely a fool\u2019s errand, regardless of the field. However, Fine-Tuning (FT) may persist in the long term.\n\n&#x200B;\n\nhttps://preview.redd.it/xa2zl6i6auuc1.png?width=1080&format=png&auto=webp&s=b85a6d2c1aeef20e09c55b0c3c40a7479c8622ee\n\n# The Value of Infra\n\nThere are two types of infrastructures in the field of AI: one type supports the construction of large models, and the other supports the construction of applications for large models (such as Agents). Let\u2019s discuss these separately, starting with the infrastructure for training and inference of large models.\n\n**Speculation 4: The significant value of energy/data centers**\n\nRecently, a news story reported that a joint team from Microsoft and OpenAI caused a citywide power outage due to their GPU data center operations. Regardless of how much truth there is to this story, it at least indicates that energy is a crucial strategic resource in the age of AI. Therefore, any infrastructure that can provide value in terms of energy is extremely valuable. Data centers may be worth much more than many people think.\n\n**Speculation 5: A diverse range of data-related products.**\n\nWhether working on underlying models or higher-level applications, data is the core value. However, the publicly available data on the internet has largely been exhausted. A significant amount of new data is AI/artificially generated, and data naturally has characteristics such as modality and industry specificity, making it impossible to have a one-size-fits-all data annotation service. Moreover, as training data volumes increase, new challenges arise in how to store, transport, and analyze the data.\n\n**Speculation 6: Convergence in the LLMOps market**\n\nUltimately, only a few companies are working on underlying models, and these companies generally have their own set of tools and pipelines, which are part of their competitive edge. Therefore, there is no market for a standardized LLMOps product. Additionally, there is no reason why open-source models would not develop an infrastructure similar to Kubernetes (K8S), which would benefit everyone in the industry. However, such infrastructure is typically the domain of large corporations.\n\nNow let\u2019s discuss the infrastructure for developing large model applications.\n\nThe most well-known player in this field is Langchain, which got an early start and quickly accumulated a user base by leveraging cognitive gaps, then snowballed from there to success. However, as application development has progressed, the landscape in this area has become relatively clear.\n\n**Speculation 7: Tools that simplify the development of large model applications will, over time, fall out of favor.**\n\nWhenever a new technology emerges, most people are initially in the dark, creating a demand for low-code products that can accelerate developers\u2019 understanding of new concepts. However, from the PC era to the internet and mobile internet era, these drag-and-drop products have never really captured a large market. Another sign is that more and more model APIs are aligning with OpenAI, even directly using OpenAI\u2019s SDK, which has made products that simplified API calls redundant. OpenAI\u2019s own GPT products are an extreme example of this type of tool. Currently, the state of these is clear for all to see. As an application development team, we have virtually no need for such tools. Langchain is already moving into deeper waters, not to reduce the threshold for application development, but to assist in the development of complex applications.\n\n**Speculation 8: It\u2019s too early for Agent frameworks.**\n\nSince the advent of AutoGPT, various frameworks have emerged to \u201cteach people how to make Agents.\u201d During the development of Babel Agent, we carefully evaluated almost all the frameworks on the market and ended up not adopting any of them. The reason is that the deeper you go, the less they meet your needs. Normally, frameworks are abstracted from mature applications, but now there isn\u2019t even a single mature Agent application, which seems like putting the cart before the horse. I believe there will eventually be an Agent framework, but it is very likely not to come from any of the current framework-building teams, and as mentioned earlier, there\u2019s a possibility that large models will come with their own Agent development frameworks.\n\n**Speculation 9: AgentOps is a blue ocean.**\n\nHere, AgentOps specifically refers to the observation aspect, or more accurately, Agent APM (Application Performance Management). As previously mentioned, I don\u2019t believe there is a unified approach to Agent development at present, but observation is possible. A Babel Agent job can involve dozens of consecutive calls to large models, each involving tens of thousands of tokens, with a hierarchical call structure. Without observation tools, trying to analyze logs with the naked eye would quickly lead to blindness \u2014 this is a real and pressing need. However, perhaps I\u2019m out of the loop, but it seems that only LangSmith is seriously working on this. I think this is the most valuable product that the LangChain team currently offers.\n\n# Application Trends\n\nLooking ahead 10 years, shouldn\u2019t the biggest market brought about by the large model revolution appear at the application layer?\n\n**Speculation 10: All Applications Become Agents.**\n\nThe most fundamental value of the intelligence produced by large models is their partial substitution for human intelligence. If applications cannot solve problems the way humans do, their value will be extremely limited. As we have seen in the past year, there is much excitement within the industry, but outside of it, there\u2019s hardly any awareness. Therefore, I boldly speculate that a great many agents will emerge in both interesting and useful directions, which will allow the general public to feel the value of AI.\n\n**Speculation 11: The Core Barrier for Agents Comes from Data.**\n\nIf one must speak of a secret recipe for a barrier in application development, it would be data. This includes proprietary industry data, industry know-how, SOPs, synthetic data, and so on. Whether it\u2019s RAG or FT, it\u2019s data that makes the model perform differently. Currently, other engineering differences are not clear and are likely to be leveled by industry development. However, how long this leveling process will take, and what new barriers might develop during this process, remains unknown.\n\n**Speculation 12: General Consumer-Facing Agents Have No Entrepreneurial Opportunity.**\n\nAny application that overlaps with ChatGPT scenarios, including those that are surface-level applications, have no room for survival, not to mention companies like Apple that have yet to enter the field, controlling physical world gateways. The biggest trap for these kinds of applications is that they may see growth in the early stages, but in reality, they are just finding Product-Market Fit (PMF) for larger companies. This has happened many times in history, and we can learn from it without further elaboration.  \nFinally, to prove that the above analysis was indeed made after practical thinking, here is a demonstration video of Babel Agent, showing how to build a question-and-answer application with a search function, similar to Perplexity:\n\n&#x200B;\n\nhttps://reddit.com/link/1c5fjaq/video/jkzm44qfauuc1/player\n\nWe believe AI Developers can take over complex, long-cycle tasks from humans. As mentioned at the beginning, I do not believe in AGI, but I do believe in ACI, Artificial Conditional Intelligence. Agents are the embodiment of ACI, and time will tell.",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5097732,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/2DK1ml60D0AO5xxblBij7NbsRvXVA3rrq4qLT3hjNas.jpg",
+    "thumbnail_height": 105,
+    "thumbnail_width": 140,
+    "title": "The Path to AGI: 12 Predictions for the Large Language Model Industry",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 0,
+    "upvote_ratio": 0.4000000059604645,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1c5fjaq/the_path_to_agi_12_predictions_for_the_large/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

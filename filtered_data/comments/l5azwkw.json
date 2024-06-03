@@ -1,0 +1,110 @@
+{
+    "_meta": {
+        "is_edited": true,
+        "retrieved_2nd_on": 1716591325
+    },
+    "all_awardings": [],
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "associated_award": null,
+    "author": "SandIntelligent247",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_7q29806l",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "body": "In situations like this where chatgpt isint useful, ask it questions to guide it. 1) research an extensive list of synonym 2) group them by number of syllabus",
+    "can_gild": false,
+    "can_mod_post": false,
+    "collapsed": false,
+    "collapsed_because_crowd_control": null,
+    "collapsed_reason": null,
+    "collapsed_reason_code": null,
+    "comment_type": null,
+    "controversiality": 0,
+    "created": 1716461718,
+    "created_utc": 1716461718,
+    "distinguished": null,
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "id": "l5azwkw",
+    "is_submitter": false,
+    "likes": null,
+    "link_id": "t3_1cyd2fs",
+    "locked": false,
+    "media_metadata": {
+        "h3ib14lir52d1": {
+            "e": "Image",
+            "id": "h3ib14lir52d1",
+            "m": "image/jpeg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/h3ib14lir52d1.jpeg?width=108&crop=smart&auto=webp&s=cb5f36896271fca82c0d69de84a94f1b5dc79972",
+                    "x": 108,
+                    "y": 216
+                },
+                {
+                    "u": "https://preview.redd.it/h3ib14lir52d1.jpeg?width=216&crop=smart&auto=webp&s=00972b49db5d957bff7964d4366aab73eefbbd33",
+                    "x": 216,
+                    "y": 432
+                },
+                {
+                    "u": "https://preview.redd.it/h3ib14lir52d1.jpeg?width=320&crop=smart&auto=webp&s=88355810a0d533b950ecb6f1ce1cc37ce6627b69",
+                    "x": 320,
+                    "y": 640
+                },
+                {
+                    "u": "https://preview.redd.it/h3ib14lir52d1.jpeg?width=640&crop=smart&auto=webp&s=c33cec8b952d7f77dc19637deec0483fee9fbeeb",
+                    "x": 640,
+                    "y": 1280
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/h3ib14lir52d1.jpeg?width=828&format=pjpg&auto=webp&s=23be0ec8c69122c30a16f7562b6b4925cb204610",
+                "x": 828,
+                "y": 1792
+            },
+            "status": "valid"
+        }
+    },
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t1_l5azwkw",
+    "no_follow": true,
+    "num_reports": null,
+    "parent_id": "t3_1cyd2fs",
+    "permalink": "/r/ChatGPT/comments/1cyd2fs/i_think_i_broke_it/l5azwkw/",
+    "removal_reason": null,
+    "replies": "",
+    "report_reasons": null,
+    "retrieved_on": 1716461735,
+    "saved": false,
+    "score": 1,
+    "score_hidden": false,
+    "send_replies": true,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_type": "public",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "unrepliable_reason": null,
+    "ups": 1,
+    "user_reports": []
+}

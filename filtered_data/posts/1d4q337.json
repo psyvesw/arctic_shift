@@ -1,0 +1,169 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1717270851
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "BoringPhilosopher1",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_7w6jp3d",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1717141241,
+    "created_utc": 1717141241,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1d4q337",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#0dd3bb",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "GPTs"
+        },
+        {
+            "a": ":illuminati:",
+            "e": "emoji",
+            "u": "https://emoji.redditmedia.com/mv60bklq1guz_t5_3nqvj/illuminati"
+        }
+    ],
+    "link_flair_template_id": "bcb51ede-7ef9-11ee-b24e-cecbc98d93fe",
+    "link_flair_text": "GPTs:illuminati:",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1d4q337",
+    "no_follow": false,
+    "num_comments": 1,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1d4q337/code_copilot_and_open_ai_api_to_parse_resumecv/",
+    "pinned": false,
+    "post_hint": "self",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "Y_NQNN0SipyvKTSFJa5HW2ZjgZGny2AyZs6V_B2LLEc",
+                "resolutions": [
+                    {
+                        "height": 56,
+                        "url": "https://external-preview.redd.it/nBCFhtANS-YsX3XDayWz-g87o1goAMFMWZfZuIyWI_k.jpg?width=108&crop=smart&auto=webp&s=0152149879a444a8d11ceab346cb1617d352f8dd",
+                        "width": 108
+                    },
+                    {
+                        "height": 113,
+                        "url": "https://external-preview.redd.it/nBCFhtANS-YsX3XDayWz-g87o1goAMFMWZfZuIyWI_k.jpg?width=216&crop=smart&auto=webp&s=8951eba1f4a9e9636dbaed64f217c760e936a379",
+                        "width": 216
+                    },
+                    {
+                        "height": 168,
+                        "url": "https://external-preview.redd.it/nBCFhtANS-YsX3XDayWz-g87o1goAMFMWZfZuIyWI_k.jpg?width=320&crop=smart&auto=webp&s=916a29b07f5a60dfdf3491021016a14e05cad918",
+                        "width": 320
+                    },
+                    {
+                        "height": 336,
+                        "url": "https://external-preview.redd.it/nBCFhtANS-YsX3XDayWz-g87o1goAMFMWZfZuIyWI_k.jpg?width=640&crop=smart&auto=webp&s=5fe6ba639c3722b17bd9b9fefebd82d7c08b551b",
+                        "width": 640
+                    },
+                    {
+                        "height": 504,
+                        "url": "https://external-preview.redd.it/nBCFhtANS-YsX3XDayWz-g87o1goAMFMWZfZuIyWI_k.jpg?width=960&crop=smart&auto=webp&s=faa4a6a1307e213016846cd0b3efc32ee366f992",
+                        "width": 960
+                    },
+                    {
+                        "height": 567,
+                        "url": "https://external-preview.redd.it/nBCFhtANS-YsX3XDayWz-g87o1goAMFMWZfZuIyWI_k.jpg?width=1080&crop=smart&auto=webp&s=eb0eb46faae29a90f7de927a198b5799890405ca",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 630,
+                    "url": "https://external-preview.redd.it/nBCFhtANS-YsX3XDayWz-g87o1goAMFMWZfZuIyWI_k.jpg?auto=webp&s=40f324dc76c180d63a522b298e17c5b48337e0ff",
+                    "width": 1200
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1717141261,
+    "saved": false,
+    "score": 1,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "I'm using Open AI on [make.com](http://make.com) with the transform text to structured data module to parse CV/resume data from a file on One Drive. \n\nIt's been okay some of the time but I'm getting the following issues\n\n1. Occasionally it'll parse the structured data well as per the sample format at the bottom of the post with is great. However sometimes it will just return the name of the file or the file URL. Despite not changing the description or prompt. \n\n2. Secondly when I get the structured data it is outputted as one bundle so all of the sample format would be one singular output. However, with another scenario built which parses emails it worked perfectly. Due to the fact I added data definitions for around 10 lots of data I needed. This then returned the below summary data which was great as it enabled me to then use specific bits of data like just the first name \"John\" for example.\n\n3. As Resumes/CV's could have endless amounts of different data definitions and outputted structured data for employment history and education. Is there a way of getting the module to automatically define the definitions based on the JSON data it's returned? Seeing as it's already picked up that Name is the parameter and John Smith is the data to return?\n\n**Summary Data:**\n\nFirst Name: (array)\n\nOutput 1. John\n\nSurname: (array)\n\nOutput 1. Smith \n\n**Sample Format:**\n\n{\n\n\u00a0 \"name\": \"John Smith\",\n\n\u00a0 \"location\": \"England, United Kingdom\",\n\n\u00a0 \"mobile\": \"+4400000000\",\n\n\u00a0 \"email\": \"Sample@yahoo.com\",\n\n\u00a0 \"personal\\_profile\": {\n\n\"education\": \\[\n\n{\n\n\"degree\": \"MSc in Project Management\",\n\n\"institution\": \"University of Life\",\n\n\"years\": \"1901 \u2013 1903\"\n\n},\n\nwork\\_experience\": \\[\n\n{\n\n\"position\": \"Worker\",\n\n\"company\": \"Employer\",\n\n\"duration\": \"Sep 1905 till present\"\n\n},\n\n{\n\n\"position\": \"Worker\",\n\n\"company\": \"Employer \",\n\n\"duration\": \"Oct 2022- June 2023\"",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5706507,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "self",
+    "thumbnail_height": null,
+    "thumbnail_width": null,
+    "title": "Code CoPilot and Open AI API to Parse resume/CV structured data",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 1,
+    "upvote_ratio": 0.6700000166893005,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1d4q337/code_copilot_and_open_ai_api_to_parse_resumecv/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

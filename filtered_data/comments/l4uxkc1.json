@@ -1,0 +1,114 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1716332577
+    },
+    "all_awardings": [],
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "associated_award": null,
+    "author": "Razcsi",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_5s035bgr",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "body": "Of course, [here](https://openai.com/index/how-the-voices-for-chatgpt-were-chosen/) it is\n\nhttps://preview.redd.it/9ttnhmdjck1d1.jpeg?width=1079&format=pjpg&auto=webp&s=5cab50d2b2824ffb0e82e531324b1ab139d65ad7",
+    "can_gild": false,
+    "can_mod_post": false,
+    "collapsed": false,
+    "collapsed_because_crowd_control": null,
+    "collapsed_reason": null,
+    "collapsed_reason_code": null,
+    "comment_type": null,
+    "controversiality": 0,
+    "created": 1716202964,
+    "created_utc": 1716202964,
+    "distinguished": null,
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "id": "l4uxkc1",
+    "is_submitter": false,
+    "likes": null,
+    "link_id": "t3_1cwb5v2",
+    "locked": false,
+    "media_metadata": {
+        "9ttnhmdjck1d1": {
+            "e": "Image",
+            "id": "9ttnhmdjck1d1",
+            "m": "image/jpeg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/9ttnhmdjck1d1.jpeg?width=108&crop=smart&auto=webp&s=27e1c3ae88be64df59d81a6d536bc95501e72bb6",
+                    "x": 108,
+                    "y": 101
+                },
+                {
+                    "u": "https://preview.redd.it/9ttnhmdjck1d1.jpeg?width=216&crop=smart&auto=webp&s=11231f96a998c9db5f97ec2a5399f923b6bbd1c1",
+                    "x": 216,
+                    "y": 203
+                },
+                {
+                    "u": "https://preview.redd.it/9ttnhmdjck1d1.jpeg?width=320&crop=smart&auto=webp&s=fcc2a5e24dcea6fadfbd494753275549b75fa28f",
+                    "x": 320,
+                    "y": 301
+                },
+                {
+                    "u": "https://preview.redd.it/9ttnhmdjck1d1.jpeg?width=640&crop=smart&auto=webp&s=4fc47f189c0e5718b498ddabeebc71e789ddba56",
+                    "x": 640,
+                    "y": 602
+                },
+                {
+                    "u": "https://preview.redd.it/9ttnhmdjck1d1.jpeg?width=960&crop=smart&auto=webp&s=867ebfb5ac15fe9d1855c2eb82ca69695d8815a3",
+                    "x": 960,
+                    "y": 903
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/9ttnhmdjck1d1.jpeg?width=1079&format=pjpg&auto=webp&s=5cab50d2b2824ffb0e82e531324b1ab139d65ad7",
+                "x": 1079,
+                "y": 1015
+            },
+            "status": "valid"
+        }
+    },
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t1_l4uxkc1",
+    "no_follow": true,
+    "num_reports": null,
+    "parent_id": "t1_l4uwz9p",
+    "permalink": "/r/ChatGPT/comments/1cwb5v2/with_the_sky_falling_if_you_got_to_choose_a_voice/l4uxkc1/",
+    "removal_reason": null,
+    "replies": "",
+    "report_reasons": null,
+    "retrieved_on": 1716202981,
+    "saved": false,
+    "score": 10,
+    "score_hidden": false,
+    "send_replies": true,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_type": "public",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "unrepliable_reason": null,
+    "ups": 10,
+    "user_reports": []
+}

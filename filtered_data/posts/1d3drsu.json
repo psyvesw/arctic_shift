@@ -1,0 +1,172 @@
+{
+    "_meta": {
+        "removal_type": "moderator",
+        "retrieved_2nd_on": 1717123097,
+        "was_deleted_later": true
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "AIGPTJournal",
+    "author_flair_background_color": "",
+    "author_flair_css_class": null,
+    "author_flair_richtext": [
+        {
+            "a": ":Discord:",
+            "e": "emoji",
+            "u": "https://emoji.redditmedia.com/0zlhaela6zub1_t5_7hqomg/Discord"
+        }
+    ],
+    "author_flair_template_id": null,
+    "author_flair_text": ":Discord:",
+    "author_flair_text_color": "dark",
+    "author_flair_type": "richtext",
+    "author_fullname": "t2_j1gey6ibw",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1716993486,
+    "created_utc": 1716993486,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1d3drsu",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#373c3f",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Resources "
+        }
+    ],
+    "link_flair_template_id": "c8a7075c-9962-11ed-86d0-b2c48b46bf22",
+    "link_flair_text": "Resources ",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1d3drsu",
+    "no_follow": true,
+    "num_comments": 2,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1d3drsu/7_reasons_why_chatgpt_is_the_ultimate_life_hack/",
+    "pinned": false,
+    "post_hint": "self",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "O3IzmcFPGrfSkQgbCRDdCP6OW48Eld2AhAorUoAeLy8",
+                "resolutions": [
+                    {
+                        "height": 72,
+                        "url": "https://external-preview.redd.it/K75AtLiG94fpkmIXWeU_zQCL1SF37nEaZjsoAxoz5s0.jpg?width=108&crop=smart&auto=webp&s=0fd45fd056006fe310766b1549097d1c07b2195d",
+                        "width": 108
+                    },
+                    {
+                        "height": 144,
+                        "url": "https://external-preview.redd.it/K75AtLiG94fpkmIXWeU_zQCL1SF37nEaZjsoAxoz5s0.jpg?width=216&crop=smart&auto=webp&s=0887d615617146328f13c282b673be3bee5c90a0",
+                        "width": 216
+                    },
+                    {
+                        "height": 213,
+                        "url": "https://external-preview.redd.it/K75AtLiG94fpkmIXWeU_zQCL1SF37nEaZjsoAxoz5s0.jpg?width=320&crop=smart&auto=webp&s=4d5a7c1018bd175495cf240f593c80b3b5bd14df",
+                        "width": 320
+                    },
+                    {
+                        "height": 426,
+                        "url": "https://external-preview.redd.it/K75AtLiG94fpkmIXWeU_zQCL1SF37nEaZjsoAxoz5s0.jpg?width=640&crop=smart&auto=webp&s=bc507e03305eed90e89042ef014fb31b98bc6e17",
+                        "width": 640
+                    },
+                    {
+                        "height": 640,
+                        "url": "https://external-preview.redd.it/K75AtLiG94fpkmIXWeU_zQCL1SF37nEaZjsoAxoz5s0.jpg?width=960&crop=smart&auto=webp&s=f8cdfd72e5dc9369865a5ca94fd8ef6616ed99f3",
+                        "width": 960
+                    },
+                    {
+                        "height": 720,
+                        "url": "https://external-preview.redd.it/K75AtLiG94fpkmIXWeU_zQCL1SF37nEaZjsoAxoz5s0.jpg?width=1080&crop=smart&auto=webp&s=81a20989479ff765e3cdc58395513d01095c033a",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 1067,
+                    "url": "https://external-preview.redd.it/K75AtLiG94fpkmIXWeU_zQCL1SF37nEaZjsoAxoz5s0.jpg?auto=webp&s=dfe45ada0302da610c1e7bfd21c9d259b714bfc9",
+                    "width": 1600
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1716993503,
+    "saved": false,
+    "score": 0,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "Check out our latest article: \"7 Reasons Why ChatGPT is the Ultimate Life Hack (Don't Miss #3!)\" This AI tool is seriously mind-blowing! It can help you write emails, generate ideas, learn new things... the possibilities are endless\n\nhttps://aigptjournal.com/home/chatgpt-life-hacks/",
+    "send_replies": false,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5680182,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "self",
+    "thumbnail_height": null,
+    "thumbnail_width": null,
+    "title": "7 Reasons Why ChatGPT is the Ultimate Life Hack (Don't Miss #3!)",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 0,
+    "upvote_ratio": 0.36000001430511475,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1d3drsu/7_reasons_why_chatgpt_is_the_ultimate_life_hack/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

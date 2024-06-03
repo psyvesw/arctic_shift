@@ -1,0 +1,199 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1712635831
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "Scarlet_Evans",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_v1s9e",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1712505709,
+    "created_utc": 1712505709,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "reddit.com",
+    "downs": 0,
+    "edited": false,
+    "gallery_data": {
+        "items": [
+            {
+                "id": 433617863,
+                "media_id": "jzr6fhxcy2tc1"
+            },
+            {
+                "id": 433617864,
+                "media_id": "fkfwbbcdy2tc1"
+            }
+        ]
+    },
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1by7y2b",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_gallery": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#0079d3",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Educational Purpose Only "
+        }
+    ],
+    "link_flair_template_id": "26e7b998-7bbc-11ed-ba93-22ce55064b6a",
+    "link_flair_text": "Educational Purpose Only ",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "fkfwbbcdy2tc1": {
+            "e": "Image",
+            "id": "fkfwbbcdy2tc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/fkfwbbcdy2tc1.png?width=108&crop=smart&auto=webp&s=69a423678393f908c7de1a9da1f353b7b8118a6e",
+                    "x": 108,
+                    "y": 110
+                },
+                {
+                    "u": "https://preview.redd.it/fkfwbbcdy2tc1.png?width=216&crop=smart&auto=webp&s=e11b1fe6fee929e1215a08dc0aa321496f737112",
+                    "x": 216,
+                    "y": 220
+                },
+                {
+                    "u": "https://preview.redd.it/fkfwbbcdy2tc1.png?width=320&crop=smart&auto=webp&s=cc34b595a7ce0dd100e8e3d1f8f49b2491483810",
+                    "x": 320,
+                    "y": 327
+                },
+                {
+                    "u": "https://preview.redd.it/fkfwbbcdy2tc1.png?width=640&crop=smart&auto=webp&s=bdf90216bb46b2da82a652d088c7bf24bd975f89",
+                    "x": 640,
+                    "y": 654
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/fkfwbbcdy2tc1.png?width=768&format=png&auto=webp&s=e12268be8be4f8ce817a4cb78b06d1ddbdcebfa3",
+                "x": 768,
+                "y": 785
+            },
+            "status": "valid"
+        },
+        "jzr6fhxcy2tc1": {
+            "e": "Image",
+            "id": "jzr6fhxcy2tc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/jzr6fhxcy2tc1.png?width=108&crop=smart&auto=webp&s=bbba741b5869826d6f53a8d5da3633fb1613133a",
+                    "x": 108,
+                    "y": 116
+                },
+                {
+                    "u": "https://preview.redd.it/jzr6fhxcy2tc1.png?width=216&crop=smart&auto=webp&s=fa8c743d281ce6388a0a6a0f932d920a6dd1b7d3",
+                    "x": 216,
+                    "y": 233
+                },
+                {
+                    "u": "https://preview.redd.it/jzr6fhxcy2tc1.png?width=320&crop=smart&auto=webp&s=ded296375e1ea1b3ff39b9e6113bad5c410541d3",
+                    "x": 320,
+                    "y": 346
+                },
+                {
+                    "u": "https://preview.redd.it/jzr6fhxcy2tc1.png?width=640&crop=smart&auto=webp&s=6dedb9ac0da2722fec4af06fa2b37934cef775d6",
+                    "x": 640,
+                    "y": 693
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/jzr6fhxcy2tc1.png?width=768&format=png&auto=webp&s=25f5f2ab1c6f6e43a19eef7cf987b72363b35150",
+                "x": 768,
+                "y": 832
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1by7y2b",
+    "no_follow": false,
+    "num_comments": 6,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1by7y2b/i_found_a_new_way_to_learn_japanese_while/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1712505723,
+    "saved": false,
+    "score": 8,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 4993582,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://a.thumbs.redditmedia.com/iC17YaV6lJl-VzxFqPcg85a7wNgNZJ8kLcof4jzMJ80.jpg",
+    "thumbnail_height": 140,
+    "thumbnail_width": 140,
+    "title": "I found a new way to learn Japanese while watching anime! You didn't caught on something? Just discuss it with chat GPT and it will explain the possibilities and different variants!",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 8,
+    "upvote_ratio": 0.8299999833106995,
+    "url": "https://www.reddit.com/gallery/1by7y2b",
+    "url_overridden_by_dest": "https://www.reddit.com/gallery/1by7y2b",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

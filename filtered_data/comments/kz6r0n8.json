@@ -1,0 +1,114 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1713025006
+    },
+    "all_awardings": [],
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "associated_award": null,
+    "author": "Nowhere-Crab",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_xk2cdg1fv",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "body": "https://preview.redd.it/bz4367z65ztc1.jpeg?width=1024&format=pjpg&auto=webp&s=66cb8686d7c9784b3fa6ce8fcfc6373f94650910\n\nI sent your screenshot to ChatGPT with the caption, \u201cHelp this guy make better art.\u201d This is what it came up with. The superheroes are non-copyrighted versions, of course.",
+    "can_gild": false,
+    "can_mod_post": false,
+    "collapsed": false,
+    "collapsed_because_crowd_control": null,
+    "collapsed_reason": null,
+    "collapsed_reason_code": null,
+    "comment_type": null,
+    "controversiality": 0,
+    "created": 1712895394,
+    "created_utc": 1712895394,
+    "distinguished": null,
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "id": "kz6r0n8",
+    "is_submitter": true,
+    "likes": null,
+    "link_id": "t3_1c1j2k2",
+    "locked": false,
+    "media_metadata": {
+        "bz4367z65ztc1": {
+            "e": "Image",
+            "id": "bz4367z65ztc1",
+            "m": "image/jpeg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/bz4367z65ztc1.jpeg?width=108&crop=smart&auto=webp&s=d75eb3d4f0ada1b20cb87c26ef8fcbd1b50c5597",
+                    "x": 108,
+                    "y": 108
+                },
+                {
+                    "u": "https://preview.redd.it/bz4367z65ztc1.jpeg?width=216&crop=smart&auto=webp&s=ac99a1049b65a37adb5c25b5d1b8297dd70e4bdf",
+                    "x": 216,
+                    "y": 216
+                },
+                {
+                    "u": "https://preview.redd.it/bz4367z65ztc1.jpeg?width=320&crop=smart&auto=webp&s=d4988af71cc579e9fd9450514f1a60505fb7b4ce",
+                    "x": 320,
+                    "y": 320
+                },
+                {
+                    "u": "https://preview.redd.it/bz4367z65ztc1.jpeg?width=640&crop=smart&auto=webp&s=f30449b0122a7e23a47bc0798c28518b376c25d8",
+                    "x": 640,
+                    "y": 640
+                },
+                {
+                    "u": "https://preview.redd.it/bz4367z65ztc1.jpeg?width=960&crop=smart&auto=webp&s=5cb0b50917acc50a7784c71ceb2ed01fa1ed7b73",
+                    "x": 960,
+                    "y": 960
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/bz4367z65ztc1.jpeg?width=1024&format=pjpg&auto=webp&s=66cb8686d7c9784b3fa6ce8fcfc6373f94650910",
+                "x": 1024,
+                "y": 1024
+            },
+            "status": "valid"
+        }
+    },
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t1_kz6r0n8",
+    "no_follow": true,
+    "num_reports": null,
+    "parent_id": "t1_kz67uzf",
+    "permalink": "/r/ChatGPT/comments/1c1j2k2/which_flavor_would_you_try_first/kz6r0n8/",
+    "removal_reason": null,
+    "replies": "",
+    "report_reasons": null,
+    "retrieved_on": 1712895411,
+    "saved": false,
+    "score": 2,
+    "score_hidden": false,
+    "send_replies": true,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_type": "public",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "unrepliable_reason": null,
+    "ups": 2,
+    "user_reports": []
+}

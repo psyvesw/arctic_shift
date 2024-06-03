@@ -1,0 +1,204 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1717209759
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "Rare_Adhesiveness518",
+    "author_flair_background_color": "",
+    "author_flair_css_class": null,
+    "author_flair_richtext": [
+        {
+            "a": ":Discord:",
+            "e": "emoji",
+            "u": "https://emoji.redditmedia.com/0zlhaela6zub1_t5_7hqomg/Discord"
+        }
+    ],
+    "author_flair_template_id": null,
+    "author_flair_text": ":Discord:",
+    "author_flair_text_color": "dark",
+    "author_flair_type": "richtext",
+    "author_fullname": "t2_xvwpuyudd",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1717080148,
+    "created_utc": 1717080148,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1d45on5",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#ddbd37",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "News \ud83d\udcf0"
+        }
+    ],
+    "link_flair_template_id": "1c39d510-f1ac-11ed-8167-5e7479c0f87c",
+    "link_flair_text": "News \ud83d\udcf0",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "1pokpv07sk3d1": {
+            "e": "Image",
+            "id": "1pokpv07sk3d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/1pokpv07sk3d1.png?width=108&crop=smart&auto=webp&s=9df2633f41054e2f84ed91987393830b6556593f",
+                    "x": 108,
+                    "y": 46
+                },
+                {
+                    "u": "https://preview.redd.it/1pokpv07sk3d1.png?width=216&crop=smart&auto=webp&s=2e55435432895eced1d8d20f817c5756a4dfc5eb",
+                    "x": 216,
+                    "y": 93
+                },
+                {
+                    "u": "https://preview.redd.it/1pokpv07sk3d1.png?width=320&crop=smart&auto=webp&s=a5650ea8499b6ed60e0d9a490b2069d5010ac304",
+                    "x": 320,
+                    "y": 137
+                },
+                {
+                    "u": "https://preview.redd.it/1pokpv07sk3d1.png?width=640&crop=smart&auto=webp&s=7833a090dd63724035c8c0af766806526408dde5",
+                    "x": 640,
+                    "y": 275
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/1pokpv07sk3d1.png?width=901&format=png&auto=webp&s=8e4fd834f1eb7d63254067e8e77f74b5e0c7f9b4",
+                "x": 901,
+                "y": 388
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1d45on5",
+    "no_follow": false,
+    "num_comments": 84,
+    "num_crossposts": 1,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1d45on5/most_people_couldnt_give_a_crap_about_using_ai/",
+    "pinned": false,
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "EZ75zus-awCz0huASFrkwV7t6wys8AcB8rzCjomwMx0",
+                "resolutions": [
+                    {
+                        "height": 56,
+                        "url": "https://external-preview.redd.it/vzUruthv7vE_oQR5M_bswD2pPrNzFXvvR0jz39c8boQ.jpg?width=108&crop=smart&auto=webp&s=7f735c8db305824138c3f5f3a682a2fe87bcd5fd",
+                        "width": 108
+                    },
+                    {
+                        "height": 113,
+                        "url": "https://external-preview.redd.it/vzUruthv7vE_oQR5M_bswD2pPrNzFXvvR0jz39c8boQ.jpg?width=216&crop=smart&auto=webp&s=52b6ec31da0d10d7d960c415d1b1c7d0a8ea16b3",
+                        "width": 216
+                    },
+                    {
+                        "height": 168,
+                        "url": "https://external-preview.redd.it/vzUruthv7vE_oQR5M_bswD2pPrNzFXvvR0jz39c8boQ.jpg?width=320&crop=smart&auto=webp&s=03b5f033831084647e05cb07abf01e7aeef613a8",
+                        "width": 320
+                    },
+                    {
+                        "height": 336,
+                        "url": "https://external-preview.redd.it/vzUruthv7vE_oQR5M_bswD2pPrNzFXvvR0jz39c8boQ.jpg?width=640&crop=smart&auto=webp&s=5f95aee0a61019f176ff3198402559f6f6b67737",
+                        "width": 640
+                    },
+                    {
+                        "height": 504,
+                        "url": "https://external-preview.redd.it/vzUruthv7vE_oQR5M_bswD2pPrNzFXvvR0jz39c8boQ.jpg?width=960&crop=smart&auto=webp&s=8865ffaa1c7070643bc1d531680205ef9f9dfc45",
+                        "width": 960
+                    },
+                    {
+                        "height": 567,
+                        "url": "https://external-preview.redd.it/vzUruthv7vE_oQR5M_bswD2pPrNzFXvvR0jz39c8boQ.jpg?width=1080&crop=smart&auto=webp&s=373ea984f53fece816edd54c5543097c1304fa23",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 630,
+                    "url": "https://external-preview.redd.it/vzUruthv7vE_oQR5M_bswD2pPrNzFXvvR0jz39c8boQ.jpg?auto=webp&s=948652c7c62cad722d4a8208d08191714afd2e89",
+                    "width": 1200
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1717080165,
+    "saved": false,
+    "score": 155,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "In a [new study conducted by Oxford University](https://futurism.com/the-byte/people-disinterested-ai-survey) and the Reuters Institute that asked roughly 12,000 people in six countries about AI, large swaths of respondents said they had never used popular tools like OpenAI's ChatGPT or Microsoft Copilot \u2014 and between 20 and 30 percent said they'd never even heard of them.\n\nhttps://preview.redd.it/1pokpv07sk3d1.png?width=901&format=png&auto=webp&s=8e4fd834f1eb7d63254067e8e77f74b5e0c7f9b4\n\n**Key points:**\n\n* The study also found that when it comes to trusting the outputs of AI tools, a vast majority of respondents simply haven't used them enough to form an opinion.\n* The study did identify a **generational gap**. Younger demographics were more likely to have used AI tools and anticipate them having a significant impact on their lives.\n* This suggests a potential future where AI becomes more integrated into daily routines, especially for younger generations.\n\nThe overarching message from the study is the need for a more nuanced approach to AI development. Policymakers and businesses should consider the public's current lack of engagement and varied expectations when designing and implementing AI solutions.\n\n[Study Link (Reuters Institute)](https://reutersinstitute.politics.ox.ac.uk/what-does-public-six-countries-think-generative-ai-news)\n\n[Source Link (Futurism)](https://futurism.com/the-byte/people-disinterested-ai-survey)\n\n**PS: If you enjoyed this post**, you\u2019ll love my\u00a0[ML-powered newsletter](https://smmry.tech/?utm_source=reddit)\u00a0that summarizes the best AI/tech news from 50+ media. It\u2019s already being read by\u00a0**1000+ professionals**\u00a0from\u00a0**OpenAI, Google, Meta**\u2026",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5694825,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/nXRk1n0OXYPQwWNzLYYcUvf005OcvPy1Ehi_kEzOCOI.jpg",
+    "thumbnail_height": 60,
+    "thumbnail_width": 140,
+    "title": "Most People Couldn\u2019t Give a Crap About Using AI, Survey Finds",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 155,
+    "upvote_ratio": 0.8299999833106995,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1d45on5/most_people_couldnt_give_a_crap_about_using_ai/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

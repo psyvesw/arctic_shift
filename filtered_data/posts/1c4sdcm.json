@@ -1,0 +1,221 @@
+{
+    "_meta": {
+        "removal_type": "deleted",
+        "retrieved_2nd_on": 1713332560,
+        "was_deleted_later": true
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "zabumafangoo",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_kz0qmw17l",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1713202951,
+    "created_utc": 1713202951,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "reddit.com",
+    "downs": 0,
+    "edited": false,
+    "gallery_data": {
+        "items": [
+            {
+                "id": 438163939,
+                "media_id": "oh2d1unyjouc1"
+            },
+            {
+                "id": 438163940,
+                "media_id": "idkm8unyjouc1"
+            }
+        ]
+    },
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1c4sdcm",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_gallery": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#94e044",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Other "
+        }
+    ],
+    "link_flair_template_id": "b4536a20-7be9-11ed-9a10-deed22fd00f8",
+    "link_flair_text": "Other ",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "idkm8unyjouc1": {
+            "e": "Image",
+            "id": "idkm8unyjouc1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/idkm8unyjouc1.jpg?width=108&crop=smart&auto=webp&s=987b8d41dc05a588a20930039e9c04da7e9812f0",
+                    "x": 108,
+                    "y": 216
+                },
+                {
+                    "u": "https://preview.redd.it/idkm8unyjouc1.jpg?width=216&crop=smart&auto=webp&s=da94420f2f07d01ab854d381b7bea44b3720fb6f",
+                    "x": 216,
+                    "y": 432
+                },
+                {
+                    "u": "https://preview.redd.it/idkm8unyjouc1.jpg?width=320&crop=smart&auto=webp&s=3922dd2e0a9ec502d8d845959d298b478243f03a",
+                    "x": 320,
+                    "y": 640
+                },
+                {
+                    "u": "https://preview.redd.it/idkm8unyjouc1.jpg?width=640&crop=smart&auto=webp&s=784c4a15a298094161b68e214dcc03022f497e99",
+                    "x": 640,
+                    "y": 1280
+                },
+                {
+                    "u": "https://preview.redd.it/idkm8unyjouc1.jpg?width=960&crop=smart&auto=webp&s=8ea853cda92e27b9fe37a4e9e00115454898f0de",
+                    "x": 960,
+                    "y": 1920
+                },
+                {
+                    "u": "https://preview.redd.it/idkm8unyjouc1.jpg?width=1080&crop=smart&auto=webp&s=51caa46963e854a9d8d9d1316b33f7d22e599dc6",
+                    "x": 1080,
+                    "y": 2160
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/idkm8unyjouc1.jpg?width=1290&format=pjpg&auto=webp&s=74e8f207d0110d5f878a3c9f2adf2d166b06b053",
+                "x": 1290,
+                "y": 2796
+            },
+            "status": "valid"
+        },
+        "oh2d1unyjouc1": {
+            "e": "Image",
+            "id": "oh2d1unyjouc1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/oh2d1unyjouc1.jpg?width=108&crop=smart&auto=webp&s=9d7be3043535ec65a54600035363c9e80a9ae72e",
+                    "x": 108,
+                    "y": 100
+                },
+                {
+                    "u": "https://preview.redd.it/oh2d1unyjouc1.jpg?width=216&crop=smart&auto=webp&s=cad57985827f9ec3c02036892ea8933e7d7bbd84",
+                    "x": 216,
+                    "y": 201
+                },
+                {
+                    "u": "https://preview.redd.it/oh2d1unyjouc1.jpg?width=320&crop=smart&auto=webp&s=78aeca3c2f9b0a010bfe4b20f8dedecbf994cfc7",
+                    "x": 320,
+                    "y": 298
+                },
+                {
+                    "u": "https://preview.redd.it/oh2d1unyjouc1.jpg?width=640&crop=smart&auto=webp&s=fc2114222cffd1a2006bcd96171d5a8c4bcec8a8",
+                    "x": 640,
+                    "y": 597
+                },
+                {
+                    "u": "https://preview.redd.it/oh2d1unyjouc1.jpg?width=960&crop=smart&auto=webp&s=cefab4d9f1a0b103631f7a697591a01ed875fa5e",
+                    "x": 960,
+                    "y": 896
+                },
+                {
+                    "u": "https://preview.redd.it/oh2d1unyjouc1.jpg?width=1080&crop=smart&auto=webp&s=fa445c47b4426fee730fc34331912cd17cc0690f",
+                    "x": 1080,
+                    "y": 1008
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/oh2d1unyjouc1.jpg?width=1290&format=pjpg&auto=webp&s=6bacb47bd6f5dd6c20ac77ca5404ed8f6ddf3bf6",
+                "x": 1290,
+                "y": 1205
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1c4sdcm",
+    "no_follow": false,
+    "num_comments": 1,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1c4sdcm/chat_gpt_has_become_lazy/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1713202966,
+    "saved": false,
+    "score": 0,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "compared to Mistral AI (i only learned about it today) CGPT answers are so lazy and lame. even though it conveys the same message i find it could have provided me a more helpful analytical response or asked me follow up questions at least. ie. have you tried Pomegranate juice for Migraine yourself? or here is some resources on research about Pomegranate benefit.",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5089184,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/8B2s3xmBdUY2BPkpkf6FaA7hbCrU1JKgVuxTZYhFIYI.jpg",
+    "thumbnail_height": 130,
+    "thumbnail_width": 140,
+    "title": "Chat GPT has become lazy",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 0,
+    "upvote_ratio": 0.4399999976158142,
+    "url": "https://www.reddit.com/gallery/1c4sdcm",
+    "url_overridden_by_dest": "https://www.reddit.com/gallery/1c4sdcm",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

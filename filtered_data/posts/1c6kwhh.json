@@ -1,0 +1,193 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1713516805
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "HugoWeaving5",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_i24pq2gp",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1713387188,
+    "created_utc": 1713387188,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "v.redd.it",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1c6kwhh",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": true,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": true,
+    "likes": null,
+    "link_flair_background_color": "#373c3f",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Resources "
+        }
+    ],
+    "link_flair_template_id": "c8a7075c-9962-11ed-86d0-b2c48b46bf22",
+    "link_flair_text": "Resources ",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": {
+        "reddit_video": {
+            "bitrate_kbps": 5000,
+            "dash_url": "https://v.redd.it/8reos2oer3vc1/DASHPlaylist.mpd?a=1715979202%2CZjllMGJmMGFkMmJjMjY5YjJhMTUwMTU1ZjYxYmExYTljODE2ZjVhZTQwZWY5YTBjMTJiZmM2MTYwYzk0YjljYw%3D%3D&v=1&f=sd",
+            "duration": 57,
+            "fallback_url": "https://v.redd.it/8reos2oer3vc1/DASH_1080.mp4?source=fallback",
+            "has_audio": true,
+            "height": 1080,
+            "hls_url": "https://v.redd.it/8reos2oer3vc1/HLSPlaylist.m3u8?a=1715979202%2CYzg0MGFlZTBjZTA4ZTEyNjFjYWM5M2JkOTQyYjUwZDIyMDc2NGY0NzQ5NWJjZmU2OTcyMzIxOWI1ZDkzNWZjZg%3D%3D&v=1&f=sd",
+            "is_gif": false,
+            "scrubber_media_url": "https://v.redd.it/8reos2oer3vc1/DASH_96.mp4",
+            "transcoding_status": "completed",
+            "width": 1080
+        }
+    },
+    "media_embed": {},
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1c6kwhh",
+    "no_follow": true,
+    "num_comments": 17,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1c6kwhh/im_doing_my_phd_and_helped_develop_a_chatgpt_tool/",
+    "pinned": false,
+    "post_hint": "hosted:video",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "NWtyMmEyb2VyM3ZjMbKFVAbZH--7tCW75PsrelzTnOhhWbqepFq2_5X07Hk6",
+                "resolutions": [
+                    {
+                        "height": 108,
+                        "url": "https://external-preview.redd.it/NWtyMmEyb2VyM3ZjMbKFVAbZH--7tCW75PsrelzTnOhhWbqepFq2_5X07Hk6.png?width=108&crop=smart&format=pjpg&auto=webp&s=295e8b0c61d56f849fef35bab9395ff9e7c5b31e",
+                        "width": 108
+                    },
+                    {
+                        "height": 216,
+                        "url": "https://external-preview.redd.it/NWtyMmEyb2VyM3ZjMbKFVAbZH--7tCW75PsrelzTnOhhWbqepFq2_5X07Hk6.png?width=216&crop=smart&format=pjpg&auto=webp&s=5ffdf77e45d7ab7712a46ff02e984ec159de215c",
+                        "width": 216
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://external-preview.redd.it/NWtyMmEyb2VyM3ZjMbKFVAbZH--7tCW75PsrelzTnOhhWbqepFq2_5X07Hk6.png?width=320&crop=smart&format=pjpg&auto=webp&s=4c11760443447c6a7e7dd92028e14c7f67c59de3",
+                        "width": 320
+                    },
+                    {
+                        "height": 640,
+                        "url": "https://external-preview.redd.it/NWtyMmEyb2VyM3ZjMbKFVAbZH--7tCW75PsrelzTnOhhWbqepFq2_5X07Hk6.png?width=640&crop=smart&format=pjpg&auto=webp&s=aff568292a0f88d59d5d9365b4b07f909b8f4f8b",
+                        "width": 640
+                    },
+                    {
+                        "height": 960,
+                        "url": "https://external-preview.redd.it/NWtyMmEyb2VyM3ZjMbKFVAbZH--7tCW75PsrelzTnOhhWbqepFq2_5X07Hk6.png?width=960&crop=smart&format=pjpg&auto=webp&s=f30d29f42440a6d5ee80b9ff41ad377d39a0d56b",
+                        "width": 960
+                    },
+                    {
+                        "height": 1080,
+                        "url": "https://external-preview.redd.it/NWtyMmEyb2VyM3ZjMbKFVAbZH--7tCW75PsrelzTnOhhWbqepFq2_5X07Hk6.png?width=1080&crop=smart&format=pjpg&auto=webp&s=7a4c8e9cf89734bfb77a15e2325973230b40bbbb",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 1080,
+                    "url": "https://external-preview.redd.it/NWtyMmEyb2VyM3ZjMbKFVAbZH--7tCW75PsrelzTnOhhWbqepFq2_5X07Hk6.png?format=pjpg&auto=webp&s=f663d973e1f9bedad9aee95afce729048cf58636",
+                    "width": 1080
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1713387203,
+    "saved": false,
+    "score": 43,
+    "secure_media": {
+        "reddit_video": {
+            "bitrate_kbps": 5000,
+            "dash_url": "https://v.redd.it/8reos2oer3vc1/DASHPlaylist.mpd?a=1715979202%2CZjllMGJmMGFkMmJjMjY5YjJhMTUwMTU1ZjYxYmExYTljODE2ZjVhZTQwZWY5YTBjMTJiZmM2MTYwYzk0YjljYw%3D%3D&v=1&f=sd",
+            "duration": 57,
+            "fallback_url": "https://v.redd.it/8reos2oer3vc1/DASH_1080.mp4?source=fallback",
+            "has_audio": true,
+            "height": 1080,
+            "hls_url": "https://v.redd.it/8reos2oer3vc1/HLSPlaylist.m3u8?a=1715979202%2CYzg0MGFlZTBjZTA4ZTEyNjFjYWM5M2JkOTQyYjUwZDIyMDc2NGY0NzQ5NWJjZmU2OTcyMzIxOWI1ZDkzNWZjZg%3D%3D&v=1&f=sd",
+            "is_gif": false,
+            "scrubber_media_url": "https://v.redd.it/8reos2oer3vc1/DASH_96.mp4",
+            "transcoding_status": "completed",
+            "width": 1080
+        }
+    },
+    "secure_media_embed": {},
+    "selftext": "",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5114368,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://external-preview.redd.it/NWtyMmEyb2VyM3ZjMbKFVAbZH--7tCW75PsrelzTnOhhWbqepFq2_5X07Hk6.png?width=140&height=140&crop=140:140,smart&format=jpg&v=enabled&lthumb=true&s=baede208c394c60033f71c9f5ed72513fc5053f1",
+    "thumbnail_height": 140,
+    "thumbnail_width": 140,
+    "title": "I'm doing my PhD and helped develop a ChatGPT tool to assist with research and learning for virtually any topic, meant to be like an interactive encyclopedia. It generates responses backed with peer-reviewed literature and can also summarize research articles. Here's the link: www.academicai.io",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 43,
+    "upvote_ratio": 0.8299999833106995,
+    "url": "https://v.redd.it/8reos2oer3vc1",
+    "url_overridden_by_dest": "https://v.redd.it/8reos2oer3vc1",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

@@ -1,0 +1,193 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1712908147
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "Dexounait",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_1wkfph4o",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1712778540,
+    "created_utc": 1712778540,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "v.redd.it",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1c0uonj",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": true,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": true,
+    "likes": null,
+    "link_flair_background_color": "#0dd3bb",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Funny "
+        }
+    ],
+    "link_flair_template_id": "935162a0-7be9-11ed-913e-6a257d69e3b3",
+    "link_flair_text": "Funny ",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": {
+        "reddit_video": {
+            "bitrate_kbps": 1200,
+            "dash_url": "https://v.redd.it/oc2heqwyhptc1/DASHPlaylist.mpd?a=1715370555%2COTljODg3MmNmMDgzYjBkZmY4OGUxMzdmOWUwNTAyNjk5MmMwZTlkOWZjNDRhMTRjZGVhMTY0ZGFlYWYwNjRjNA%3D%3D&v=1&f=sd",
+            "duration": 4,
+            "fallback_url": "https://v.redd.it/oc2heqwyhptc1/DASH_480.mp4?source=fallback",
+            "has_audio": false,
+            "height": 480,
+            "hls_url": "https://v.redd.it/oc2heqwyhptc1/HLSPlaylist.m3u8?a=1715370555%2CYzI5MmZhNWI4OTUzMWVhYmRmYzk1NGYzOTA3ZGE2ODY0ODk2NTY2YWJjOGZiOGU0Y2Q4NWU5Mjk0YzAxMjI1Yw%3D%3D&v=1&f=sd",
+            "is_gif": false,
+            "scrubber_media_url": "https://v.redd.it/oc2heqwyhptc1/DASH_96.mp4",
+            "transcoding_status": "completed",
+            "width": 624
+        }
+    },
+    "media_embed": {},
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1c0uonj",
+    "no_follow": false,
+    "num_comments": 4,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1c0uonj/chatgpt_is_down_its_time_to_learn_how_to_use/",
+    "pinned": false,
+    "post_hint": "hosted:video",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "Z2hobzVjdHlocHRjMbZdR-xfNT_8nJcyF-HE-8713rbWcANCGHXL0qhbV_mI",
+                "resolutions": [
+                    {
+                        "height": 83,
+                        "url": "https://external-preview.redd.it/Z2hobzVjdHlocHRjMbZdR-xfNT_8nJcyF-HE-8713rbWcANCGHXL0qhbV_mI.png?width=108&crop=smart&format=pjpg&auto=webp&s=4a3627e71795cd6677997340e2530ffe087051a9",
+                        "width": 108
+                    },
+                    {
+                        "height": 166,
+                        "url": "https://external-preview.redd.it/Z2hobzVjdHlocHRjMbZdR-xfNT_8nJcyF-HE-8713rbWcANCGHXL0qhbV_mI.png?width=216&crop=smart&format=pjpg&auto=webp&s=8e22eecbd161923e20d1a823ad781f65d01666ad",
+                        "width": 216
+                    },
+                    {
+                        "height": 245,
+                        "url": "https://external-preview.redd.it/Z2hobzVjdHlocHRjMbZdR-xfNT_8nJcyF-HE-8713rbWcANCGHXL0qhbV_mI.png?width=320&crop=smart&format=pjpg&auto=webp&s=b394a7a3d821fd03b442d427d477de61c031b874",
+                        "width": 320
+                    },
+                    {
+                        "height": 491,
+                        "url": "https://external-preview.redd.it/Z2hobzVjdHlocHRjMbZdR-xfNT_8nJcyF-HE-8713rbWcANCGHXL0qhbV_mI.png?width=640&crop=smart&format=pjpg&auto=webp&s=03787207e0e1d2a65eefdc347b573d6d9ab07523",
+                        "width": 640
+                    },
+                    {
+                        "height": 737,
+                        "url": "https://external-preview.redd.it/Z2hobzVjdHlocHRjMbZdR-xfNT_8nJcyF-HE-8713rbWcANCGHXL0qhbV_mI.png?width=960&crop=smart&format=pjpg&auto=webp&s=cd411e9d1776f593ef22bb3c24988c1dcc03d5a8",
+                        "width": 960
+                    },
+                    {
+                        "height": 830,
+                        "url": "https://external-preview.redd.it/Z2hobzVjdHlocHRjMbZdR-xfNT_8nJcyF-HE-8713rbWcANCGHXL0qhbV_mI.png?width=1080&crop=smart&format=pjpg&auto=webp&s=b56bc9baf6bf0d3ff5db0c7ecb52d7cee1dbfca6",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 830,
+                    "url": "https://external-preview.redd.it/Z2hobzVjdHlocHRjMbZdR-xfNT_8nJcyF-HE-8713rbWcANCGHXL0qhbV_mI.png?format=pjpg&auto=webp&s=5800b59ac5d0edda5eadc0eb52e6812ddb4d91f3",
+                    "width": 1080
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1712778556,
+    "saved": false,
+    "score": 54,
+    "secure_media": {
+        "reddit_video": {
+            "bitrate_kbps": 1200,
+            "dash_url": "https://v.redd.it/oc2heqwyhptc1/DASHPlaylist.mpd?a=1715370555%2COTljODg3MmNmMDgzYjBkZmY4OGUxMzdmOWUwNTAyNjk5MmMwZTlkOWZjNDRhMTRjZGVhMTY0ZGFlYWYwNjRjNA%3D%3D&v=1&f=sd",
+            "duration": 4,
+            "fallback_url": "https://v.redd.it/oc2heqwyhptc1/DASH_480.mp4?source=fallback",
+            "has_audio": false,
+            "height": 480,
+            "hls_url": "https://v.redd.it/oc2heqwyhptc1/HLSPlaylist.m3u8?a=1715370555%2CYzI5MmZhNWI4OTUzMWVhYmRmYzk1NGYzOTA3ZGE2ODY0ODk2NTY2YWJjOGZiOGU0Y2Q4NWU5Mjk0YzAxMjI1Yw%3D%3D&v=1&f=sd",
+            "is_gif": false,
+            "scrubber_media_url": "https://v.redd.it/oc2heqwyhptc1/DASH_96.mp4",
+            "transcoding_status": "completed",
+            "width": 624
+        }
+    },
+    "secure_media_embed": {},
+    "selftext": "",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5033645,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://external-preview.redd.it/Z2hobzVjdHlocHRjMbZdR-xfNT_8nJcyF-HE-8713rbWcANCGHXL0qhbV_mI.png?width=140&height=107&crop=140:107,smart&format=jpg&v=enabled&lthumb=true&s=d6c09803f142c574369db102333b960c8c7dc3ab",
+    "thumbnail_height": 107,
+    "thumbnail_width": 140,
+    "title": "ChatGPT is down. It\u2019s time to learn how to use Google.",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 54,
+    "upvote_ratio": 0.9599999785423279,
+    "url": "https://v.redd.it/oc2heqwyhptc1",
+    "url_overridden_by_dest": "https://v.redd.it/oc2heqwyhptc1",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

@@ -1,0 +1,219 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1714342554
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "Additional-Benefit94",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_vl21m5cfj",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1714212942,
+    "created_utc": 1714212942,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "reddit.com",
+    "downs": 0,
+    "edited": false,
+    "gallery_data": {
+        "items": [
+            {
+                "id": 444462960,
+                "media_id": "fj80jmm6zzwc1"
+            },
+            {
+                "id": 444462961,
+                "media_id": "e06bzzl6zzwc1"
+            }
+        ]
+    },
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1ceb6id",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_gallery": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#878a8c",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Jailbreak"
+        }
+    ],
+    "link_flair_template_id": "c7f8664e-a78a-11ed-8a94-3ee67440be27",
+    "link_flair_text": "Jailbreak",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "e06bzzl6zzwc1": {
+            "e": "Image",
+            "id": "e06bzzl6zzwc1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/e06bzzl6zzwc1.jpg?width=108&crop=smart&auto=webp&s=6f89015bdc9f3999a967303ad5186b81a57f15bd",
+                    "x": 108,
+                    "y": 198
+                },
+                {
+                    "u": "https://preview.redd.it/e06bzzl6zzwc1.jpg?width=216&crop=smart&auto=webp&s=ada16219fba0bbe3a405f6f852405786e159732d",
+                    "x": 216,
+                    "y": 397
+                },
+                {
+                    "u": "https://preview.redd.it/e06bzzl6zzwc1.jpg?width=320&crop=smart&auto=webp&s=900a9d57d562bd98fc32799121adbc61c592c798",
+                    "x": 320,
+                    "y": 588
+                },
+                {
+                    "u": "https://preview.redd.it/e06bzzl6zzwc1.jpg?width=640&crop=smart&auto=webp&s=bac657cb2fc549125df70b53e1dadeb4477aaca0",
+                    "x": 640,
+                    "y": 1177
+                },
+                {
+                    "u": "https://preview.redd.it/e06bzzl6zzwc1.jpg?width=960&crop=smart&auto=webp&s=b1a2e1ce2cdc5082dbd203e708eab0399c2ebde0",
+                    "x": 960,
+                    "y": 1766
+                },
+                {
+                    "u": "https://preview.redd.it/e06bzzl6zzwc1.jpg?width=1080&crop=smart&auto=webp&s=bfbbdf34a40989126a05e2b7f4aff280f40692f0",
+                    "x": 1080,
+                    "y": 1987
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/e06bzzl6zzwc1.jpg?width=1178&format=pjpg&auto=webp&s=bc497210746aee858f708157f7902fbf4e8fb77b",
+                "x": 1178,
+                "y": 2168
+            },
+            "status": "valid"
+        },
+        "fj80jmm6zzwc1": {
+            "e": "Image",
+            "id": "fj80jmm6zzwc1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/fj80jmm6zzwc1.jpg?width=108&crop=smart&auto=webp&s=3fd957d22ee9ee4d337436b74a7bbd6988b2cf1d",
+                    "x": 108,
+                    "y": 187
+                },
+                {
+                    "u": "https://preview.redd.it/fj80jmm6zzwc1.jpg?width=216&crop=smart&auto=webp&s=e66265d898f0bed51af5571f29b630699fa2ca3f",
+                    "x": 216,
+                    "y": 375
+                },
+                {
+                    "u": "https://preview.redd.it/fj80jmm6zzwc1.jpg?width=320&crop=smart&auto=webp&s=5cb70a397f5e649e78520a0ec127d3e7d528d3ee",
+                    "x": 320,
+                    "y": 555
+                },
+                {
+                    "u": "https://preview.redd.it/fj80jmm6zzwc1.jpg?width=640&crop=smart&auto=webp&s=b3dfbb26cab39ce13f63b273beb043d540e68427",
+                    "x": 640,
+                    "y": 1111
+                },
+                {
+                    "u": "https://preview.redd.it/fj80jmm6zzwc1.jpg?width=960&crop=smart&auto=webp&s=4fb952d7fc46cadc592f44f36c8df679cac32c0e",
+                    "x": 960,
+                    "y": 1667
+                },
+                {
+                    "u": "https://preview.redd.it/fj80jmm6zzwc1.jpg?width=1080&crop=smart&auto=webp&s=bec041b754fb754687c4f5fe0fdf04d0e196061a",
+                    "x": 1080,
+                    "y": 1876
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/fj80jmm6zzwc1.jpg?width=1179&format=pjpg&auto=webp&s=ed3c51b9af64de649a71bd9682914000e99f0700",
+                "x": 1179,
+                "y": 2048
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1ceb6id",
+    "no_follow": true,
+    "num_comments": 2,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1ceb6id/chatgpt_tells_me_the_name_of_underage_murderers/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1714212957,
+    "saved": false,
+    "score": 1,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "These guys are still in jail, I used to go to the same school as them, and ChatGPT revealed their names which were kept confidential due to their age - around 3-4 people have been to court for posting them on Twitter",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5232619,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/ulImRb8zLFHV6YlhrCxOY0zE5nsZygblzJY_7ni3uds.jpg",
+    "thumbnail_height": 140,
+    "thumbnail_width": 140,
+    "title": "ChatGPT tells me the name of underage murderers by gaslighting it",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 1,
+    "upvote_ratio": 0.6000000238418579,
+    "url": "https://www.reddit.com/gallery/1ceb6id",
+    "url_overridden_by_dest": "https://www.reddit.com/gallery/1ceb6id",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

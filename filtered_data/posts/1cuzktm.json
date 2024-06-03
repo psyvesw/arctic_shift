@@ -1,0 +1,183 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1716175069
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "NotCamreeyan",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_sei8rphl",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1716045464,
+    "created_utc": 1716045464,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "/r/ChatGPT/comments/1cuzktm/chatgpt_has_given_me_better_music_recommendations/",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1cuzktm",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": true,
+    "likes": null,
+    "link_flair_background_color": "#dadada",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Use cases "
+        }
+    ],
+    "link_flair_template_id": "c9233c3a-b336-11ed-b456-fab66c9d9d9e",
+    "link_flair_text": "Use cases ",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": {
+        "reddit_video": {
+            "bitrate_kbps": 2400,
+            "dash_url": "https://v.redd.it/ib9gxqkib71d1/DASHPlaylist.mpd?a=1718767067%2CMTYwNTk1ODE4ZTIyNWFmNjRhZjlkMjgzZWNiOTg0ZGUwMzIzOGNjYTFhMWI4NjBhZDk3NjRjODg2NTJjYzM5Yw%3D%3D&v=1&f=sd",
+            "duration": 57,
+            "fallback_url": "https://v.redd.it/ib9gxqkib71d1/DASH_720.mp4?source=fallback",
+            "has_audio": true,
+            "height": 1280,
+            "hls_url": "https://v.redd.it/ib9gxqkib71d1/HLSPlaylist.m3u8?a=1718767067%2CYjZmNDMyZDE5ZmQyZDFiZmY4MTU2MThmNWI0Mjc4ODVlMzUyNzY2ZTg0MmVkM2RjZjkyODA3OTIzMGRkNTdhZA%3D%3D&v=1&f=sd",
+            "is_gif": false,
+            "scrubber_media_url": "https://v.redd.it/ib9gxqkib71d1/DASH_96.mp4",
+            "transcoding_status": "completed",
+            "width": 592
+        }
+    },
+    "media_embed": {},
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1cuzktm",
+    "no_follow": true,
+    "num_comments": 17,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1cuzktm/chatgpt_has_given_me_better_music_recommendations/",
+    "pinned": false,
+    "post_hint": "hosted:video",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "ajB1dTIyZmliNzFkMWxG9PfRgvXa26meGEKLi9JHaZtEoiAnHr8EB-pRJd1i",
+                "resolutions": [
+                    {
+                        "height": 216,
+                        "url": "https://external-preview.redd.it/ajB1dTIyZmliNzFkMWxG9PfRgvXa26meGEKLi9JHaZtEoiAnHr8EB-pRJd1i.png?width=108&crop=smart&format=pjpg&auto=webp&s=34a45023f37ee1b145fcd04712b4e99e7f66b021",
+                        "width": 108
+                    },
+                    {
+                        "height": 432,
+                        "url": "https://external-preview.redd.it/ajB1dTIyZmliNzFkMWxG9PfRgvXa26meGEKLi9JHaZtEoiAnHr8EB-pRJd1i.png?width=216&crop=smart&format=pjpg&auto=webp&s=2c0b5bc40516fec1b0d6d602f48ddea7d1ff7554",
+                        "width": 216
+                    },
+                    {
+                        "height": 640,
+                        "url": "https://external-preview.redd.it/ajB1dTIyZmliNzFkMWxG9PfRgvXa26meGEKLi9JHaZtEoiAnHr8EB-pRJd1i.png?width=320&crop=smart&format=pjpg&auto=webp&s=49b80d9abbdd066e88c8f4145acd83c4343ac528",
+                        "width": 320
+                    },
+                    {
+                        "height": 1280,
+                        "url": "https://external-preview.redd.it/ajB1dTIyZmliNzFkMWxG9PfRgvXa26meGEKLi9JHaZtEoiAnHr8EB-pRJd1i.png?width=640&crop=smart&format=pjpg&auto=webp&s=09930fb10700f35a0b6abdb1eac324621e3c7f1b",
+                        "width": 640
+                    }
+                ],
+                "source": {
+                    "height": 1920,
+                    "url": "https://external-preview.redd.it/ajB1dTIyZmliNzFkMWxG9PfRgvXa26meGEKLi9JHaZtEoiAnHr8EB-pRJd1i.png?format=pjpg&auto=webp&s=6e729f141ea5cd6478ea9488c9afb3728e922c62",
+                    "width": 888
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1716045481,
+    "saved": false,
+    "score": 104,
+    "secure_media": {
+        "reddit_video": {
+            "bitrate_kbps": 2400,
+            "dash_url": "https://v.redd.it/ib9gxqkib71d1/DASHPlaylist.mpd?a=1718767067%2CMTYwNTk1ODE4ZTIyNWFmNjRhZjlkMjgzZWNiOTg0ZGUwMzIzOGNjYTFhMWI4NjBhZDk3NjRjODg2NTJjYzM5Yw%3D%3D&v=1&f=sd",
+            "duration": 57,
+            "fallback_url": "https://v.redd.it/ib9gxqkib71d1/DASH_720.mp4?source=fallback",
+            "has_audio": true,
+            "height": 1280,
+            "hls_url": "https://v.redd.it/ib9gxqkib71d1/HLSPlaylist.m3u8?a=1718767067%2CYjZmNDMyZDE5ZmQyZDFiZmY4MTU2MThmNWI0Mjc4ODVlMzUyNzY2ZTg0MmVkM2RjZjkyODA3OTIzMGRkNTdhZA%3D%3D&v=1&f=sd",
+            "is_gif": false,
+            "scrubber_media_url": "https://v.redd.it/ib9gxqkib71d1/DASH_96.mp4",
+            "transcoding_status": "completed",
+            "width": 592
+        }
+    },
+    "secure_media_embed": {},
+    "selftext": "If there's any dream-pop or shoegaze fans here, lmk if you agree with these! I have listened to about 24 of the songs that it suggested, and I liked all but one. Wouldn't see that high of a ratio with Spotify. Some of the songs/bands I have already heard and I know they are good.\n\nNow, Spotify's AI would give me a lot of songs that I've already heard, even though they are only loosely related to the actual genre. Of the bands that are actually in the genre, it will give me way more songs from a couple of artists I have already heard, rather than giving me new ones. The repeat artists tend to be non-essentials or even the weaker songs from the genre. But with ChatGPT, it gave me a variety of artists, and the repeats were MOST RELEVANT and UNIQUE to the genre. Of course stuff like Cocteau Twins and Slowdive will appear more than once. It did give me a couple of songs that are just loosely dream-pop, like Midnight City, but you can't blame ai at that point. Dream-pop is a really diverse genre and it was mostly on point.",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5513842,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://external-preview.redd.it/ajB1dTIyZmliNzFkMWxG9PfRgvXa26meGEKLi9JHaZtEoiAnHr8EB-pRJd1i.png?width=140&height=140&crop=140:140,smart&format=jpg&v=enabled&lthumb=true&s=71578c3c100a775492d9188a67d68bbc30e12a78",
+    "thumbnail_height": 140,
+    "thumbnail_width": 140,
+    "title": "ChatGPT has given me better music recommendations than Spotify AI.",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 104,
+    "upvote_ratio": 0.9200000166893005,
+    "url": "https://v.redd.it/ib9gxqkib71d1",
+    "url_overridden_by_dest": "https://v.redd.it/ib9gxqkib71d1",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

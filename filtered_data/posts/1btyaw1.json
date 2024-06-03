@@ -1,0 +1,169 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1712192884
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "bach2o",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_1g2a307d",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1712063276,
+    "created_utc": 1712063276,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1btyaw1",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#ff66ac",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Serious replies only "
+        },
+        {
+            "a": ":closed-ai:",
+            "e": "emoji",
+            "u": "https://emoji.redditmedia.com/kiux00uuphia1_t5_7hqomg/closed-ai"
+        }
+    ],
+    "link_flair_template_id": "c660b6fa-7be9-11ed-974b-1eca573371bf",
+    "link_flair_text": "Serious replies only :closed-ai:",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1btyaw1",
+    "no_follow": true,
+    "num_comments": 2,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1btyaw1/survey_could_you_please_rate_how_polite_the/",
+    "pinned": false,
+    "post_hint": "self",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "4o1KEMw_LnRfzO78lRm-7I-DKae3o2l4GX51b25EVfg",
+                "resolutions": [
+                    {
+                        "height": 56,
+                        "url": "https://external-preview.redd.it/uMN4VXW33b135qWB2d9G3d9Z2cU4Ec2Jqj0xkg7FNjU.jpg?width=108&crop=smart&auto=webp&s=f502cbe7e31afcf5ff01da29161c6a9aa4ce0659",
+                        "width": 108
+                    },
+                    {
+                        "height": 113,
+                        "url": "https://external-preview.redd.it/uMN4VXW33b135qWB2d9G3d9Z2cU4Ec2Jqj0xkg7FNjU.jpg?width=216&crop=smart&auto=webp&s=40aa2a0657dd0b913f84a5fb01579c8ad0cee35c",
+                        "width": 216
+                    },
+                    {
+                        "height": 168,
+                        "url": "https://external-preview.redd.it/uMN4VXW33b135qWB2d9G3d9Z2cU4Ec2Jqj0xkg7FNjU.jpg?width=320&crop=smart&auto=webp&s=4913f6ab04fc30f1c37134d084877b9e8a17882f",
+                        "width": 320
+                    },
+                    {
+                        "height": 336,
+                        "url": "https://external-preview.redd.it/uMN4VXW33b135qWB2d9G3d9Z2cU4Ec2Jqj0xkg7FNjU.jpg?width=640&crop=smart&auto=webp&s=70dc6c6171a74366b2e94608a11f4a9023fd7cc4",
+                        "width": 640
+                    },
+                    {
+                        "height": 504,
+                        "url": "https://external-preview.redd.it/uMN4VXW33b135qWB2d9G3d9Z2cU4Ec2Jqj0xkg7FNjU.jpg?width=960&crop=smart&auto=webp&s=49ef78d54bd9bd7026ae376f6892ecd4a1271414",
+                        "width": 960
+                    },
+                    {
+                        "height": 567,
+                        "url": "https://external-preview.redd.it/uMN4VXW33b135qWB2d9G3d9Z2cU4Ec2Jqj0xkg7FNjU.jpg?width=1080&crop=smart&auto=webp&s=104c17cc105d1edde2e4b91c97162811fe6403d6",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 630,
+                    "url": "https://external-preview.redd.it/uMN4VXW33b135qWB2d9G3d9Z2cU4Ec2Jqj0xkg7FNjU.jpg?auto=webp&s=17358fd977f301232bb3c06d18b26e802f941418",
+                    "width": 1200
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1712063291,
+    "saved": false,
+    "score": 2,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "Hello everyone,\n\nFor my thesis, I am trying to see what type of ChatGPT responses people prefer. The study should take around 10 minutes. Everyone is welcome to participate, including those who have never used ChatGPT before.\n\nLink: https://allocate.monster/WVRFXQXQ \n(if you are wondering about this weird site, it randomly redirects you to one of the two Google Forms links)\n\nRecommendation: Use large screen devices to read the text! Apology for the tiny screen caps.",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 4932846,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "self",
+    "thumbnail_height": null,
+    "thumbnail_width": null,
+    "title": "[Survey] Could you please rate how polite the ChatGPT responses are?",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 2,
+    "upvote_ratio": 0.75,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1btyaw1/survey_could_you_please_rate_how_polite_the/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

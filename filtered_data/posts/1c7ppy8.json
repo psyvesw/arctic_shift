@@ -1,0 +1,188 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1713636715
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "Urmomsjuicyvagina",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_x1jfw9vla",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1713507102,
+    "created_utc": 1713507102,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "v.redd.it",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1c7ppy8",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": true,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": true,
+    "likes": null,
+    "link_flair_background_color": "#0dd3bb",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Funny "
+        }
+    ],
+    "link_flair_template_id": "935162a0-7be9-11ed-913e-6a257d69e3b3",
+    "link_flair_text": "Funny ",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": {
+        "reddit_video": {
+            "bitrate_kbps": 2400,
+            "dash_url": "https://v.redd.it/c44706xcodvc1/DASHPlaylist.mpd?a=1716099115%2CZWMwNDE5YjM0MmE2YjliZDQ4NWMzMTQzOTY5MWJlOWI4ZGRlNDk2YmY0Yzc3YmVjNzk5OWNiZTRkMGQwOTRhYw%3D%3D&v=1&f=sd",
+            "duration": 35,
+            "fallback_url": "https://v.redd.it/c44706xcodvc1/DASH_720.mp4?source=fallback",
+            "has_audio": true,
+            "height": 1280,
+            "hls_url": "https://v.redd.it/c44706xcodvc1/HLSPlaylist.m3u8?a=1716099115%2CYWZjMDk5ZjY5MzhkNzgyZTc5ZDI3YjM1Y2U3ZDg0ZDYyZDU4M2M4MTEwMGJjYzdiYjM5MDEzZDFlOWU5MTlkMQ%3D%3D&v=1&f=sd",
+            "is_gif": false,
+            "scrubber_media_url": "https://v.redd.it/c44706xcodvc1/DASH_96.mp4",
+            "transcoding_status": "completed",
+            "width": 720
+        }
+    },
+    "media_embed": {},
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1c7ppy8",
+    "no_follow": false,
+    "num_comments": 113,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1c7ppy8/theyre_making_ai_for_math_homework_now/",
+    "pinned": false,
+    "post_hint": "hosted:video",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "OHJxdGJhdGNvZHZjMZ5vOmm2XKgxymkHYXehdQY2sfqvjNDkUaq43p4-Qz43",
+                "resolutions": [
+                    {
+                        "height": 192,
+                        "url": "https://external-preview.redd.it/OHJxdGJhdGNvZHZjMZ5vOmm2XKgxymkHYXehdQY2sfqvjNDkUaq43p4-Qz43.png?width=108&crop=smart&format=pjpg&auto=webp&s=c8f4134b6a6d6ca9f59f820efb7298adb5cfe0b2",
+                        "width": 108
+                    },
+                    {
+                        "height": 384,
+                        "url": "https://external-preview.redd.it/OHJxdGJhdGNvZHZjMZ5vOmm2XKgxymkHYXehdQY2sfqvjNDkUaq43p4-Qz43.png?width=216&crop=smart&format=pjpg&auto=webp&s=3269c080411b4e927a6b6709b43c3ad94bd9fb7c",
+                        "width": 216
+                    },
+                    {
+                        "height": 569,
+                        "url": "https://external-preview.redd.it/OHJxdGJhdGNvZHZjMZ5vOmm2XKgxymkHYXehdQY2sfqvjNDkUaq43p4-Qz43.png?width=320&crop=smart&format=pjpg&auto=webp&s=730b5482029df1ef3b8cbbf3188249c8084c14f9",
+                        "width": 320
+                    },
+                    {
+                        "height": 1138,
+                        "url": "https://external-preview.redd.it/OHJxdGJhdGNvZHZjMZ5vOmm2XKgxymkHYXehdQY2sfqvjNDkUaq43p4-Qz43.png?width=640&crop=smart&format=pjpg&auto=webp&s=b9b0fa9c8d2b0c9b53bc2406a3acac1b9512e6a7",
+                        "width": 640
+                    },
+                    {
+                        "height": 1708,
+                        "url": "https://external-preview.redd.it/OHJxdGJhdGNvZHZjMZ5vOmm2XKgxymkHYXehdQY2sfqvjNDkUaq43p4-Qz43.png?width=960&crop=smart&format=pjpg&auto=webp&s=a370eaaa7e2c4dc093ba591b6b0649d76932f63f",
+                        "width": 960
+                    }
+                ],
+                "source": {
+                    "height": 1742,
+                    "url": "https://external-preview.redd.it/OHJxdGJhdGNvZHZjMZ5vOmm2XKgxymkHYXehdQY2sfqvjNDkUaq43p4-Qz43.png?format=pjpg&auto=webp&s=0a96cc4c6c05957907f4523ff536efc8f9e7204e",
+                    "width": 979
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1713507117,
+    "saved": false,
+    "score": 1790,
+    "secure_media": {
+        "reddit_video": {
+            "bitrate_kbps": 2400,
+            "dash_url": "https://v.redd.it/c44706xcodvc1/DASHPlaylist.mpd?a=1716099115%2CZWMwNDE5YjM0MmE2YjliZDQ4NWMzMTQzOTY5MWJlOWI4ZGRlNDk2YmY0Yzc3YmVjNzk5OWNiZTRkMGQwOTRhYw%3D%3D&v=1&f=sd",
+            "duration": 35,
+            "fallback_url": "https://v.redd.it/c44706xcodvc1/DASH_720.mp4?source=fallback",
+            "has_audio": true,
+            "height": 1280,
+            "hls_url": "https://v.redd.it/c44706xcodvc1/HLSPlaylist.m3u8?a=1716099115%2CYWZjMDk5ZjY5MzhkNzgyZTc5ZDI3YjM1Y2U3ZDg0ZDYyZDU4M2M4MTEwMGJjYzdiYjM5MDEzZDFlOWU5MTlkMQ%3D%3D&v=1&f=sd",
+            "is_gif": false,
+            "scrubber_media_url": "https://v.redd.it/c44706xcodvc1/DASH_96.mp4",
+            "transcoding_status": "completed",
+            "width": 720
+        }
+    },
+    "secure_media_embed": {},
+    "selftext": "",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5133871,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://external-preview.redd.it/OHJxdGJhdGNvZHZjMZ5vOmm2XKgxymkHYXehdQY2sfqvjNDkUaq43p4-Qz43.png?width=140&height=140&crop=140:140,smart&format=jpg&v=enabled&lthumb=true&s=4900e9154b4a4faf1cb7e935b4494adc3c8ea4ff",
+    "thumbnail_height": 140,
+    "thumbnail_width": 140,
+    "title": "They're making AI for math homework now ",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 1790,
+    "upvote_ratio": 0.9599999785423279,
+    "url": "https://v.redd.it/c44706xcodvc1",
+    "url_overridden_by_dest": "https://v.redd.it/c44706xcodvc1",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

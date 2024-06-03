@@ -51,16 +51,6 @@ def getZstFileJsonStream(path: str, chunk_size=1024*1024*10) -> Iterator[tuple[i
 			print(traceback.format_exc())
 			pass
 
-def getJsonFileJsonStream(path: str) -> Iterator[tuple[int, dict]]:
-	with open(path, "r", encoding="utf-8") as f:
-		for line in f:
-			try:
-				yield len(line), json.loads(line)
-			except:
-				print("Error parsing line: " + line)
-				traceback.print_exc()
-				continue
-
 def getZstBlocksFileJsonStream(path: str) -> Iterator[tuple[int, dict]]:
 	with open(path, "rb") as f:
 		for row in ZstBlocksFile.streamRows(f):
@@ -71,12 +61,22 @@ def getZstBlocksFileJsonStream(path: str) -> Iterator[tuple[int, dict]]:
 				traceback.print_exc()
 				continue
 
-def getFileJsonStream(path: str) -> Iterator[tuple[int, dict]]|None:
-	if path.endswith(".json"):
-		return getJsonFileJsonStream(path)
-	elif path.endswith(".zst"):
-		return getZstFileJsonStream(path)
-	elif path.endswith(".zst_blocks"):
-		return getZstBlocksFileJsonStream(path)
-	else:
-		return None
+def getJsonFileJsonStream(path: str):
+    print(f"Opening JSONL file: {path}")
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            for line in f:
+                try:
+                    yield len(line), json.loads(line)
+                except json.JSONDecodeError as e:
+                    print(f"Error parsing line: {line}\nError: {e}")
+    except FileNotFoundError:
+        print(f"File not found: {path}")
+    except Exception as e:
+        print(f"Error opening file: {path}\nError: {e}")
+
+def getFileJsonStream(path: str):
+    if path.endswith(".jsonl"):
+        return getJsonFileJsonStream(path)
+    else:
+        return None

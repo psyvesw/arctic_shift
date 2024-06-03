@@ -1,0 +1,169 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1714678006
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "Ok_Comedian2525",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_atskudsf",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1714548394,
+    "created_utc": 1714548394,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1chg4g3",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": false,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": false,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#ff66ac",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Serious replies only "
+        },
+        {
+            "a": ":closed-ai:",
+            "e": "emoji",
+            "u": "https://emoji.redditmedia.com/kiux00uuphia1_t5_7hqomg/closed-ai"
+        }
+    ],
+    "link_flair_template_id": "c660b6fa-7be9-11ed-974b-1eca573371bf",
+    "link_flair_text": "Serious replies only :closed-ai:",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1chg4g3",
+    "no_follow": true,
+    "num_comments": 0,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1chg4g3/bachelors_thesis_on_ai/",
+    "pinned": false,
+    "post_hint": "self",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "6_GxeanDQW6x8N0K0yGfm9s8eczwerlvH_DogSKM3DI",
+                "resolutions": [
+                    {
+                        "height": 56,
+                        "url": "https://external-preview.redd.it/b5pwMNkFOWL-jXvPE7qNXTkmIHhRFQHpGDNIHSCE788.jpg?width=108&crop=smart&auto=webp&s=5ccff3dce8c025735dc6bce85d6bb5b241add4f3",
+                        "width": 108
+                    },
+                    {
+                        "height": 113,
+                        "url": "https://external-preview.redd.it/b5pwMNkFOWL-jXvPE7qNXTkmIHhRFQHpGDNIHSCE788.jpg?width=216&crop=smart&auto=webp&s=615150832e29e377abab22b1482852eb3018b3de",
+                        "width": 216
+                    },
+                    {
+                        "height": 168,
+                        "url": "https://external-preview.redd.it/b5pwMNkFOWL-jXvPE7qNXTkmIHhRFQHpGDNIHSCE788.jpg?width=320&crop=smart&auto=webp&s=a1f3ed8b0dfdb407e2be3849a664e53651d15419",
+                        "width": 320
+                    },
+                    {
+                        "height": 336,
+                        "url": "https://external-preview.redd.it/b5pwMNkFOWL-jXvPE7qNXTkmIHhRFQHpGDNIHSCE788.jpg?width=640&crop=smart&auto=webp&s=707e3017806cadee4f3d9d404fb2f0d6954ff624",
+                        "width": 640
+                    },
+                    {
+                        "height": 504,
+                        "url": "https://external-preview.redd.it/b5pwMNkFOWL-jXvPE7qNXTkmIHhRFQHpGDNIHSCE788.jpg?width=960&crop=smart&auto=webp&s=dec0bc777d3fcabd2688b09dbbc748868da56f62",
+                        "width": 960
+                    },
+                    {
+                        "height": 567,
+                        "url": "https://external-preview.redd.it/b5pwMNkFOWL-jXvPE7qNXTkmIHhRFQHpGDNIHSCE788.jpg?width=1080&crop=smart&auto=webp&s=5f9016a2f81fbbdf1e192d2c9f8fff35aa18410c",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 630,
+                    "url": "https://external-preview.redd.it/b5pwMNkFOWL-jXvPE7qNXTkmIHhRFQHpGDNIHSCE788.jpg?auto=webp&s=16d816783fc6b6e0015dfdccab821a927a6f57b1",
+                    "width": 1200
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": "moderator",
+    "report_reasons": null,
+    "retrieved_on": 1714548411,
+    "saved": false,
+    "score": 1,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "[removed]",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5277609,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "self",
+    "thumbnail_height": null,
+    "thumbnail_width": null,
+    "title": "Bachelor's Thesis on AI",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 1,
+    "upvote_ratio": 1,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1chg4g3/bachelors_thesis_on_ai/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

@@ -1,0 +1,119 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1716756467
+    },
+    "all_awardings": [],
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "associated_award": null,
+    "author": "BlueBirdBack",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_q8kouqm40",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "body": "Groq is solid.\n\nIf you want to learn how to use groq.py to try out my GPTs without using ChatGPT, check out this GitHub page: https://github.com/BlueBirdBack/100-Days-of-GPTs?tab=readme-ov-file#using-groqpy-to-access-gpts.\n\nAnd if you're curious about the source code, you can find it here: https://github.com/BlueBirdBack/100-Days-of-GPTs/blob/main/scripts/groq.py.\n\nGenerally speaking, Groq's llama3-70b-8192 model tends to outperform the llama3-8b-8192 model.\n\nDevelopers should know that Groq's rate limit is capped at 30 requests per minute, which is not enough for production environments.\n\nIf you're an enterprise looking to scale up, you might want to reach out to Groq's team through their billing portal: https://console.groq.com/settings/billing.\n\nhttps://preview.redd.it/2dlbrygwcj2d1.png?width=1853&format=png&auto=webp&s=79335215841da2ba4276c45637ad5139d4202e2b",
+    "can_gild": false,
+    "can_mod_post": false,
+    "collapsed": false,
+    "collapsed_because_crowd_control": null,
+    "collapsed_reason": null,
+    "collapsed_reason_code": null,
+    "comment_type": null,
+    "controversiality": 0,
+    "created": 1716626853,
+    "created_utc": 1716626853,
+    "distinguished": null,
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "id": "l5l8845",
+    "is_submitter": false,
+    "likes": null,
+    "link_id": "t3_1d07aw4",
+    "locked": false,
+    "media_metadata": {
+        "2dlbrygwcj2d1": {
+            "e": "Image",
+            "id": "2dlbrygwcj2d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/2dlbrygwcj2d1.png?width=108&crop=smart&auto=webp&s=8a2dec690806093971750293b39c2c09567c0a00",
+                    "x": 108,
+                    "y": 75
+                },
+                {
+                    "u": "https://preview.redd.it/2dlbrygwcj2d1.png?width=216&crop=smart&auto=webp&s=1343b265290b2b262eb8f25a35a879a587e2105f",
+                    "x": 216,
+                    "y": 151
+                },
+                {
+                    "u": "https://preview.redd.it/2dlbrygwcj2d1.png?width=320&crop=smart&auto=webp&s=1b754583e66f3f3fcf7d228dc7583d336c6c6b05",
+                    "x": 320,
+                    "y": 224
+                },
+                {
+                    "u": "https://preview.redd.it/2dlbrygwcj2d1.png?width=640&crop=smart&auto=webp&s=15f1fe0ea2d2a424cd5adfdf3e8e9ee680b590e9",
+                    "x": 640,
+                    "y": 448
+                },
+                {
+                    "u": "https://preview.redd.it/2dlbrygwcj2d1.png?width=960&crop=smart&auto=webp&s=bb8f673108c097e8398705e3b969920eb5c1936e",
+                    "x": 960,
+                    "y": 672
+                },
+                {
+                    "u": "https://preview.redd.it/2dlbrygwcj2d1.png?width=1080&crop=smart&auto=webp&s=d42336c8afbbc858346c3029660a50e9c8d488db",
+                    "x": 1080,
+                    "y": 756
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/2dlbrygwcj2d1.png?width=1853&format=png&auto=webp&s=79335215841da2ba4276c45637ad5139d4202e2b",
+                "x": 1853,
+                "y": 1298
+            },
+            "status": "valid"
+        }
+    },
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t1_l5l8845",
+    "no_follow": true,
+    "num_reports": null,
+    "parent_id": "t3_1d07aw4",
+    "permalink": "/r/ChatGPT/comments/1d07aw4/what_would_you_do_if_you_were_me/l5l8845/",
+    "removal_reason": null,
+    "replies": "",
+    "report_reasons": null,
+    "retrieved_on": 1716626874,
+    "saved": false,
+    "score": 1,
+    "score_hidden": false,
+    "send_replies": true,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_type": "public",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "unrepliable_reason": null,
+    "ups": 1,
+    "user_reports": []
+}

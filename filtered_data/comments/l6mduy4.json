@@ -1,0 +1,116 @@
+{
+    "all_awardings": [],
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "associated_award": null,
+    "author": "graybeard5529",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_ng1hu8l",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "body": "Chat GPT came back with a failed  python code that did  not read  these complex financial PDF documents.\n\nUnfortunately, `pdf2txt` (also a python program) renders this financial analysis document in an unusable text relationship understandable for both humans or Chat GPT.\n\nIf you have access to SP Global financial analysis you would see the complexity. When I add ISS-EVA, Jeffries, McLean Equity Research, others for comparison ... Limit is 5 docs per chat with Claude Opus 3. Claude will point out both consistencies and differences. Is it 100% 'right' --no such thing exists in this sort of analysis.\n\n**End game, I draw my own conclusions.**\n\n>Your regression analysis of SB's stock price over various time frames provides additional perspective on the stock's recent trading patterns. The shorter-term trends do show some divergences from the longer-term trajectory.\n\nhttps://preview.redd.it/kzmj0ircmy3d1.png?width=1200&format=png&auto=webp&s=10fb95e899d707bac484e15f54691e1be6fc2c29\n\n>Observations from your charts:  \n  \nThe 20-day trend shows a more pronounced upswing, with the price rising from around $4.80 to over $5.20 recently. This contrasts with the 45-day, 90-day and 180-day trends which show a more sideways or slightly downward-sloping pattern.\n\n>The 90-day and 180-day charts better align with the fundamental analysis suggesting SB's business and earnings growth have moderated after the strong post-pandemic rebound. ...\n\n>... As always, I'm happy to discuss this analysis further if you have additional questions or insights to share.",
+    "can_gild": false,
+    "can_mod_post": false,
+    "collapsed": false,
+    "collapsed_because_crowd_control": null,
+    "collapsed_reason": null,
+    "collapsed_reason_code": null,
+    "comment_type": null,
+    "controversiality": 0,
+    "created": 1717247909,
+    "created_utc": 1717247909,
+    "distinguished": null,
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "id": "l6mduy4",
+    "is_submitter": false,
+    "likes": null,
+    "link_id": "t3_1d4sgp9",
+    "locked": false,
+    "media_metadata": {
+        "kzmj0ircmy3d1": {
+            "status": "valid",
+            "e": "Image",
+            "m": "image/png",
+            "p": [
+                {
+                    "y": 72,
+                    "x": 108,
+                    "u": "https://preview.redd.it/kzmj0ircmy3d1.png?width=108&crop=smart&auto=webp&s=0cd57104039e3674d69918b8cf63887158e7d1e3"
+                },
+                {
+                    "y": 144,
+                    "x": 216,
+                    "u": "https://preview.redd.it/kzmj0ircmy3d1.png?width=216&crop=smart&auto=webp&s=3a91cde3f0981f5c058018e65bd9e39d8ded039d"
+                },
+                {
+                    "y": 213,
+                    "x": 320,
+                    "u": "https://preview.redd.it/kzmj0ircmy3d1.png?width=320&crop=smart&auto=webp&s=8f64716e058af5e7df3d825877799abc4fd401e0"
+                },
+                {
+                    "y": 426,
+                    "x": 640,
+                    "u": "https://preview.redd.it/kzmj0ircmy3d1.png?width=640&crop=smart&auto=webp&s=858b0728b144ec23b38f5b90652db3b69683ee94"
+                },
+                {
+                    "y": 640,
+                    "x": 960,
+                    "u": "https://preview.redd.it/kzmj0ircmy3d1.png?width=960&crop=smart&auto=webp&s=1a3e3fb76466b281778d556eb25125cfeac65947"
+                },
+                {
+                    "y": 720,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/kzmj0ircmy3d1.png?width=1080&crop=smart&auto=webp&s=07f3a4d68395deab4c40317383ea2822b9875cdc"
+                }
+            ],
+            "s": {
+                "y": 800,
+                "x": 1200,
+                "u": "https://preview.redd.it/kzmj0ircmy3d1.png?width=1200&format=png&auto=webp&s=10fb95e899d707bac484e15f54691e1be6fc2c29"
+            },
+            "id": "kzmj0ircmy3d1"
+        }
+    },
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t1_l6mduy4",
+    "no_follow": true,
+    "num_reports": null,
+    "parent_id": "t1_l6h36zc",
+    "permalink": "/r/ChatGPT/comments/1d4sgp9/thanks_god_claude_is_not_leading/l6mduy4/",
+    "removal_reason": null,
+    "replies": "",
+    "report_reasons": null,
+    "retrieved_on": 1717247924,
+    "saved": false,
+    "score": 1,
+    "score_hidden": true,
+    "send_replies": true,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_type": "public",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "unrepliable_reason": null,
+    "ups": 1,
+    "user_reports": []
+}

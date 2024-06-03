@@ -1,0 +1,266 @@
+{
+    "_meta": {
+        "removal_type": "deleted",
+        "retrieved_2nd_on": 1714495393,
+        "was_deleted_later": true
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "Emcf",
+    "author_flair_background_color": "",
+    "author_flair_css_class": null,
+    "author_flair_richtext": [
+        {
+            "a": ":Discord:",
+            "e": "emoji",
+            "u": "https://emoji.redditmedia.com/0zlhaela6zub1_t5_7hqomg/Discord"
+        }
+    ],
+    "author_flair_template_id": null,
+    "author_flair_text": ":Discord:",
+    "author_flair_text_color": "dark",
+    "author_flair_type": "richtext",
+    "author_fullname": "t2_n8nre",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1714365780,
+    "created_utc": 1714365780,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "reddit.com",
+    "downs": 0,
+    "edited": false,
+    "gallery_data": {
+        "items": [
+            {
+                "caption": "For context: I'm the ML engineer that made this open source tool and asked my users about their use cases.",
+                "id": 445455898,
+                "media_id": "vzkbnob7lcxc1",
+                "outbound_url": "https://thepi.pe"
+            },
+            {
+                "id": 445455899,
+                "media_id": "40ad8px7lcxc1"
+            },
+            {
+                "id": 445455900,
+                "media_id": "lv2fssqklcxc1"
+            }
+        ]
+    },
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1cfqiic",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_gallery": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#0079d3",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Educational Purpose Only "
+        }
+    ],
+    "link_flair_template_id": "26e7b998-7bbc-11ed-ba93-22ce55064b6a",
+    "link_flair_text": "Educational Purpose Only ",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "40ad8px7lcxc1": {
+            "e": "Image",
+            "id": "40ad8px7lcxc1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/40ad8px7lcxc1.jpg?width=108&crop=smart&auto=webp&s=8be6ec32e75067b80abc0ba8f11250968b0e6f51",
+                    "x": 108,
+                    "y": 60
+                },
+                {
+                    "u": "https://preview.redd.it/40ad8px7lcxc1.jpg?width=216&crop=smart&auto=webp&s=6782c58dfc82ac9c92eef3db3ae1d525283117e1",
+                    "x": 216,
+                    "y": 121
+                },
+                {
+                    "u": "https://preview.redd.it/40ad8px7lcxc1.jpg?width=320&crop=smart&auto=webp&s=c5d617a399c57ac87f63608c4b6d755a836d76dc",
+                    "x": 320,
+                    "y": 179
+                },
+                {
+                    "u": "https://preview.redd.it/40ad8px7lcxc1.jpg?width=640&crop=smart&auto=webp&s=da9d4c17c2e94875c57a3fbba659eec8a2c4df79",
+                    "x": 640,
+                    "y": 359
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/40ad8px7lcxc1.jpg?width=888&format=pjpg&auto=webp&s=c1b1792abe506a67a67ff7ef6016b36e33fa0808",
+                "x": 888,
+                "y": 499
+            },
+            "status": "valid"
+        },
+        "lv2fssqklcxc1": {
+            "e": "Image",
+            "id": "lv2fssqklcxc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/lv2fssqklcxc1.png?width=108&crop=smart&auto=webp&s=a299bad52757438c063e745e3e1b7b08b8551570",
+                    "x": 108,
+                    "y": 90
+                },
+                {
+                    "u": "https://preview.redd.it/lv2fssqklcxc1.png?width=216&crop=smart&auto=webp&s=d0569ab26184286dd651ed4372d29a281a34e558",
+                    "x": 216,
+                    "y": 180
+                },
+                {
+                    "u": "https://preview.redd.it/lv2fssqklcxc1.png?width=320&crop=smart&auto=webp&s=60a1c2ffe6d941bd627db3221a7a5195063e4b32",
+                    "x": 320,
+                    "y": 267
+                },
+                {
+                    "u": "https://preview.redd.it/lv2fssqklcxc1.png?width=640&crop=smart&auto=webp&s=3b79622c56e8cabbc11d5cbe315d0d7ea1b15782",
+                    "x": 640,
+                    "y": 535
+                },
+                {
+                    "u": "https://preview.redd.it/lv2fssqklcxc1.png?width=960&crop=smart&auto=webp&s=f6f9f41db6be266c39c4884a74682493743dc003",
+                    "x": 960,
+                    "y": 802
+                },
+                {
+                    "u": "https://preview.redd.it/lv2fssqklcxc1.png?width=1080&crop=smart&auto=webp&s=7a85314c01ec03da5ec2008893bd2388e057520e",
+                    "x": 1080,
+                    "y": 903
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/lv2fssqklcxc1.png?width=1080&format=png&auto=webp&s=4f9cf0fe7f46ed31a3ea60472ff2f9e55555ea3d",
+                "x": 1080,
+                "y": 903
+            },
+            "status": "valid"
+        },
+        "vzkbnob7lcxc1": {
+            "e": "Image",
+            "id": "vzkbnob7lcxc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/vzkbnob7lcxc1.png?width=108&crop=smart&auto=webp&s=c7a59cc7677fa7c6e6a5f2f0d7cedb182cbaa36e",
+                    "x": 108,
+                    "y": 69
+                },
+                {
+                    "u": "https://preview.redd.it/vzkbnob7lcxc1.png?width=216&crop=smart&auto=webp&s=a7cb97a6f896935832aa9571072f43ef1302ed05",
+                    "x": 216,
+                    "y": 139
+                },
+                {
+                    "u": "https://preview.redd.it/vzkbnob7lcxc1.png?width=320&crop=smart&auto=webp&s=17655a5fe0f65c32870ebc85a8ee9e292113ca12",
+                    "x": 320,
+                    "y": 205
+                },
+                {
+                    "u": "https://preview.redd.it/vzkbnob7lcxc1.png?width=640&crop=smart&auto=webp&s=83c419e503e0354d77246ca2f97a691b77e0e237",
+                    "x": 640,
+                    "y": 411
+                },
+                {
+                    "u": "https://preview.redd.it/vzkbnob7lcxc1.png?width=960&crop=smart&auto=webp&s=619f4a605b688fa17feb4a22b19f8bca4dc66d7c",
+                    "x": 960,
+                    "y": 617
+                },
+                {
+                    "u": "https://preview.redd.it/vzkbnob7lcxc1.png?width=1080&crop=smart&auto=webp&s=c2548066e188dac584630d129fbc5742ea4ac8d7",
+                    "x": 1080,
+                    "y": 695
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/vzkbnob7lcxc1.png?width=1538&format=png&auto=webp&s=e43d49348b749b89bb1c26ed7cde3bdec555146d",
+                "x": 1538,
+                "y": 990
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1cfqiic",
+    "no_follow": true,
+    "num_comments": 1,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1cfqiic/school_assignments_are_now_grading_themselves/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1714365794,
+    "saved": false,
+    "score": 12,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5252754,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/OuJn7a5A0Ou9p-SyA9yq02s1JyKSKu5J7iZriwohZEI.jpg",
+    "thumbnail_height": 90,
+    "thumbnail_width": 140,
+    "title": "School assignments are now grading themselves with GPT Vision + Thepipe \ud83d\udc80",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 12,
+    "upvote_ratio": 0.8799999952316284,
+    "url": "https://thepi.pe",
+    "url_overridden_by_dest": "https://www.reddit.com/gallery/1cfqiic",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

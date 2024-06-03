@@ -1,0 +1,364 @@
+{
+    "_meta": {
+        "is_edited": true,
+        "retrieved_2nd_on": 1716199810
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "TheIndulgery",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_77j5yxdf",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1716070200,
+    "created_utc": 1716070200,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1cv8om2",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#0079d3",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Educational Purpose Only "
+        }
+    ],
+    "link_flair_template_id": "26e7b998-7bbc-11ed-ba93-22ce55064b6a",
+    "link_flair_text": "Educational Purpose Only ",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "05t0977p691d1": {
+            "e": "Image",
+            "id": "05t0977p691d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/05t0977p691d1.png?width=108&crop=smart&auto=webp&s=436b1e5e570aaafccf5bb2fbedcf4ae2baa6abc3",
+                    "x": 108,
+                    "y": 130
+                },
+                {
+                    "u": "https://preview.redd.it/05t0977p691d1.png?width=216&crop=smart&auto=webp&s=31d73f60427c6dd4c0a073a08b21fb8dfb44cace",
+                    "x": 216,
+                    "y": 261
+                },
+                {
+                    "u": "https://preview.redd.it/05t0977p691d1.png?width=320&crop=smart&auto=webp&s=58b5ebb80b812bc12c96ae178bc2a84529918f61",
+                    "x": 320,
+                    "y": 387
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/05t0977p691d1.png?width=572&format=png&auto=webp&s=35a55418b0ce7230225ac79e632632f4aac43f6a",
+                "x": 572,
+                "y": 692
+            },
+            "status": "valid"
+        },
+        "9dxzjn85791d1": {
+            "e": "Image",
+            "id": "9dxzjn85791d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/9dxzjn85791d1.png?width=108&crop=smart&auto=webp&s=83ba4f555221c4c9acb4b404be9e61e17d0d657b",
+                    "x": 108,
+                    "y": 28
+                },
+                {
+                    "u": "https://preview.redd.it/9dxzjn85791d1.png?width=216&crop=smart&auto=webp&s=10fa21144ccc23e79e08b14fd0d683bf79116c53",
+                    "x": 216,
+                    "y": 57
+                },
+                {
+                    "u": "https://preview.redd.it/9dxzjn85791d1.png?width=320&crop=smart&auto=webp&s=a43d5153e5068704ee69e567838f1acf6c30315d",
+                    "x": 320,
+                    "y": 85
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/9dxzjn85791d1.png?width=606&format=png&auto=webp&s=11ca003c702f77d5ea27e55abbb6a20f7573d409",
+                "x": 606,
+                "y": 161
+            },
+            "status": "valid"
+        },
+        "kio2yals691d1": {
+            "e": "Image",
+            "id": "kio2yals691d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/kio2yals691d1.png?width=108&crop=smart&auto=webp&s=03d05a9d4f9f32c341093a44da8fc8cc5346d41e",
+                    "x": 108,
+                    "y": 62
+                },
+                {
+                    "u": "https://preview.redd.it/kio2yals691d1.png?width=216&crop=smart&auto=webp&s=2f8a74b9e309417885b6845319ead73de3404fa0",
+                    "x": 216,
+                    "y": 125
+                },
+                {
+                    "u": "https://preview.redd.it/kio2yals691d1.png?width=320&crop=smart&auto=webp&s=9b9fd6e8cf7ba859f53977e82f3aae6d7ae810e8",
+                    "x": 320,
+                    "y": 185
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/kio2yals691d1.png?width=592&format=png&auto=webp&s=443d537f20d4c8956441214ea38ecd1e2af651bb",
+                "x": 592,
+                "y": 343
+            },
+            "status": "valid"
+        },
+        "kvudyz97791d1": {
+            "e": "Image",
+            "id": "kvudyz97791d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/kvudyz97791d1.png?width=108&crop=smart&auto=webp&s=44adb1db76f28568c6b15f9505c21b7ee1029e17",
+                    "x": 108,
+                    "y": 42
+                },
+                {
+                    "u": "https://preview.redd.it/kvudyz97791d1.png?width=216&crop=smart&auto=webp&s=6b096f3383e2e0ae4d063c68aa930269f0464f4b",
+                    "x": 216,
+                    "y": 85
+                },
+                {
+                    "u": "https://preview.redd.it/kvudyz97791d1.png?width=320&crop=smart&auto=webp&s=bebbaa378eaa4f4462b73e40072c29efbae5ca69",
+                    "x": 320,
+                    "y": 127
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/kvudyz97791d1.png?width=603&format=png&auto=webp&s=7fd6ee23d5719a0f73abf6b65b694c5523f6223f",
+                "x": 603,
+                "y": 240
+            },
+            "status": "valid"
+        },
+        "n0s3w4l2891d1": {
+            "e": "Image",
+            "id": "n0s3w4l2891d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/n0s3w4l2891d1.png?width=108&crop=smart&auto=webp&s=47c1695266cb8b21d65a65ce3fb83431bc46ee5e",
+                    "x": 108,
+                    "y": 91
+                },
+                {
+                    "u": "https://preview.redd.it/n0s3w4l2891d1.png?width=216&crop=smart&auto=webp&s=74cc722d3f2d0d8171077608e66acbc9647b0227",
+                    "x": 216,
+                    "y": 183
+                },
+                {
+                    "u": "https://preview.redd.it/n0s3w4l2891d1.png?width=320&crop=smart&auto=webp&s=9d4fa51348e716c3045c1d5eb4f2ff0d756fe248",
+                    "x": 320,
+                    "y": 272
+                },
+                {
+                    "u": "https://preview.redd.it/n0s3w4l2891d1.png?width=640&crop=smart&auto=webp&s=aa95810b429cca21014c979e026cc9f41d1b2c5f",
+                    "x": 640,
+                    "y": 544
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/n0s3w4l2891d1.png?width=787&format=png&auto=webp&s=6f8bbb75a01216bbef6b4792740154a1ea4f40ef",
+                "x": 787,
+                "y": 670
+            },
+            "status": "valid"
+        },
+        "n2e5pfx9691d1": {
+            "e": "Image",
+            "id": "n2e5pfx9691d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/n2e5pfx9691d1.png?width=108&crop=smart&auto=webp&s=a0d9fc902981bbf7e72b3f1c1a9a59477747ead7",
+                    "x": 108,
+                    "y": 45
+                },
+                {
+                    "u": "https://preview.redd.it/n2e5pfx9691d1.png?width=216&crop=smart&auto=webp&s=22ead006578faa9735f44fc81fc059801c0dcc4a",
+                    "x": 216,
+                    "y": 91
+                },
+                {
+                    "u": "https://preview.redd.it/n2e5pfx9691d1.png?width=320&crop=smart&auto=webp&s=cd0b42ab5d33ed8d0b3e7b167f937251ac27cf84",
+                    "x": 320,
+                    "y": 136
+                },
+                {
+                    "u": "https://preview.redd.it/n2e5pfx9691d1.png?width=640&crop=smart&auto=webp&s=9ed5efba7fa0e93c529aa210c32d7da1e187151e",
+                    "x": 640,
+                    "y": 272
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/n2e5pfx9691d1.png?width=825&format=png&auto=webp&s=41abb9ae9a8c984ea1837b0a3b292885822b1e5e",
+                "x": 825,
+                "y": 351
+            },
+            "status": "valid"
+        },
+        "wz4gn43v891d1": {
+            "e": "Image",
+            "id": "wz4gn43v891d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/wz4gn43v891d1.png?width=108&crop=smart&auto=webp&s=7846fe4df2561d141424a38c5d52659ad1ee825d",
+                    "x": 108,
+                    "y": 115
+                },
+                {
+                    "u": "https://preview.redd.it/wz4gn43v891d1.png?width=216&crop=smart&auto=webp&s=22236461f91fae4c1c22bf11c52d3c254966a1dc",
+                    "x": 216,
+                    "y": 231
+                },
+                {
+                    "u": "https://preview.redd.it/wz4gn43v891d1.png?width=320&crop=smart&auto=webp&s=f641617d90c63aaab9c2350e6baf70d5109edc3a",
+                    "x": 320,
+                    "y": 343
+                },
+                {
+                    "u": "https://preview.redd.it/wz4gn43v891d1.png?width=640&crop=smart&auto=webp&s=b118edc5ee5dcd04caf15bb1dd59b6341f628607",
+                    "x": 640,
+                    "y": 686
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/wz4gn43v891d1.png?width=662&format=png&auto=webp&s=b278e32bd76464dfa09395115d8bb401a759d789",
+                "x": 662,
+                "y": 710
+            },
+            "status": "valid"
+        },
+        "zy9jj32a891d1": {
+            "e": "Image",
+            "id": "zy9jj32a891d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/zy9jj32a891d1.png?width=108&crop=smart&auto=webp&s=05e81c4d6caba09ce3447fb009509dd4d273c87f",
+                    "x": 108,
+                    "y": 44
+                },
+                {
+                    "u": "https://preview.redd.it/zy9jj32a891d1.png?width=216&crop=smart&auto=webp&s=4f559749653cc6ddeff4d385276e546ff7ab4995",
+                    "x": 216,
+                    "y": 88
+                },
+                {
+                    "u": "https://preview.redd.it/zy9jj32a891d1.png?width=320&crop=smart&auto=webp&s=ea280038522420a29b77dfded164d54a26109e64",
+                    "x": 320,
+                    "y": 131
+                },
+                {
+                    "u": "https://preview.redd.it/zy9jj32a891d1.png?width=640&crop=smart&auto=webp&s=2a5bc919b31de43b16ebf760409785623f42fb03",
+                    "x": 640,
+                    "y": 263
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/zy9jj32a891d1.png?width=755&format=png&auto=webp&s=b6a3ee793ee610a96416268ae407aab70c6d3785",
+                "x": 755,
+                "y": 311
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1cv8om2",
+    "no_follow": true,
+    "num_comments": 9,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1cv8om2/using_chatgpt_as_a_novel_writing_aid/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1716070216,
+    "saved": false,
+    "score": 27,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "I'm currently writing a fantasy / litPRG novel and have been using ChatGPT in creative ways to help with it. I had some requests on how so instead of replying to everyone individually I figured I'd make a post! I will include screenshots so expect this post to be long! Also, it's from my actual book so please don't steal my shit. lol\n\n**I'll break it up into 5 sections:** \n\n1. Standard editing help\n2. Character and creature sheets\n3. The cool stuff\n4. A ChatGPT summary of the types of prompts I've used so far\n5. A recommendation by ChatGPT on how authors can get the most use out of it\n\n\n\n**A few notes to start:** \n\n* I'm currently using the paid version of 4o. I paid for 4 because I use it a TON for work and the ability to upload screenshots is a huge help. Turns out it's great for doing screenshots of formatting, character sheets, etc for writing too. I originally started with 3.5 and just kept migrating the story to newer versions as they came out. Other than query limits I haven't noticed any difference in quality.\n* I do **NOT** have it write any parts of the story for me. As an experiment I had it try to write a fight scene and kept adjusting the prompts but it just always came out shit. It's really not good at writing wholesale.\n* After every chapter I copy and paste it into the same conversation so that it keeps a running log of the story.\n* It's terrible at emotional interactions and dialogue. It tries to make everything hopeful and goes with the most generic, Hallmark Card type of interaction\n* It's also bad at giving suggestions or ideas for long scenes. It wants to resolve everything in a few paragraphs so it'll go from 2 people fighting to reaching a deeper understanding and being fully great with each other in like 2 paragraphs\n\n**Keep in mind that although it's great as a reviewer, editor, and something to bounce ideas off of, it can only provide suggestions. The hard work of writing has to be done by you. I spend about 2 hours a night and at least 4 hours a day on weekends writing and maybe 10 minutes a day in ChatGPT. Much like spell or grammar checkers, it's a useful tool but no substitute for doing the work**\n\n\n\n**Editing and grammar:**\n\nThis is pretty straightforward. I'll copy and paste sections and ask it to fix the grammar, bolding any changes it makes and striking out any words it removes so I can review the changes. The only issue I've had with this is that if I try to post an entire chapter it'll sometimes pause in its review and ask if I want to continue. Sometimes when it does that it loses sentences or even a paragraph where it broke. Now I just do smaller chunks. It'll explain why it made the changes too, so it's improving my grammar as I go.\n\n  \n**Character and creature help:**\n\nThis is also pretty straightforward. I already have my main characters written up and I know which ones are coming later, but sometimes I want mooks or neighbors, and other times I need creatures. I'll ask it for more than I need and pick the best ones. Some of the prompts:\n\n\"Create 5 creatures that you'd find in Wisconsin. There should be a day version and a night version, the night version being tougher and having more attacks. For each come up with 3 offensive and 3 defensive powers. Also describe them in the format of a character description in a D&D style monster manual.\"\n\nhttps://preview.redd.it/n2e5pfx9691d1.png?width=825&format=png&auto=webp&s=41abb9ae9a8c984ea1837b0a3b292885822b1e5e\n\n\"Based off the fight scene I just described and the attached screenshot of the person's character sheet, come up with 5 attacks, skills, or magical abilities that person could develop. They should reflect that person's personality, character sheet, and fighting style.\"\n\nhttps://preview.redd.it/05t0977p691d1.png?width=572&format=png&auto=webp&s=35a55418b0ce7230225ac79e632632f4aac43f6a\n\nhttps://preview.redd.it/kio2yals691d1.png?width=592&format=png&auto=webp&s=443d537f20d4c8956441214ea38ecd1e2af651bb\n\n  \n**Mooks:**\n\nhttps://preview.redd.it/9dxzjn85791d1.png?width=606&format=png&auto=webp&s=11ca003c702f77d5ea27e55abbb6a20f7573d409\n\nhttps://preview.redd.it/kvudyz97791d1.png?width=603&format=png&auto=webp&s=7fd6ee23d5719a0f73abf6b65b694c5523f6223f\n\n\n\n**The cool stuff:** This is where it really shines and has helped me avoid a lot of pitfalls that I notice when I'm reading other authors' books:\n\n  \n**\"Review the story and look for any words that I reuse a lot. Ignore standard ones like 'and, they, him, etc'\"**\n\nAll authors have their favorite words that get repeated way too often. I'll find them and suggest alternate descriptions. It goes beyond just providing new words.  \n\n\n**\"I want to avoid repetitive descriptions. Please review the story and identify any times I've repeated descriptions, turns of phrase, etc. Categorize them into \"fight scenes\", \"Emotional scenes\", and \"area/scene descriptions\"**\n\nThis has been a power prompt for me. We tend to describe things a certain way and it identifies areas where changes can be made to make it more dynamic and varied.\n\nhttps://preview.redd.it/n0s3w4l2891d1.png?width=787&format=png&auto=webp&s=6f8bbb75a01216bbef6b4792740154a1ea4f40ef\n\nhttps://preview.redd.it/zy9jj32a891d1.png?width=755&format=png&auto=webp&s=b6a3ee793ee610a96416268ae407aab70c6d3785\n\n  \n  \n**\"Please review the story for any inconsistencies. I'm specifically looking for ways I've described the system or world as working that I later contradict.\"**  \n  \n\n\nhttps://preview.redd.it/wz4gn43v891d1.png?width=662&format=png&auto=webp&s=b278e32bd76464dfa09395115d8bb401a759d789\n\n\n\n\n\n**I also use it to bounce ideas off of. Sometimes the ideas are generic but often it comes up with ideas that I hadn't thought of. I don't like it decide the plot or directions, but it's like chatting with an editor or reviewer and the two of you bouncing ideas off each other. I'll reply to its posts with things like \"*****I like number 3 but it's coming too early. What if we had them go to place X instead of that, saving that for later?*****\"**  \nCharacter \\[xx\\] is going to have these skills and plot points in the future. Knowing that, please tailor all skill and plot suggestions with the idea of driving towards that narrative in a balanced, natural manner. None of the ideas should feel forced and they should all happen naturally as the story progresses. As I paste new chapters please incorporate the changes into that long term progression and adapt as required.  \n  \n**\"I think I want character B to starting feeling like they're not contributing but I'm having trouble thinking of ways to express that naturally. I don't want it to feel forced. What are some situations they could end up in that'd highlight that? Who could they fight with?\"**\n\n  \n**\"I feel like character A is getting too complacent and it outpacing the other people, but they've become the lynchpin of the fights. I plan on introducing XX situation and it'll make them weak in XX area. I'm going to post a few paragraphs with that, tell me if it rings true with the character growth I've been using for the rest of the story.\"**\n\n  \n**\"I'm going to paste the first half of a fight that the characters are in but I'm realizing I don't have any ideas for how they'll win. What are some ideas based off the creature's character sheet you posted earlier?\"**\n\n\n\nAnd I asked ChatGPT to make a summarized list of the types of requests I've asked of it. Here's what it came up with:\n\n>Sure! Here's a summary list of the different types of requests you've made for help with plot, development, and ideas:\n\n>**Character Development and Backstory**\n\n>**Character Sheets:** \"Review this detailed character sheet and suggest any improvements or additional details to enhance the character's depth and complexity.\"\n\n>**Skills and Abilities:** \"Analyze this new skill for Zavier and provide feedback on how well it fits with his Opportunist class and how it could be further refined.\"\n\n>**Unique Items:** \"Evaluate this rare weapon designed for Tess and suggest any changes or enhancements to make it more unique and impactful.\"\n\n>**Emotional Growth:** \"Read through this scene where Cass confronts his fears and self-doubt during a battle. Provide feedback on how to enhance his emotional growth and make it more compelling.\"\n\n>  \n**Plot Development**\n\n>**Story Arcs:** \"Review this key story arc that introduces a major conflict between Tess and Zavier. Suggest any improvements or additional elements to make the conflict more engaging.\"\n\n>**Combat Scenes:** \"Analyze this combat scene where Luna and Cass fight a pack of mutated wolves. Provide feedback on how to make the scene more dynamic and showcase their growth and new skills.\"\n\n>**Plot Twists:** \"Suggest a surprise plot twist that could be integrated into this battle scene to challenge the characters and force them to adapt quickly.\"\n\n>**Character Conflict:** \"Evaluate this scene where Tess and Zavier have a heated argument about their training methods. Provide feedback on how to enhance the tension and emotional impact.\"\n\n>  \n**Scene and Setting Descriptions**\n\n>**Sensory Details:** \"Enhance this description of a forest setting by incorporating more sensory details. Suggest specific sounds, smells, and tactile elements that could be added.\"\n\n>**Creature Descriptions:** \"Review this description of a new creature the family encounters. Suggest ways to make the creature more terrifying and unique.\"\n\n>**Action Scenes:** \"Read through this action scene where Tess takes on a giant mutated bear. Provide feedback on how to make the scene more thrilling and showcase her skills more effectively.\"\n\n>  \n**Dialogue and Internal Monologue**\n\n>**Character Dialogues:** \"Review this conversation between Zavier and Tess where they discuss their fears and hopes. Suggest ways to make the dialogue more natural and emotionally resonant.\"\n\n>**Internal Monologue:** \"Analyze this internal monologue of Cass as he prepares for a solo battle. Provide feedback on how to make his thoughts more vivid and revealing.\"\n\n>**Emotional Depth:** \"Evaluate this scene where Luna comforts Cass after a failed mission. Suggest ways to enhance the emotional depth and strengthen their sibling bond.\"\n\n>  \n**Item and Skill Creation**\n\n>**Loot Items:** \"Review these unique items dropped by the Ironhide Boar. Suggest any changes to their descriptions, stats, and effects to make them more interesting and balanced.\"\n\n>**Weapon Effects:** \"Evaluate this new special ability for Zavier's chain weapon. Provide feedback on how to make it more versatile and impactful in combat.\"\n\n>**Skill Development:** \"Suggest a skill progression path for Luna that focuses on her luck-based fighting style. Provide ideas for potential skill upgrades and their effects.\"\n\n>  \n**Theme and Tone**\n\n>**Maintaining Tone:** \"Ensure that the tone of this new scene remains consistent with the rest of the story. Provide feedback on balancing dark moments with hopeful ones.\"\n\n>**Descriptive Variety:** \"Review this repetitive description of a battle scene and suggest ways to make it more engaging and varied, using dynamic verbs and sensory details.\"\n\n>**Balancing Emotions:** \"Evaluate this scene that balances intense action with emotional depth. Provide feedback on how to show the characters' vulnerabilities and strengths more effectively.\"\n\n>  \n**Feedback and Revisions**\n\n>**Improving Flow:** \"Review this written scene and suggest improvements for better flow and engagement. Identify any areas where the narrative could be more fluid.\"\n\n>**Avoiding Repetition:** \"Identify any repetitive language in this chapter and provide alternatives to keep the narrative fresh and interesting.\"\n\n>**Constructive Feedback:** \"Provide feedback on the latest plot progression and character development. Suggest ways to enhance the story's impact and make the characters more compelling.\"\n\n>These prompts should guide you in requesting specific feedback, edits, and suggestions for your writing.\n\n  \nAnd finally, I asked ChatGPT what kinds of prompts to use to make the most of its ability to help writers:\n\n>To make the most of my abilities as an AI assistant, authors should use prompts that focus on detailed feedback, specific suggestions for improvements, and brainstorming new ideas. Here are some examples of effective prompts that can help authors maximize the benefits of using my assistance:\n\n>**Character Development and Backstory**\n\n>**Character Sheets:** \"Review this detailed character sheet and suggest any improvements or additional details to enhance the character's depth and complexity.\"\n\n>**Skills and Abilities:** \"Analyze this new skill for \\[Character Name\\] and provide feedback on how well it fits with their class and personality. Suggest any enhancements or refinements.\"\n\n>**Emotional Growth:** \"Read through this scene where \\[Character Name\\] experiences significant emotional growth. Provide feedback on how to make the growth more compelling and realistic.\"\n\n>  \n**Plot Development**\n\n>**Story Arcs:** \"Review this key story arc and suggest any improvements or additional elements to make the conflict more engaging and impactful.\"\n\n>**Combat Scenes:** \"Analyze this combat scene and provide feedback on how to make it more dynamic and showcase the characters' growth and new skills.\"\n\n>**Plot Twists:** \"Suggest a surprise plot twist for this scene that will challenge the characters and force them to adapt quickly.\"\n\n>  \n**Scene and Setting Descriptions**\n\n>**Sensory Details:** \"Enhance this description of a \\[setting\\] by incorporating more sensory details. Suggest specific sounds, smells, and tactile elements that could be added.\"\n\n>**Creature Descriptions:** \"Review this description of a new creature the characters encounter. Suggest ways to make the creature more terrifying and unique.\"\n\n>**Action Scenes:** \"Read through this action scene and provide feedback on how to make it more thrilling and showcase the characters' skills more effectively.\"\n\n>  \n**Dialogue and Internal Monologue**\n\n>**Character Dialogues:** \"Review this conversation between \\[Character A\\] and \\[Character B\\] and suggest ways to make the dialogue more natural and emotionally resonant.\"\n\n>**Internal Monologue:** \"Analyze this internal monologue of \\[Character Name\\] and provide feedback on how to make their thoughts more vivid and revealing.\"\n\n>**Emotional Depth:** \"Evaluate this scene where \\[Character Name\\] comforts \\[another character\\]. Suggest ways to enhance the emotional depth and strengthen their relationship.\"\n\n>  \n**Item and Skill Creation**\n\n>**Loot Items:** \"Review these unique items dropped by \\[creature\\] and suggest any changes to their descriptions, stats, and effects to make them more interesting and balanced.\"\n\n>**Weapon Effects:** \"Evaluate this new special ability for \\[Character Name\\]'s weapon and provide feedback on how to make it more versatile and impactful in combat.\"\n\n>**Skill Development:** \"Suggest a skill progression path for \\[Character Name\\] that focuses on their \\[specific fighting style or ability\\]. Provide ideas for potential skill upgrades and their effects.\"\n\n>  \n**Theme and Tone**\n\n>**Maintaining Tone:** \"Ensure that the tone of this new scene remains consistent with the rest of the story. Provide feedback on balancing dark moments with hopeful ones.\"\n\n>**Descriptive Variety:** \"Review this repetitive description of a battle scene and suggest ways to make it more engaging and varied, using dynamic verbs and sensory details.\"\n\n>**Balancing Emotions:** \"Evaluate this scene that balances intense action with emotional depth. Provide feedback on how to show the characters' vulnerabilities and strengths more effectively.\"\n\n>  \n**Feedback and Revisions**\n\n>**Improving Flow:** \"Review this written scene and suggest improvements for better flow and engagement. Identify any areas where the narrative could be more fluid.\"\n\n>**Avoiding Repetition:** \"Identify any repetitive language in this chapter and provide alternatives to keep the narrative fresh and interesting.\"\n\n>**Constructive Feedback:** \"Provide feedback on the latest plot progression and character development. Suggest ways to enhance the story's impact and make the characters more compelling.\"\n\n>These prompts are designed to help authors get the most out of my abilities by focusing on specific aspects of their writing that can benefit from detailed feedback, suggestions for improvements, and creative brainstorming.\n\n  \nHope this helps!",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5519436,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/vSKBbzMxdYiJsscHKEsN9NQQU0SxVUtAh0-qtdCLNnA.jpg",
+    "thumbnail_height": 59,
+    "thumbnail_width": 140,
+    "title": "Using ChatGPT as a novel writing aid",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 27,
+    "upvote_ratio": 0.9300000071525574,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1cv8om2/using_chatgpt_as_a_novel_writing_aid/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

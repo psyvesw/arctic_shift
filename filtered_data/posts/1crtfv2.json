@@ -1,0 +1,161 @@
+{
+    "_meta": {
+        "is_edited": true,
+        "retrieved_2nd_on": 1715826273
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "deadcoder0904",
+    "author_flair_background_color": "",
+    "author_flair_css_class": null,
+    "author_flair_richtext": [
+        {
+            "a": ":Discord:",
+            "e": "emoji",
+            "u": "https://emoji.redditmedia.com/0zlhaela6zub1_t5_7hqomg/Discord"
+        }
+    ],
+    "author_flair_template_id": null,
+    "author_flair_text": ":Discord:",
+    "author_flair_text_color": "dark",
+    "author_flair_type": "richtext",
+    "author_fullname": "t2_60mz2ve",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1715696662,
+    "created_utc": 1715696662,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1crtfv2",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#dadada",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Use cases "
+        }
+    ],
+    "link_flair_template_id": "c9233c3a-b336-11ed-b456-fab66c9d9d9e",
+    "link_flair_text": "Use cases ",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1crtfv2",
+    "no_follow": false,
+    "num_comments": 419,
+    "num_crossposts": 1,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1crtfv2/9_use_cases_for_gpt4o/",
+    "pinned": false,
+    "post_hint": "self",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "Ni9ytWPTSRaw2lJam9uXgD2uunnvG87pH5VtA3n3hIc",
+                "resolutions": [
+                    {
+                        "height": 105,
+                        "url": "https://external-preview.redd.it/jqmSAPfHRui6mIO_2GbzoPzDvQhkFvYLOGBCcezap_c.png?width=108&crop=smart&auto=webp&s=1372fe0c193f9e28c1e5aa836ebc67557c57ad43",
+                        "width": 108
+                    },
+                    {
+                        "height": 210,
+                        "url": "https://external-preview.redd.it/jqmSAPfHRui6mIO_2GbzoPzDvQhkFvYLOGBCcezap_c.png?width=216&crop=smart&auto=webp&s=6d6ab3ece4dd98466ca6fac843af13daf3493f8e",
+                        "width": 216
+                    },
+                    {
+                        "height": 311,
+                        "url": "https://external-preview.redd.it/jqmSAPfHRui6mIO_2GbzoPzDvQhkFvYLOGBCcezap_c.png?width=320&crop=smart&auto=webp&s=e75649e89fad746d457bfead1030293ce6200908",
+                        "width": 320
+                    },
+                    {
+                        "height": 623,
+                        "url": "https://external-preview.redd.it/jqmSAPfHRui6mIO_2GbzoPzDvQhkFvYLOGBCcezap_c.png?width=640&crop=smart&auto=webp&s=a77084205071a8a7d7c82169a9e595283116c647",
+                        "width": 640
+                    }
+                ],
+                "source": {
+                    "height": 883,
+                    "url": "https://external-preview.redd.it/jqmSAPfHRui6mIO_2GbzoPzDvQhkFvYLOGBCcezap_c.png?auto=webp&s=048a4218a5c8e76673d3f1681e91f54405ab3a84",
+                    "width": 907
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1715696677,
+    "saved": false,
+    "score": 1049,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "GPT-4o is an omni model. It accepts any combination of text, audio, and image as input and generates any combination of text, audio, and image as outputs.\n\nThere's 100s of applications it will enable. I'll cover a few of them below.\n\n### 1. Language Learning\n\nDuolingo Stock fell by $65 in the last 5 days. That should tell you the entire story.\n\n[Duolingo Stock](https://i.imgur.com/YLH23KU.png)\n\nFor context, Duolingo is a language-learning app. Now GPT-4o can easily translate terms in other languages by just pointing it to the ChatGPT's Camera.\n\nThis is massive if you want to travel globally as a nomad. You don't have to know a language now. You can just translate on the fly in any random country.\n\nThe accuracy won't be 100% but it would be close enough. And the AI keeps improving.\n\n### 2. Solving School Problems For Students\n\nI wish I had this in school. Learning could've been more efficient and faster.\n\nMost students fear asking questions because they feel it might be dumb. Now you can ask ChatGPT any dumb question.\n\nIt even solves math problems for the Salman Khan's (founder of Khan Academy, not the actor) Kid.\n\n### 3. Bed Time Stories For Kids\n\nSince ChatGPT can talk now with a humourous and sultry voice, you can use it to tell stories to kids. It can be used in the voice of their parents or grandparents.\n\nYou can even use a Soft Toy that does the talking to the kid. Earlier, there used to be toys that did that but it only spoke the same sentence. Now it can do back and forth.\n\nYou can make special toys that teach kids letters and alphabets. Target it to 2-3 year olds.\n\nHat tip to [Whyme-\\_\\_-](https://reddit.com/r/ycombinator/comments/1crcf1l/did_gpt4o_just_kill_your_startup/l3xm9fm/) for the Bed Time idea.\n\n### 4. Be My Eyes For The Blind\n\nBest damn use-case for the blind. Now using a Phone is a bit too much for this but when smart glasses come, every blind person will have a walking companion.\n\nThe future is great for the blind.\n\n### 5. Be My Friend\n\nToo many people are lonely nowadays thanks to technology. It can be a boon for some but a con for others.\n\nYou can build a specialized app that gets you an AI Friend since you can talk to it now and it can talk back, it will be great.\n\nI am 100% sure Therapy AI will be much better now with Audio/Video integration. In future, we will have fully featured Robots like Tesla's Optimus and Figure that will have such functionalities built-in.\n\nI bet this comes in <2 years judging by the pace at which AI and Robotics are accelerating.\n\n### 6. Comic Books\n\nNow that text can be easily created with ChatGPT, why not create Comic Books easily.\n\nIts a huge creative exercise for comic creators. Webtoons have exploded in popularity and many KDramas are made out of them like **Death's Game** and **Marry My Husband.**\n\nThis will increase the creativity exponentially.\n\n### 7. Font Creations\n\nFonts are expensive. Like really expensive.\n\nFunnily enough ChatGPT can create fonts easily now. Take the most popular fonts, tweak them a bit, and create entire new sets of fonts.\n\nLook at the creations explode on Creative Market. Font directories like Typewolf can now create their own fonts easily as they already have distribution.\n\n[Open AI GPT-4o Text to Font](https://i.imgur.com/dv0VbL6.png)\n\n### 8. Brand Placements\n\nIt solved for [Brand Placements](https://openai.com/index/hello-gpt-4o/) too.\n\nYou can put your brand in places you never imagined without using too much effort.\n\n[Open AI GPT-4o Brand Placement](https://i.imgur.com/2N7vPkK.png)\n\n### 9. Poster Creation for Movies or TV Series\n\nPosters are hard to get right but as you know there are only finite variations.\n\n[Open AI GPT-4o Movie Posters](https://i.imgur.com/G8cEUm5.png)\n\nYou can fine-tune it on popular movie posters and solve [Poster Creation](https://openai.com/index/hello-gpt-4o/) once and for all.\n\n[Open AI GPT-4o Poster Creation](https://i.imgur.com/TxTunUU.png)\n\nWhat use-cases can you come up with? Give me your best ones.",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5447061,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "self",
+    "thumbnail_height": null,
+    "thumbnail_width": null,
+    "title": "9 Use cases for GPT-4o",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 1049,
+    "upvote_ratio": 0.7699999809265137,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1crtfv2/9_use_cases_for_gpt4o/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

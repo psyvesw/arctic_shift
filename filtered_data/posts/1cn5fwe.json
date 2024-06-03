@@ -1,0 +1,193 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1715306876
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "CalendarVarious3992",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_dycg8ld3",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1715177265,
+    "created_utc": 1715177265,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "/r/ChatGPT/comments/1cn5fwe/i_built_a_chrome_extension_to_queue_up_messages/",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1cn5fwe",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": true,
+    "likes": null,
+    "link_flair_background_color": "#dadada",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Use cases "
+        }
+    ],
+    "link_flair_template_id": "c9233c3a-b336-11ed-b456-fab66c9d9d9e",
+    "link_flair_text": "Use cases ",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": {
+        "reddit_video": {
+            "bitrate_kbps": 5000,
+            "dash_url": "https://v.redd.it/7691gdtvl7zc1/DASHPlaylist.mpd?a=1717898874%2CNGY5MDJmMTFhNWNjYWE2MGRmNzBmYjY1Y2NiYWI1ZTdhYjBjNzc0N2NlZjgyM2RjZWUxYWQ4YTUxNzVhYmZmMw%3D%3D&v=1&f=sd",
+            "duration": 33,
+            "fallback_url": "https://v.redd.it/7691gdtvl7zc1/DASH_1080.mp4?source=fallback",
+            "has_audio": false,
+            "height": 1080,
+            "hls_url": "https://v.redd.it/7691gdtvl7zc1/HLSPlaylist.m3u8?a=1717898874%2COWU3OTdkN2I0YzA3OWQzZGRhNjllMDVmYTc1Y2RmOWMzNzIyNGQ2ZjYyNjk5YzkxYzFhOWUwODc3N2Q5Y2U4ZA%3D%3D&v=1&f=sd",
+            "is_gif": false,
+            "scrubber_media_url": "https://v.redd.it/7691gdtvl7zc1/DASH_96.mp4",
+            "transcoding_status": "completed",
+            "width": 1722
+        }
+    },
+    "media_embed": {},
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1cn5fwe",
+    "no_follow": true,
+    "num_comments": 6,
+    "num_crossposts": 1,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1cn5fwe/i_built_a_chrome_extension_to_queue_up_messages/",
+    "pinned": false,
+    "post_hint": "hosted:video",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "NGM4bTYyMW1tN3pjMWL9GiAPtAnciCIW4UarykHeDGFMtVRtH23BeD8kjEsu",
+                "resolutions": [
+                    {
+                        "height": 67,
+                        "url": "https://external-preview.redd.it/NGM4bTYyMW1tN3pjMWL9GiAPtAnciCIW4UarykHeDGFMtVRtH23BeD8kjEsu.png?width=108&crop=smart&format=pjpg&auto=webp&s=ad79f040410184673d914168b1ab2401156069a7",
+                        "width": 108
+                    },
+                    {
+                        "height": 135,
+                        "url": "https://external-preview.redd.it/NGM4bTYyMW1tN3pjMWL9GiAPtAnciCIW4UarykHeDGFMtVRtH23BeD8kjEsu.png?width=216&crop=smart&format=pjpg&auto=webp&s=74fec0fe9a673ddef788fdbca986947b0e08adc4",
+                        "width": 216
+                    },
+                    {
+                        "height": 200,
+                        "url": "https://external-preview.redd.it/NGM4bTYyMW1tN3pjMWL9GiAPtAnciCIW4UarykHeDGFMtVRtH23BeD8kjEsu.png?width=320&crop=smart&format=pjpg&auto=webp&s=f0aa6ce1a65d3d8fabfe43748c5d61f0466400a8",
+                        "width": 320
+                    },
+                    {
+                        "height": 401,
+                        "url": "https://external-preview.redd.it/NGM4bTYyMW1tN3pjMWL9GiAPtAnciCIW4UarykHeDGFMtVRtH23BeD8kjEsu.png?width=640&crop=smart&format=pjpg&auto=webp&s=914d88ed8d682be97c47809233eca0fd5460bd1a",
+                        "width": 640
+                    },
+                    {
+                        "height": 602,
+                        "url": "https://external-preview.redd.it/NGM4bTYyMW1tN3pjMWL9GiAPtAnciCIW4UarykHeDGFMtVRtH23BeD8kjEsu.png?width=960&crop=smart&format=pjpg&auto=webp&s=e08ab77bac1b6516fc13d73c5befe1de3b2c435b",
+                        "width": 960
+                    },
+                    {
+                        "height": 677,
+                        "url": "https://external-preview.redd.it/NGM4bTYyMW1tN3pjMWL9GiAPtAnciCIW4UarykHeDGFMtVRtH23BeD8kjEsu.png?width=1080&crop=smart&format=pjpg&auto=webp&s=eda2ad0cbaa62c3eb35142c28203b88a3ada90e5",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 2160,
+                    "url": "https://external-preview.redd.it/NGM4bTYyMW1tN3pjMWL9GiAPtAnciCIW4UarykHeDGFMtVRtH23BeD8kjEsu.png?format=pjpg&auto=webp&s=471b03eb03e5c6396840d5ab4f85424dd9acb4de",
+                    "width": 3444
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1715177284,
+    "saved": false,
+    "score": 7,
+    "secure_media": {
+        "reddit_video": {
+            "bitrate_kbps": 5000,
+            "dash_url": "https://v.redd.it/7691gdtvl7zc1/DASHPlaylist.mpd?a=1717898874%2CNGY5MDJmMTFhNWNjYWE2MGRmNzBmYjY1Y2NiYWI1ZTdhYjBjNzc0N2NlZjgyM2RjZWUxYWQ4YTUxNzVhYmZmMw%3D%3D&v=1&f=sd",
+            "duration": 33,
+            "fallback_url": "https://v.redd.it/7691gdtvl7zc1/DASH_1080.mp4?source=fallback",
+            "has_audio": false,
+            "height": 1080,
+            "hls_url": "https://v.redd.it/7691gdtvl7zc1/HLSPlaylist.m3u8?a=1717898874%2COWU3OTdkN2I0YzA3OWQzZGRhNjllMDVmYTc1Y2RmOWMzNzIyNGQ2ZjYyNjk5YzkxYzFhOWUwODc3N2Q5Y2U4ZA%3D%3D&v=1&f=sd",
+            "is_gif": false,
+            "scrubber_media_url": "https://v.redd.it/7691gdtvl7zc1/DASH_96.mp4",
+            "transcoding_status": "completed",
+            "width": 1722
+        }
+    },
+    "secure_media_embed": {},
+    "selftext": "",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5363957,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://external-preview.redd.it/NGM4bTYyMW1tN3pjMWL9GiAPtAnciCIW4UarykHeDGFMtVRtH23BeD8kjEsu.png?width=140&height=87&crop=140:87,smart&format=jpg&v=enabled&lthumb=true&s=ba90e3f1298271a78aa97474444558ae2728a642",
+    "thumbnail_height": 87,
+    "thumbnail_width": 140,
+    "title": "I built a chrome extension to queue up messages in ChatGPT for research and writing",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 7,
+    "upvote_ratio": 0.7099999785423279,
+    "url": "https://v.redd.it/7691gdtvl7zc1",
+    "url_overridden_by_dest": "https://v.redd.it/7691gdtvl7zc1",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

@@ -1,0 +1,110 @@
+{
+    "_meta": {
+        "is_edited": true,
+        "retrieved_2nd_on": 1716764580
+    },
+    "all_awardings": [],
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "associated_award": null,
+    "author": "Severe_Ad620",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_hsaa6o8qp",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "body": ">Is there anyway to get a timestamp on the conversations?\n\nPut this instruction in the 'Custom Instructions' bottom box (top right icon > Customize ChatGPT):\n\n    After answering,  run a python program to print the current time in the Phoenix AZ timezone.\n\nhttps://preview.redd.it/62rko52y0k2d1.png?width=821&format=png&auto=webp&s=c887b399cc44a311966a3956f1d11b5cb385b75b",
+    "can_gild": false,
+    "can_mod_post": false,
+    "collapsed": false,
+    "collapsed_because_crowd_control": null,
+    "collapsed_reason": null,
+    "collapsed_reason_code": null,
+    "comment_type": null,
+    "controversiality": 0,
+    "created": 1716634970,
+    "created_utc": 1716634970,
+    "distinguished": null,
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "id": "l5liv23",
+    "is_submitter": false,
+    "likes": null,
+    "link_id": "t3_1d05vur",
+    "locked": false,
+    "media_metadata": {
+        "62rko52y0k2d1": {
+            "e": "Image",
+            "id": "62rko52y0k2d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/62rko52y0k2d1.png?width=108&crop=smart&auto=webp&s=790ce2e575ed0fb88c93619ceee4cb89baa6bcd1",
+                    "x": 108,
+                    "y": 38
+                },
+                {
+                    "u": "https://preview.redd.it/62rko52y0k2d1.png?width=216&crop=smart&auto=webp&s=c35de9ea5750c34b0080aa8a2cdb35cecc62aa3a",
+                    "x": 216,
+                    "y": 77
+                },
+                {
+                    "u": "https://preview.redd.it/62rko52y0k2d1.png?width=320&crop=smart&auto=webp&s=18a279f4244002a5fc815368c1a7d504788652b5",
+                    "x": 320,
+                    "y": 114
+                },
+                {
+                    "u": "https://preview.redd.it/62rko52y0k2d1.png?width=640&crop=smart&auto=webp&s=93145d213700f5ddfd2a3f26e64c9c73d661d9d9",
+                    "x": 640,
+                    "y": 228
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/62rko52y0k2d1.png?width=821&format=png&auto=webp&s=c887b399cc44a311966a3956f1d11b5cb385b75b",
+                "x": 821,
+                "y": 293
+            },
+            "status": "valid"
+        }
+    },
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t1_l5liv23",
+    "no_follow": true,
+    "num_reports": null,
+    "parent_id": "t3_1d05vur",
+    "permalink": "/r/ChatGPT/comments/1d05vur/timestamps/l5liv23/",
+    "removal_reason": null,
+    "replies": "",
+    "report_reasons": null,
+    "retrieved_on": 1716634998,
+    "saved": false,
+    "score": 1,
+    "score_hidden": false,
+    "send_replies": true,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_type": "public",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "unrepliable_reason": null,
+    "ups": 1,
+    "user_reports": []
+}

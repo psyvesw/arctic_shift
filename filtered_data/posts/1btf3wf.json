@@ -1,0 +1,252 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1712133820
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "Historical-Ad4834",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_5d6zw5m9",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1712004213,
+    "created_utc": 1712004213,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1btf3wf",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#94e044",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Other "
+        }
+    ],
+    "link_flair_template_id": "b4536a20-7be9-11ed-9a10-deed22fd00f8",
+    "link_flair_text": "Other ",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "78gel4j1hxrc1": {
+            "e": "Image",
+            "id": "78gel4j1hxrc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/78gel4j1hxrc1.png?width=108&crop=smart&auto=webp&s=ee2f4bf75ceccb269a1876fd0b292231d1481ecf",
+                    "x": 108,
+                    "y": 82
+                },
+                {
+                    "u": "https://preview.redd.it/78gel4j1hxrc1.png?width=216&crop=smart&auto=webp&s=2913125d9e1ee9182445bf466d8b7db77c38e2e3",
+                    "x": 216,
+                    "y": 165
+                },
+                {
+                    "u": "https://preview.redd.it/78gel4j1hxrc1.png?width=320&crop=smart&auto=webp&s=c743da95e8a5b6537dde617335bb8ef155693c37",
+                    "x": 320,
+                    "y": 244
+                },
+                {
+                    "u": "https://preview.redd.it/78gel4j1hxrc1.png?width=640&crop=smart&auto=webp&s=40ea74e8f82ecb443d92c1f24f2b8ab31b74965c",
+                    "x": 640,
+                    "y": 489
+                },
+                {
+                    "u": "https://preview.redd.it/78gel4j1hxrc1.png?width=960&crop=smart&auto=webp&s=dbab74cf925dd03417ba73de9543aa0f1c3ca60e",
+                    "x": 960,
+                    "y": 734
+                },
+                {
+                    "u": "https://preview.redd.it/78gel4j1hxrc1.png?width=1080&crop=smart&auto=webp&s=aed54b37b37f64fc8fded66e7f9364cd8147a416",
+                    "x": 1080,
+                    "y": 826
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/78gel4j1hxrc1.png?width=1780&format=png&auto=webp&s=3626ce7cf7556279a6b57c972daeccd31eed3df6",
+                "x": 1780,
+                "y": 1362
+            },
+            "status": "valid"
+        },
+        "kdovhq2bhxrc1": {
+            "e": "Image",
+            "id": "kdovhq2bhxrc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/kdovhq2bhxrc1.png?width=108&crop=smart&auto=webp&s=5119b100d688e65c4a6bfce21174572ff2bf2075",
+                    "x": 108,
+                    "y": 63
+                },
+                {
+                    "u": "https://preview.redd.it/kdovhq2bhxrc1.png?width=216&crop=smart&auto=webp&s=7d6c122b63ee45c78e224c5a8d18b961d7acc7f1",
+                    "x": 216,
+                    "y": 127
+                },
+                {
+                    "u": "https://preview.redd.it/kdovhq2bhxrc1.png?width=320&crop=smart&auto=webp&s=118323f422d436ab8664250231970fce9f064508",
+                    "x": 320,
+                    "y": 189
+                },
+                {
+                    "u": "https://preview.redd.it/kdovhq2bhxrc1.png?width=640&crop=smart&auto=webp&s=02d9f01fe9e204008ad65f90676bc3b7eaf19866",
+                    "x": 640,
+                    "y": 378
+                },
+                {
+                    "u": "https://preview.redd.it/kdovhq2bhxrc1.png?width=960&crop=smart&auto=webp&s=c48c7a63fb06eeec5aab98f408ffe5f417766f65",
+                    "x": 960,
+                    "y": 567
+                },
+                {
+                    "u": "https://preview.redd.it/kdovhq2bhxrc1.png?width=1080&crop=smart&auto=webp&s=0aabd399a4e3d73bdb045113aea94057953ad8e1",
+                    "x": 1080,
+                    "y": 638
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/kdovhq2bhxrc1.png?width=1780&format=png&auto=webp&s=844425573ef1a53411e3f9858169b3ac134ae802",
+                "x": 1780,
+                "y": 1052
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1btf3wf",
+    "no_follow": true,
+    "num_comments": 2,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1btf3wf/i_built_an_open_source_tool_that_helps_your/",
+    "pinned": false,
+    "post_hint": "self",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "ukCsm52sWEjbgZKWEcLwxTZXgXbjRiWGS4WqgONV7bc",
+                "resolutions": [
+                    {
+                        "height": 54,
+                        "url": "https://external-preview.redd.it/R65Wmdi7OuntruOEWMT60JX8xN_DtyRoZnqkKjSpois.jpg?width=108&crop=smart&auto=webp&s=91d26aaf839e7b1bb1a572fa8a76ca97d1d163fe",
+                        "width": 108
+                    },
+                    {
+                        "height": 108,
+                        "url": "https://external-preview.redd.it/R65Wmdi7OuntruOEWMT60JX8xN_DtyRoZnqkKjSpois.jpg?width=216&crop=smart&auto=webp&s=42e8d8c047011c9f30ffb95de09b1d1670abb364",
+                        "width": 216
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://external-preview.redd.it/R65Wmdi7OuntruOEWMT60JX8xN_DtyRoZnqkKjSpois.jpg?width=320&crop=smart&auto=webp&s=75dbf36830e6d8e0037f8dfd019101f350b69f39",
+                        "width": 320
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://external-preview.redd.it/R65Wmdi7OuntruOEWMT60JX8xN_DtyRoZnqkKjSpois.jpg?width=640&crop=smart&auto=webp&s=44830a3855cc1d64b0d254332c8e729cfcff7cf6",
+                        "width": 640
+                    },
+                    {
+                        "height": 480,
+                        "url": "https://external-preview.redd.it/R65Wmdi7OuntruOEWMT60JX8xN_DtyRoZnqkKjSpois.jpg?width=960&crop=smart&auto=webp&s=fc519789cfb9ea6a1a565fb62d9eab9cb03cdebc",
+                        "width": 960
+                    },
+                    {
+                        "height": 540,
+                        "url": "https://external-preview.redd.it/R65Wmdi7OuntruOEWMT60JX8xN_DtyRoZnqkKjSpois.jpg?width=1080&crop=smart&auto=webp&s=3a855c96e1d8e2dafb0485488b724573afa6c974",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 600,
+                    "url": "https://external-preview.redd.it/R65Wmdi7OuntruOEWMT60JX8xN_DtyRoZnqkKjSpois.jpg?auto=webp&s=3cdfc27719e8ade1732fffde387acbed22e37303",
+                    "width": 1200
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1712004228,
+    "saved": false,
+    "score": 3,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "Nowadays, it is a huge hassle for projects building on top of OpenAI and Anthropic to implement usage-based billing:\n\n* What is my OpenAI and Anthropic cost for each user?\n* How much should I charge each user?\n* How do I impose a usage limit on each user to ensure profitability for each pricing tier?\n\nBricksLLM helps you answer all of these questions via a highly scalable API gateway built specifically for LLMs.  \nHere is a quick demo:\n\nFor example, for each customer, you would create an API key (through the REST endpoint) that has a spend limit of $100/month and a rate limit of 10000 requests/month:\n\n[Creating an API key with a monthly spend limit and rate limit](https://preview.redd.it/78gel4j1hxrc1.png?width=1780&format=png&auto=webp&s=3626ce7cf7556279a6b57c972daeccd31eed3df6)\n\nThen, you can redirect your OpenAI/Anthropic requests to the proxy endpoint and start using the key:\n\n    // OpenAI Node SDK v4\n    import OpenAI from 'openai';\n    \n    const openai = new OpenAI({\n     apiKey: \"MY-SECRET-KEY\", // key created earlier\n     baseURL: \"http://localhost:8002/api/providers/openai/v1\", // redirect to us\n    });\n\nThat's it. Just start using OpenAI/Anthropic as you would normally.\n\nYou can query usage metrics via key id, model, custom id (custom metadata you can attach to each request), and user id:\n\n[Retrieving usage metrics from our API](https://preview.redd.it/kdovhq2bhxrc1.png?width=1780&format=png&auto=webp&s=844425573ef1a53411e3f9858169b3ac134ae802)\n\nThe usage data can be used both for analytics and Stripe integration. BricksLLM is free and open-source! You can spin it up using a single docker command. Under the hood it's just a Go web server with a PostgreSQL db and a Redis cache.\n\nCheck us out and let me know what you think!  \nHere is the repo if you want to learn more about it: [https://github.com/bricks-cloud/bricksllm](https://github.com/bricks-cloud/bricksllm)",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 4924373,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/wLHolEw1OzVslaVFcrTGjXBEMuUxLtgSBWgsivKmwXU.jpg",
+    "thumbnail_height": 70,
+    "thumbnail_width": 140,
+    "title": "I built an open source tool that helps your projects do usage-based billing",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 3,
+    "upvote_ratio": 0.800000011920929,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1btf3wf/i_built_an_open_source_tool_that_helps_your/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

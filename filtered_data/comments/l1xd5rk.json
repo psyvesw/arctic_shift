@@ -1,0 +1,109 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1714607311
+    },
+    "all_awardings": [],
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "associated_award": null,
+    "author": "Severe_Ad620",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_hsaa6o8qp",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "body": ">Can we instruct the GPT to use one instead of the other?\n\nIf you don't need any data analysis type functions using python programs, the easiest thing to do is to turn off the 'Code Interpreter' in the GPT configuration. That way, it can't use python.\n\nhttps://preview.redd.it/tg8gw2fculxc1.png?width=957&format=png&auto=webp&s=bcbd4a1a69701d06714a1e3cf2a385a836341c4d",
+    "can_gild": false,
+    "can_mod_post": false,
+    "collapsed": false,
+    "collapsed_because_crowd_control": null,
+    "collapsed_reason": null,
+    "collapsed_reason_code": null,
+    "comment_type": null,
+    "controversiality": 0,
+    "created": 1714477699,
+    "created_utc": 1714477699,
+    "distinguished": null,
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "id": "l1xd5rk",
+    "is_submitter": false,
+    "likes": null,
+    "link_id": "t3_1cgizzt",
+    "locked": false,
+    "media_metadata": {
+        "tg8gw2fculxc1": {
+            "e": "Image",
+            "id": "tg8gw2fculxc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/tg8gw2fculxc1.png?width=108&crop=smart&auto=webp&s=3aed062bc79009c4c7a3b773cd9e18d6d656828c",
+                    "x": 108,
+                    "y": 37
+                },
+                {
+                    "u": "https://preview.redd.it/tg8gw2fculxc1.png?width=216&crop=smart&auto=webp&s=e7c7ffb041b6ac7829950cd7e1566348cb2b9375",
+                    "x": 216,
+                    "y": 74
+                },
+                {
+                    "u": "https://preview.redd.it/tg8gw2fculxc1.png?width=320&crop=smart&auto=webp&s=afe1275e0aa121f0da40371bf6902c3af7d6548f",
+                    "x": 320,
+                    "y": 110
+                },
+                {
+                    "u": "https://preview.redd.it/tg8gw2fculxc1.png?width=640&crop=smart&auto=webp&s=07a8f140522ecc7f026b7c04f137eb5d549acc13",
+                    "x": 640,
+                    "y": 221
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/tg8gw2fculxc1.png?width=957&format=png&auto=webp&s=bcbd4a1a69701d06714a1e3cf2a385a836341c4d",
+                "x": 957,
+                "y": 331
+            },
+            "status": "valid"
+        }
+    },
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t1_l1xd5rk",
+    "no_follow": true,
+    "num_reports": null,
+    "parent_id": "t3_1cgizzt",
+    "permalink": "/r/ChatGPT/comments/1cgizzt/difference_between_searching_for_knowledge_and/l1xd5rk/",
+    "removal_reason": null,
+    "replies": "",
+    "report_reasons": null,
+    "retrieved_on": 1714477716,
+    "saved": false,
+    "score": 1,
+    "score_hidden": false,
+    "send_replies": true,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_type": "public",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "unrepliable_reason": null,
+    "ups": 1,
+    "user_reports": []
+}

@@ -1,0 +1,200 @@
+{
+    "_meta": {
+        "removal_type": "deleted",
+        "retrieved_2nd_on": 1712295164,
+        "was_deleted_later": true
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "HugoWeaving5",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_i24pq2gp",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1712165545,
+    "created_utc": 1712165545,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "v.redd.it",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1buyory",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": true,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": true,
+    "likes": null,
+    "link_flair_background_color": "#0dd3bb",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "GPTs"
+        },
+        {
+            "a": ":illuminati:",
+            "e": "emoji",
+            "u": "https://emoji.redditmedia.com/mv60bklq1guz_t5_3nqvj/illuminati"
+        }
+    ],
+    "link_flair_template_id": "bcb51ede-7ef9-11ee-b24e-cecbc98d93fe",
+    "link_flair_text": "GPTs:illuminati:",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": {
+        "reddit_video": {
+            "bitrate_kbps": 5000,
+            "dash_url": "https://v.redd.it/jggehw5suasc1/DASHPlaylist.mpd?a=1714757560%2CYzY1MTRkYTQyYmYzYmYwZGM1YjMzNDczMzYzYWNhNzM0MGViZGU0NmE0ZWFjYjMwNjhkMjUyM2ZhNDBhZGJiMw%3D%3D&v=1&f=sd",
+            "duration": 59,
+            "fallback_url": "https://v.redd.it/jggehw5suasc1/DASH_1080.mp4?source=fallback",
+            "has_audio": true,
+            "height": 1080,
+            "hls_url": "https://v.redd.it/jggehw5suasc1/HLSPlaylist.m3u8?a=1714757560%2CN2JkN2Q1NDI5NTFkMjc1MjdhYzIxN2VmNDBkYTYzYzI2NTU4MmY0YzU3OGIxMmMxYTExYjIyMjUwZGYxNTU5ZA%3D%3D&v=1&f=sd",
+            "is_gif": false,
+            "scrubber_media_url": "https://v.redd.it/jggehw5suasc1/DASH_96.mp4",
+            "transcoding_status": "completed",
+            "width": 1080
+        }
+    },
+    "media_embed": {},
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1buyory",
+    "no_follow": true,
+    "num_comments": 7,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1buyory/im_doing_my_phd_and_helped_develop_a_chatgpt_tool/",
+    "pinned": false,
+    "post_hint": "hosted:video",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "eGh1Zzltejd2YXNjMRo4BXVVkf6JuGFAdm69ibk1hzRezSeCfoZ-a1SB4t0b",
+                "resolutions": [
+                    {
+                        "height": 108,
+                        "url": "https://external-preview.redd.it/eGh1Zzltejd2YXNjMRo4BXVVkf6JuGFAdm69ibk1hzRezSeCfoZ-a1SB4t0b.png?width=108&crop=smart&format=pjpg&auto=webp&s=55137e48433aaa47a8658eebed193b7954b9a5bf",
+                        "width": 108
+                    },
+                    {
+                        "height": 216,
+                        "url": "https://external-preview.redd.it/eGh1Zzltejd2YXNjMRo4BXVVkf6JuGFAdm69ibk1hzRezSeCfoZ-a1SB4t0b.png?width=216&crop=smart&format=pjpg&auto=webp&s=f9020eecafeba59290997858fe5f34c37a213f74",
+                        "width": 216
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://external-preview.redd.it/eGh1Zzltejd2YXNjMRo4BXVVkf6JuGFAdm69ibk1hzRezSeCfoZ-a1SB4t0b.png?width=320&crop=smart&format=pjpg&auto=webp&s=89ff0de83bd3e9943a65c926d004adea73e4fae5",
+                        "width": 320
+                    },
+                    {
+                        "height": 640,
+                        "url": "https://external-preview.redd.it/eGh1Zzltejd2YXNjMRo4BXVVkf6JuGFAdm69ibk1hzRezSeCfoZ-a1SB4t0b.png?width=640&crop=smart&format=pjpg&auto=webp&s=ce06a672224ab0cc11087303c3de958b125ceb01",
+                        "width": 640
+                    },
+                    {
+                        "height": 960,
+                        "url": "https://external-preview.redd.it/eGh1Zzltejd2YXNjMRo4BXVVkf6JuGFAdm69ibk1hzRezSeCfoZ-a1SB4t0b.png?width=960&crop=smart&format=pjpg&auto=webp&s=f26e7b75ab60fd54dd607d3235756009e1963d87",
+                        "width": 960
+                    },
+                    {
+                        "height": 1080,
+                        "url": "https://external-preview.redd.it/eGh1Zzltejd2YXNjMRo4BXVVkf6JuGFAdm69ibk1hzRezSeCfoZ-a1SB4t0b.png?width=1080&crop=smart&format=pjpg&auto=webp&s=16bba9edb9bbd11de8310139c260a0c4f884d290",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 1080,
+                    "url": "https://external-preview.redd.it/eGh1Zzltejd2YXNjMRo4BXVVkf6JuGFAdm69ibk1hzRezSeCfoZ-a1SB4t0b.png?format=pjpg&auto=webp&s=27cab075940c39e78839ad2ed57e55fcd017fbc5",
+                    "width": 1080
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1712165560,
+    "saved": false,
+    "score": 15,
+    "secure_media": {
+        "reddit_video": {
+            "bitrate_kbps": 5000,
+            "dash_url": "https://v.redd.it/jggehw5suasc1/DASHPlaylist.mpd?a=1714757560%2CYzY1MTRkYTQyYmYzYmYwZGM1YjMzNDczMzYzYWNhNzM0MGViZGU0NmE0ZWFjYjMwNjhkMjUyM2ZhNDBhZGJiMw%3D%3D&v=1&f=sd",
+            "duration": 59,
+            "fallback_url": "https://v.redd.it/jggehw5suasc1/DASH_1080.mp4?source=fallback",
+            "has_audio": true,
+            "height": 1080,
+            "hls_url": "https://v.redd.it/jggehw5suasc1/HLSPlaylist.m3u8?a=1714757560%2CN2JkN2Q1NDI5NTFkMjc1MjdhYzIxN2VmNDBkYTYzYzI2NTU4MmY0YzU3OGIxMmMxYTExYjIyMjUwZGYxNTU5ZA%3D%3D&v=1&f=sd",
+            "is_gif": false,
+            "scrubber_media_url": "https://v.redd.it/jggehw5suasc1/DASH_96.mp4",
+            "transcoding_status": "completed",
+            "width": 1080
+        }
+    },
+    "secure_media_embed": {},
+    "selftext": "",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 4948114,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://external-preview.redd.it/eGh1Zzltejd2YXNjMRo4BXVVkf6JuGFAdm69ibk1hzRezSeCfoZ-a1SB4t0b.png?width=140&height=140&crop=140:140,smart&format=jpg&v=enabled&lthumb=true&s=09d1ca4ea3c1e1ac783074d12633e3610ed604b0",
+    "thumbnail_height": 140,
+    "thumbnail_width": 140,
+    "title": "I'm doing my PhD and helped develop a ChatGPT tool to assist with learning and research for virtually any topic. It generates responses backed by peer-reviewed literature and also summarizes research articles. It's meant to be like an interactive encyclopedia. Here is the link: www.academicai.io",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 15,
+    "upvote_ratio": 0.800000011920929,
+    "url": "https://v.redd.it/jggehw5suasc1",
+    "url_overridden_by_dest": "https://v.redd.it/jggehw5suasc1",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

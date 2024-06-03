@@ -1,0 +1,170 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1716026895
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "anitakirkovska",
+    "author_flair_background_color": "",
+    "author_flair_css_class": null,
+    "author_flair_richtext": [
+        {
+            "a": ":Discord:",
+            "e": "emoji",
+            "u": "https://emoji.redditmedia.com/0zlhaela6zub1_t5_7hqomg/Discord"
+        }
+    ],
+    "author_flair_template_id": null,
+    "author_flair_text": ":Discord:",
+    "author_flair_text_color": "dark",
+    "author_flair_type": "richtext",
+    "author_fullname": "t2_63wefwk",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1715897284,
+    "created_utc": 1715897284,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1ctpcap",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#0079d3",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Educational Purpose Only "
+        }
+    ],
+    "link_flair_template_id": "26e7b998-7bbc-11ed-ba93-22ce55064b6a",
+    "link_flair_text": "Educational Purpose Only ",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1ctpcap",
+    "no_follow": true,
+    "num_comments": 1,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1ctpcap/gpt4o_vs_gpt4_turbo_comparison_on_three_tasks/",
+    "pinned": false,
+    "post_hint": "self",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "_N3_mC21id7s0QnOAz19VLUR8Q1FovZVksqboN_4oFQ",
+                "resolutions": [
+                    {
+                        "height": 74,
+                        "url": "https://external-preview.redd.it/w4qIbSlpkVIIqjyP1n4MLDtME00o0PwoG4VwQ33dM4k.jpg?width=108&crop=smart&auto=webp&s=e3b685557ec5082e7471bb02827e53ea68365c8e",
+                        "width": 108
+                    },
+                    {
+                        "height": 148,
+                        "url": "https://external-preview.redd.it/w4qIbSlpkVIIqjyP1n4MLDtME00o0PwoG4VwQ33dM4k.jpg?width=216&crop=smart&auto=webp&s=b03a5cd2bc0ff7b8fe042f3a54c33050ad9f772b",
+                        "width": 216
+                    },
+                    {
+                        "height": 220,
+                        "url": "https://external-preview.redd.it/w4qIbSlpkVIIqjyP1n4MLDtME00o0PwoG4VwQ33dM4k.jpg?width=320&crop=smart&auto=webp&s=42d53466c9df65256c825cda5197b46520038a85",
+                        "width": 320
+                    },
+                    {
+                        "height": 440,
+                        "url": "https://external-preview.redd.it/w4qIbSlpkVIIqjyP1n4MLDtME00o0PwoG4VwQ33dM4k.jpg?width=640&crop=smart&auto=webp&s=32baf8bd9bcf4f57c12a9e2af8e1af35c80d6612",
+                        "width": 640
+                    },
+                    {
+                        "height": 660,
+                        "url": "https://external-preview.redd.it/w4qIbSlpkVIIqjyP1n4MLDtME00o0PwoG4VwQ33dM4k.jpg?width=960&crop=smart&auto=webp&s=11d13bbb566afb1fb1d681db23c7cf915b17dd4f",
+                        "width": 960
+                    },
+                    {
+                        "height": 743,
+                        "url": "https://external-preview.redd.it/w4qIbSlpkVIIqjyP1n4MLDtME00o0PwoG4VwQ33dM4k.jpg?width=1080&crop=smart&auto=webp&s=65b91977a43151b5ef5cf240478884e4f1bfeab4",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 1548,
+                    "url": "https://external-preview.redd.it/w4qIbSlpkVIIqjyP1n4MLDtME00o0PwoG4VwQ33dM4k.jpg?auto=webp&s=0c5673bf6ab65ecc1abfe5260bbbb754b0c6d218",
+                    "width": 2250
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1715897302,
+    "saved": false,
+    "score": 2,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "Hey everyone, we ran a small experiment and compared GPT-4o and GPT-4 Turbo on three tasks: classification, data extraction and reasoning.\n\nWe learn that GPT4o is better than GPT-4 Turbo on all three tasks but:\n\n* For complex data extraction tasks, both models still fall short of the mark.\n* For classification of customer tickets, GPT4o has the best precision compared to GPT4-Turbo. Also, it still has the best precision when compared to Claude 3 Opus and GPT-4.\n* For reasoning, GPT-4o has improved in tasks like calendar calculations, time and angle calculations, and antonym identification. However, it still struggles with word manipulation, pattern recognition, analogy reasoning, and spatial reasoning.\n\n  \nYou can read the whole analysis here: [https://www.vellum.ai/blog/analysis-gpt-4o-vs-gpt-4-turbo](https://www.vellum.ai/blog/analysis-gpt-4o-vs-gpt-4-turbo)",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5487423,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "self",
+    "thumbnail_height": null,
+    "thumbnail_width": null,
+    "title": "GPT-4o vs GPT-4 Turbo comparison on three tasks",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 2,
+    "upvote_ratio": 1,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1ctpcap/gpt4o_vs_gpt4_turbo_comparison_on_three_tasks/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

@@ -1,0 +1,270 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1716016096
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "Mental_Zucchini1599",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_9a7bs2e8",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1715886489,
+    "created_utc": 1715886489,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "reddit.com",
+    "downs": 0,
+    "edited": false,
+    "gallery_data": {
+        "items": [
+            {
+                "caption": "",
+                "id": 454462227,
+                "media_id": "uf5lb0wh7u0d1",
+                "outbound_url": ""
+            },
+            {
+                "caption": "",
+                "id": 454462228,
+                "media_id": "xmrx40wh7u0d1",
+                "outbound_url": ""
+            },
+            {
+                "caption": "",
+                "id": 454462229,
+                "media_id": "g05w81wh7u0d1",
+                "outbound_url": ""
+            },
+            {
+                "caption": "",
+                "id": 454462230,
+                "media_id": "23rzi0wh7u0d1",
+                "outbound_url": ""
+            }
+        ]
+    },
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1ctkw7k",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_gallery": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#ddbd37",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "News \ud83d\udcf0"
+        }
+    ],
+    "link_flair_template_id": "1c39d510-f1ac-11ed-8167-5e7479c0f87c",
+    "link_flair_text": "News \ud83d\udcf0",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "23rzi0wh7u0d1": {
+            "e": "Image",
+            "id": "23rzi0wh7u0d1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/23rzi0wh7u0d1.jpg?width=108&crop=smart&auto=webp&s=1b4a883cd5f2d41a1cbd325b7eba98c29de363e1",
+                    "x": 108,
+                    "y": 216
+                },
+                {
+                    "u": "https://preview.redd.it/23rzi0wh7u0d1.jpg?width=216&crop=smart&auto=webp&s=1d037c3dbdc3cba46acb103b022a5e05b397ad5e",
+                    "x": 216,
+                    "y": 432
+                },
+                {
+                    "u": "https://preview.redd.it/23rzi0wh7u0d1.jpg?width=320&crop=smart&auto=webp&s=a2aa3d79bc7b5f5f0d5f08c1e420fb4c68067aa8",
+                    "x": 320,
+                    "y": 640
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/23rzi0wh7u0d1.jpg?width=540&format=pjpg&auto=webp&s=64c6de67d9ea4e120ff6fcd0dfc591c05acfc505",
+                "x": 540,
+                "y": 1496
+            },
+            "status": "valid"
+        },
+        "g05w81wh7u0d1": {
+            "e": "Image",
+            "id": "g05w81wh7u0d1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/g05w81wh7u0d1.jpg?width=108&crop=smart&auto=webp&s=32c38f3505d974a8c007f6dcee5f639d4b6d627f",
+                    "x": 108,
+                    "y": 22
+                },
+                {
+                    "u": "https://preview.redd.it/g05w81wh7u0d1.jpg?width=216&crop=smart&auto=webp&s=626311c6d7f82adea221c9cc0bd7739f81be4ca5",
+                    "x": 216,
+                    "y": 45
+                },
+                {
+                    "u": "https://preview.redd.it/g05w81wh7u0d1.jpg?width=320&crop=smart&auto=webp&s=41e9e49df5e506a11abc06c3577e4a0c47137f06",
+                    "x": 320,
+                    "y": 66
+                },
+                {
+                    "u": "https://preview.redd.it/g05w81wh7u0d1.jpg?width=640&crop=smart&auto=webp&s=677b8e1b27a28250e1f6ebad63708cd3b7e844ba",
+                    "x": 640,
+                    "y": 133
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/g05w81wh7u0d1.jpg?width=840&format=pjpg&auto=webp&s=c6c8b3dcdc09d4eabfcf44599252b738284f13b0",
+                "x": 840,
+                "y": 175
+            },
+            "status": "valid"
+        },
+        "uf5lb0wh7u0d1": {
+            "e": "Image",
+            "id": "uf5lb0wh7u0d1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/uf5lb0wh7u0d1.jpg?width=108&crop=smart&auto=webp&s=cd8c3e767bf651ac2d6bc0ff6f5e28bf56218f07",
+                    "x": 108,
+                    "y": 216
+                },
+                {
+                    "u": "https://preview.redd.it/uf5lb0wh7u0d1.jpg?width=216&crop=smart&auto=webp&s=a3d8d7f8d17f3c3dcf4ac4196a2042db734d8566",
+                    "x": 216,
+                    "y": 432
+                },
+                {
+                    "u": "https://preview.redd.it/uf5lb0wh7u0d1.jpg?width=320&crop=smart&auto=webp&s=f5e08c602364e1e92c6da2c73ecebf464f450ca4",
+                    "x": 320,
+                    "y": 640
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/uf5lb0wh7u0d1.jpg?width=609&format=pjpg&auto=webp&s=56324db6f08fdb8e50980063ce459560e1be9ff3",
+                "x": 609,
+                "y": 1600
+            },
+            "status": "valid"
+        },
+        "xmrx40wh7u0d1": {
+            "e": "Image",
+            "id": "xmrx40wh7u0d1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/xmrx40wh7u0d1.jpg?width=108&crop=smart&auto=webp&s=ccc40f3587cdcd1ad133f2c3d99e15d9dd4ca7d9",
+                    "x": 108,
+                    "y": 216
+                },
+                {
+                    "u": "https://preview.redd.it/xmrx40wh7u0d1.jpg?width=216&crop=smart&auto=webp&s=55f55583a734ff90ce5ed60635f11d046e59e5f1",
+                    "x": 216,
+                    "y": 432
+                },
+                {
+                    "u": "https://preview.redd.it/xmrx40wh7u0d1.jpg?width=320&crop=smart&auto=webp&s=59cf01d5cb7fcfb88040767b747111d65b2430e4",
+                    "x": 320,
+                    "y": 640
+                },
+                {
+                    "u": "https://preview.redd.it/xmrx40wh7u0d1.jpg?width=640&crop=smart&auto=webp&s=6eff522a1070862c6dec0e6ae8f8a8557c7cf916",
+                    "x": 640,
+                    "y": 1280
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/xmrx40wh7u0d1.jpg?width=840&format=pjpg&auto=webp&s=82f844dfcd134a9406cf1e494fdb1cf2b689b135",
+                "x": 840,
+                "y": 2206
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1ctkw7k",
+    "no_follow": true,
+    "num_comments": 11,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1ctkw7k/germany_free_account_just_got_gpt4o_access_with/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1715886505,
+    "saved": false,
+    "score": 0,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "The web app asked me if I want to try GPT-4o, I said yes and got file uploading. I uploaded a pdf (with a student transit ticket and asked it to convert it to a pkpass wallet file and it actually gave my python code to do that, but wasn\u2019t apple to run it unlike with Plus).\n\nThen I opened the app on my android phone and it asked me which voice I want to choose. It works great, also in German (with a slightly dutch accent). I talked a bit to it and everything seems so far like in OpenAIs promo videos. \n\nThe only feature I can\u2019t access yet is the mac app.",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5484998,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/6igmGBMcKbyTQBX-PS7qvD4g74AtdwtXhBKVXUfE17o.jpg",
+    "thumbnail_height": 140,
+    "thumbnail_width": 140,
+    "title": "Germany, free account: Just got GPT-4o access (with emotional voice in the app) and it\u2019s amazing!",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 0,
+    "upvote_ratio": 0.46000000834465027,
+    "url": "https://www.reddit.com/gallery/1ctkw7k",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

@@ -1,0 +1,170 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1712910102
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "nanatsuphi",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_e4vjq8nm",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1712780492,
+    "created_utc": 1712780492,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "i.redd.it",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1c0vi8l",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": false,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": true,
+    "is_robot_indexable": false,
+    "is_self": false,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#ff66ac",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Serious replies only "
+        },
+        {
+            "a": ":closed-ai:",
+            "e": "emoji",
+            "u": "https://emoji.redditmedia.com/kiux00uuphia1_t5_7hqomg/closed-ai"
+        }
+    ],
+    "link_flair_template_id": "c660b6fa-7be9-11ed-974b-1eca573371bf",
+    "link_flair_text": "Serious replies only :closed-ai:",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1c0vi8l",
+    "no_follow": true,
+    "num_comments": 1,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1c0vi8l/youve_reached_the_current_usage_cap_for_gpt4_you/",
+    "pinned": false,
+    "post_hint": "image",
+    "preview": {
+        "enabled": true,
+        "images": [
+            {
+                "id": "jtfGEq9kLkxAPktMCreJrAb0n0tOv_QXW77v9avQQBs",
+                "resolutions": [
+                    {
+                        "height": 216,
+                        "url": "https://preview.redd.it/0fjbi4lrnptc1.jpeg?width=108&crop=smart&auto=webp&s=4aedf2517630351d2925a3116b1e68e26fe703c2",
+                        "width": 108
+                    },
+                    {
+                        "height": 432,
+                        "url": "https://preview.redd.it/0fjbi4lrnptc1.jpeg?width=216&crop=smart&auto=webp&s=5fad80f7ddf4bfe03c5c9337662bf775e62fe803",
+                        "width": 216
+                    },
+                    {
+                        "height": 640,
+                        "url": "https://preview.redd.it/0fjbi4lrnptc1.jpeg?width=320&crop=smart&auto=webp&s=6050dbb9897157ddb1aa4b92130b4f8f313301ce",
+                        "width": 320
+                    },
+                    {
+                        "height": 1280,
+                        "url": "https://preview.redd.it/0fjbi4lrnptc1.jpeg?width=640&crop=smart&auto=webp&s=6a0e86fac6824cfe0756c301d0b819acebe8c291",
+                        "width": 640
+                    },
+                    {
+                        "height": 1920,
+                        "url": "https://preview.redd.it/0fjbi4lrnptc1.jpeg?width=960&crop=smart&auto=webp&s=e2572a9fba2e68c8a3ccd08e68ef9151b49b9e28",
+                        "width": 960
+                    },
+                    {
+                        "height": 2160,
+                        "url": "https://preview.redd.it/0fjbi4lrnptc1.jpeg?width=1080&crop=smart&auto=webp&s=eab31c61553be2be2acb42d644e90238a34eaf9b",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 2400,
+                    "url": "https://preview.redd.it/0fjbi4lrnptc1.jpeg?auto=webp&s=8b14fc0c939b0e2df06e83964c467d25bb2b2368",
+                    "width": 1080
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": "moderator",
+    "report_reasons": null,
+    "retrieved_on": 1712780507,
+    "saved": false,
+    "score": 1,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "[removed]",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5034059,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/_aY0JhGnW0eAgx7LvfyNxPsSEjI22pUAGl0gq0bOy6I.jpg",
+    "thumbnail_height": 140,
+    "thumbnail_width": 140,
+    "title": "You've reached the current usage cap for GPT-4. You can continue with the default model now, or try again later. Learn more. Do I need to pay?",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 1,
+    "upvote_ratio": 1,
+    "url": "https://i.redd.it/0fjbi4lrnptc1.jpeg",
+    "url_overridden_by_dest": "https://i.redd.it/0fjbi4lrnptc1.jpeg",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

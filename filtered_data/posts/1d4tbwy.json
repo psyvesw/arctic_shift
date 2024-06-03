@@ -1,0 +1,205 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1717284472
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "dan_named",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_un7hlt7l",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1717154864,
+    "created_utc": 1717154864,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1d4tbwy",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#0079d3",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Educational Purpose Only "
+        }
+    ],
+    "link_flair_template_id": "26e7b998-7bbc-11ed-ba93-22ce55064b6a",
+    "link_flair_text": "Educational Purpose Only ",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "f2hiyf2ewq3d1": {
+            "e": "Image",
+            "id": "f2hiyf2ewq3d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/f2hiyf2ewq3d1.png?width=108&crop=smart&auto=webp&s=15e37d71b1e0636e30325f3515cbfd7ef16690df",
+                    "x": 108,
+                    "y": 54
+                },
+                {
+                    "u": "https://preview.redd.it/f2hiyf2ewq3d1.png?width=216&crop=smart&auto=webp&s=2259a7c3809f24c5ef7d1dd43aa2a54972eea71d",
+                    "x": 216,
+                    "y": 108
+                },
+                {
+                    "u": "https://preview.redd.it/f2hiyf2ewq3d1.png?width=320&crop=smart&auto=webp&s=8df9dc4d52b704a72fe27b4fa24e764e8e02bd65",
+                    "x": 320,
+                    "y": 160
+                },
+                {
+                    "u": "https://preview.redd.it/f2hiyf2ewq3d1.png?width=640&crop=smart&auto=webp&s=60b1e40753bbe20633135ed5b69c259e2e1160c5",
+                    "x": 640,
+                    "y": 321
+                },
+                {
+                    "u": "https://preview.redd.it/f2hiyf2ewq3d1.png?width=960&crop=smart&auto=webp&s=264f7fae31892be8e2319ad9574ce50cdc477eae",
+                    "x": 960,
+                    "y": 482
+                },
+                {
+                    "u": "https://preview.redd.it/f2hiyf2ewq3d1.png?width=1080&crop=smart&auto=webp&s=8e3a30565c9cfc56d19e4c0587e247dde9b10a2b",
+                    "x": 1080,
+                    "y": 542
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/f2hiyf2ewq3d1.png?width=1910&format=png&auto=webp&s=7ad836a3751184237ba2d1d7a6760a45f92a51a1",
+                "x": 1910,
+                "y": 959
+            },
+            "status": "valid"
+        },
+        "jlyd3tniwq3d1": {
+            "e": "Image",
+            "id": "jlyd3tniwq3d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/jlyd3tniwq3d1.png?width=108&crop=smart&auto=webp&s=a322899563d4129c01760558f644ae1743a5fc38",
+                    "x": 108,
+                    "y": 60
+                },
+                {
+                    "u": "https://preview.redd.it/jlyd3tniwq3d1.png?width=216&crop=smart&auto=webp&s=d7211c63e0c57ef2cb34da4a14f064c5121ab44a",
+                    "x": 216,
+                    "y": 120
+                },
+                {
+                    "u": "https://preview.redd.it/jlyd3tniwq3d1.png?width=320&crop=smart&auto=webp&s=82ab9472c35712d9f82b7facfde69edb26beacb8",
+                    "x": 320,
+                    "y": 178
+                },
+                {
+                    "u": "https://preview.redd.it/jlyd3tniwq3d1.png?width=640&crop=smart&auto=webp&s=5ede28ade6b7e249809ca0bcafbcc3e029a2d9c1",
+                    "x": 640,
+                    "y": 356
+                },
+                {
+                    "u": "https://preview.redd.it/jlyd3tniwq3d1.png?width=960&crop=smart&auto=webp&s=c714fa97e38bf0c58559de5ab510a0a92f46c48f",
+                    "x": 960,
+                    "y": 535
+                },
+                {
+                    "u": "https://preview.redd.it/jlyd3tniwq3d1.png?width=1080&crop=smart&auto=webp&s=023fd28626828549c4634fb4c5bc1f5a7966eec8",
+                    "x": 1080,
+                    "y": 602
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/jlyd3tniwq3d1.png?width=3584&format=png&auto=webp&s=a9df5a74a6849392618919559c0e56e6614f5ff0",
+                "x": 3584,
+                "y": 1998
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1d4tbwy",
+    "no_follow": true,
+    "num_comments": 9,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1d4tbwy/how_i_created_support_ai_chatbot_based_on_chatgpt/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1717154881,
+    "saved": false,
+    "score": 6,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "**Hey**\u00a0[r/ChatGPT](https://www.reddit.com/r/ChatGPT/)\u00a0**community!**\n\nRecently I've created my own Support AI chatbot in less than 15 minutes, and paid almost nothing in comparison with what Support AI chat generators market provides!\n\nhttps://preview.redd.it/jlyd3tniwq3d1.png?width=3584&format=png&auto=webp&s=a9df5a74a6849392618919559c0e56e6614f5ff0\n\nBy the way I\u2019m Daniel and from time to time I build automations for myself and clients. Let\u2019s go to explore AI Chatbots for your website;)\n\n**Lemme figure it out. What should a chatbot be like in 2024?**\n\n1. The first and most important thing. It should be based on AI.\n2. Next, it must be connected to the database of your product.\n3. Finally, the database must be constantly updated so that the bot can work smoothly.\n\nWhy? 24/7 working support ai-assistant provides constant and quick support to clients, which is difficult to make with staff.\n\nHis ability to learn from the company data that you provide to him, and using this knowledge, allows him to give complete answers based on the specific features of your company.\n\nAs a result, your company's efficiency increases, unnecessary workload on staff is reduced and costs are reduced.\n\n# Creating support AI chatbot for website: pros & cons (my tips)\n\nHaving an AI bot as a first line of support obviously is a coin with 2 sides. Let\u2019s go through all the factors first.\n\n# Support AI chatbot pros:\n\n* Website chatbot doesn\u2019t require people human resources\n* This AI bot can deal with most customer questions\n* Chatbot for websites are easily customizable\n\n# Support website chatbot cons:\n\n* Complex issues still require people to be involved\n* Customers don\u2019t really like speaking to AI bot instead of real people\n\n**My custom solution for $1,19 per 100 resolution**\n\n# Latenode + Chatwoot + ChatGPT\n\nhttps://preview.redd.it/f2hiyf2ewq3d1.png?width=1910&format=png&auto=webp&s=7ad836a3751184237ba2d1d7a6760a45f92a51a1\n\nLadies and gentlemen, please welcome!\n\nHere\u2019s my custom solution that we\u2019d like to share with you. What you see on this picture is an automation scenario on Latenode platform  \n\n**But what about the price? Let's count together.**\n\nGenerating 100 recipes uses about 150 GPT input tokens and 250 output tokens, and each run of this automated workflow costs just 1 execution credit on latenode.com.\n\nHere's the formula: (GPT input tokens \\* Price Per Input Token + GPT output tokens \\* Price Per Output Token + Latenode Credits to execute your automation) \\* 100\n\nSo, (150 \\* $0.00001 + 250 \\* $0.00003 + $0.0019) \\* 100 =\u00a0**$1.19**\n\n**Just follow the step-by-step instructions to set it up in 15 minutes.**\n\nTo run this scenario, you\u2019 also need to have:\n\n* Chatwoot account (which is free)\n* OpenAI account with ability to create AI assistants\n\n# Leave \"+\" under this post and I'll send you  the template, you don't need to do anything- just copy it and follow the step-by-step instruction.   \n\nYou\u2019re welcome to try it out yourself! If you\u2019ll face any troubles during creating this workflow, leave your message in the comments to this post.I\u2019ll be glad to ask your questions!\n\nThat\u2019s it! See you soon and happy automating!\ud83c\udfcc",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5708582,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/GKju2WrGSux2_OPVt_Vm0yhW0MCC45gL_xxzeOU40eM.jpg",
+    "thumbnail_height": 78,
+    "thumbnail_width": 140,
+    "title": " How I Created Support AI Chatbot based on ChatGPT in less than 15 mins almost for free",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 6,
+    "upvote_ratio": 0.6700000166893005,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1d4tbwy/how_i_created_support_ai_chatbot_based_on_chatgpt/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

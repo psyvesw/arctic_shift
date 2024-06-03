@@ -1,0 +1,215 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1713738827
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "GraceToSentience",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_xbpkdv496",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1713609215,
+    "created_utc": 1713609215,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1c8mtqs",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#dadada",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Use cases "
+        }
+    ],
+    "link_flair_template_id": "c9233c3a-b336-11ed-b456-fab66c9d9d9e",
+    "link_flair_text": "Use cases ",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "cn21rujwulvc1": {
+            "dashUrl": "https://v.redd.it/link/1c8mtqs/asset/cn21rujwulvc1/DASHPlaylist.mpd?a=1716201228%2CZjBlZTdmMDM5N2MwMzNkNjgyMWNlODE3YzU0ZDZhNDUzYTRjOWQyOTU1ZDI2NDgxM2ZmNjQyN2YxNzc2NGNkMA%3D%3D&v=1&f=sd",
+            "e": "RedditVideo",
+            "hlsUrl": "https://v.redd.it/link/1c8mtqs/asset/cn21rujwulvc1/HLSPlaylist.m3u8?a=1716201228%2CNjE2NDhlM2YwYTI2MzI4NjM0ZDQ5YzU0MWFmNTg0NjY3MzllZjdhNjc2OWE4Mjk2ODNiYzg0Y2ZhMzhkZDJkZA%3D%3D&v=1&f=sd",
+            "id": "cn21rujwulvc1",
+            "isGif": false,
+            "status": "valid",
+            "x": 480,
+            "y": 540
+        },
+        "q1fdeuu02mvc1": {
+            "e": "Image",
+            "id": "q1fdeuu02mvc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/q1fdeuu02mvc1.png?width=108&crop=smart&auto=webp&s=b8763aaaeea16fc497a504a01f3d0863138f781d",
+                    "x": 108,
+                    "y": 91
+                },
+                {
+                    "u": "https://preview.redd.it/q1fdeuu02mvc1.png?width=216&crop=smart&auto=webp&s=31082d0a8538fb4c2acede562b85eb0978b98f3f",
+                    "x": 216,
+                    "y": 183
+                },
+                {
+                    "u": "https://preview.redd.it/q1fdeuu02mvc1.png?width=320&crop=smart&auto=webp&s=25e397292593e8ec3cc8c638a4948af6f1b8fe9e",
+                    "x": 320,
+                    "y": 271
+                },
+                {
+                    "u": "https://preview.redd.it/q1fdeuu02mvc1.png?width=640&crop=smart&auto=webp&s=ac4935c4e50c5569cdd1079c010cd31ad54970d8",
+                    "x": 640,
+                    "y": 542
+                },
+                {
+                    "u": "https://preview.redd.it/q1fdeuu02mvc1.png?width=960&crop=smart&auto=webp&s=7234dd1b6ddab61696701e1066569a685bfe2f41",
+                    "x": 960,
+                    "y": 813
+                },
+                {
+                    "u": "https://preview.redd.it/q1fdeuu02mvc1.png?width=1080&crop=smart&auto=webp&s=5c7a3014abd9be86e34ae6ce970fe3bf07500dcb",
+                    "x": 1080,
+                    "y": 915
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/q1fdeuu02mvc1.png?width=2147&format=png&auto=webp&s=1d75636c5f8b3e689757efb51ae020bb2208f08a",
+                "x": 2147,
+                "y": 1820
+            },
+            "status": "valid"
+        },
+        "uq29qeoavlvc1": {
+            "e": "Image",
+            "id": "uq29qeoavlvc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/uq29qeoavlvc1.png?width=108&crop=smart&auto=webp&s=d8c8842b24aa209bb45592ba6fe33cd4b98d66ba",
+                    "x": 108,
+                    "y": 121
+                },
+                {
+                    "u": "https://preview.redd.it/uq29qeoavlvc1.png?width=216&crop=smart&auto=webp&s=ef2af21ea6f2f5f9f19ed84ced61177aacb21c2c",
+                    "x": 216,
+                    "y": 243
+                },
+                {
+                    "u": "https://preview.redd.it/uq29qeoavlvc1.png?width=320&crop=smart&auto=webp&s=065b4a4b10743c8241b08506822e08f36afc4bf0",
+                    "x": 320,
+                    "y": 361
+                },
+                {
+                    "u": "https://preview.redd.it/uq29qeoavlvc1.png?width=640&crop=smart&auto=webp&s=d84f9687dc9c686ea233adad0ac9e3ec7c22ad4a",
+                    "x": 640,
+                    "y": 722
+                },
+                {
+                    "u": "https://preview.redd.it/uq29qeoavlvc1.png?width=960&crop=smart&auto=webp&s=8858ce8e676c5a3199034d02800f517c642f526c",
+                    "x": 960,
+                    "y": 1084
+                },
+                {
+                    "u": "https://preview.redd.it/uq29qeoavlvc1.png?width=1080&crop=smart&auto=webp&s=57e4639791fe6d754fa502d6dea83fc4678fca19",
+                    "x": 1080,
+                    "y": 1219
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/uq29qeoavlvc1.png?width=1700&format=png&auto=webp&s=48a24bc85e44b3f2cd59793dc25a8f48a090f68f",
+                "x": 1700,
+                "y": 1920
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1c8mtqs",
+    "no_follow": true,
+    "num_comments": 10,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1c8mtqs/does_microsoft_even_realise_what_they_have_with/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1713609229,
+    "saved": false,
+    "score": 0,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "VASA-1 can make things like chatGPT 10x more engaging, people will get completely addicted to chatGPT, hear me out: \n\n# Compute\n\nThis speech2vid model can run in real time on a 4090 which is nothing for MS and openAI.\n\nThat kind of compute is actually small compared to products already released for free by Microsoft like GPT-4 or GPT-3.5 that definitely can't run, not just real time but at all on a 4090.\n\n# Latency \n\nIt can run in real time and you can make adjustments on the fly as seen on the last video from their research page: [https://www.microsoft.com/en-us/research/project/vasa-1/](https://www.microsoft.com/en-us/research/project/vasa-1/)  \nTherefore the additional latency added to a feature like \" voice\" in chatGPT's would be nothing.\n\n# Conclusion\n\n1-Compute is comparatively very low  \n2-Latency is negligible  \n3-This is but the V1.0 of a research model and yet already usable, therefore lots of room to vastly improve efficiency soon.  \n\n\nSo, many people (me the first) would definitely pay for an AI that talks and have faces like these below, it would be a huge success, huge!!!\n\nhttps://reddit.com/link/1c8mtqs/video/cn21rujwulvc1/player\n\nhttps://preview.redd.it/uq29qeoavlvc1.png?width=1700&format=png&auto=webp&s=48a24bc85e44b3f2cd59793dc25a8f48a090f68f\n\n  \nLet me flex real quick by saying that I really think it's a good idea and I am usually not wrong about these kind of things.   \nI said this about openAI releasing a chatbot more than 1 year before chatGPT was released and boy did I feel vindicated with the wild success of chatGPT and characterAI when they released:\n\nhttps://preview.redd.it/q1fdeuu02mvc1.png?width=2147&format=png&auto=webp&s=1d75636c5f8b3e689757efb51ae020bb2208f08a\n\n  \n  \n  \n",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5148446,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "self",
+    "thumbnail_height": null,
+    "thumbnail_width": null,
+    "title": "Does Microsoft even realise what they have with VASA-1 the speech to video AI? The potential for chatGPT is not only mad but doable today!",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 0,
+    "upvote_ratio": 0.44999998807907104,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1c8mtqs/does_microsoft_even_realise_what_they_have_with/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

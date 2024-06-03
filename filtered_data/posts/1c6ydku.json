@@ -1,0 +1,293 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1713559125
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "caution_wet_paint",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_wu3bo",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1713429518,
+    "created_utc": 1713429518,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "reddit.com",
+    "downs": 0,
+    "edited": false,
+    "gallery_data": {
+        "items": [
+            {
+                "id": 439606358,
+                "media_id": "zpjoj7nn97vc1"
+            },
+            {
+                "id": 439606359,
+                "media_id": "7vci58nn97vc1"
+            },
+            {
+                "id": 439606360,
+                "media_id": "jzlwy6nn97vc1"
+            },
+            {
+                "id": 439606361,
+                "media_id": "6rv838nn97vc1"
+            }
+        ]
+    },
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1c6ydku",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_gallery": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#0079d3",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Educational Purpose Only "
+        }
+    ],
+    "link_flair_template_id": "26e7b998-7bbc-11ed-ba93-22ce55064b6a",
+    "link_flair_text": "Educational Purpose Only ",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "6rv838nn97vc1": {
+            "e": "Image",
+            "id": "6rv838nn97vc1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/6rv838nn97vc1.jpg?width=108&crop=smart&auto=webp&s=7cfa08292cfd6b4c9f2e233d76bdeb5bc5cde648",
+                    "x": 108,
+                    "y": 108
+                },
+                {
+                    "u": "https://preview.redd.it/6rv838nn97vc1.jpg?width=216&crop=smart&auto=webp&s=1076d10cdf4bcbfc64982cf26bab6725e2a7689f",
+                    "x": 216,
+                    "y": 216
+                },
+                {
+                    "u": "https://preview.redd.it/6rv838nn97vc1.jpg?width=320&crop=smart&auto=webp&s=43c533530a94b5c8a98afa38e3210e0c31986f0b",
+                    "x": 320,
+                    "y": 320
+                },
+                {
+                    "u": "https://preview.redd.it/6rv838nn97vc1.jpg?width=640&crop=smart&auto=webp&s=5a4eb02dc6b4d0ec4f5ce65e159e36c8822704ab",
+                    "x": 640,
+                    "y": 640
+                },
+                {
+                    "u": "https://preview.redd.it/6rv838nn97vc1.jpg?width=960&crop=smart&auto=webp&s=e593d121c0eb3879266fefab70f11561ca2e34d4",
+                    "x": 960,
+                    "y": 960
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/6rv838nn97vc1.jpg?width=1024&format=pjpg&auto=webp&s=0699e166ed4c7816e37b7330814c35fc766f3e5b",
+                "x": 1024,
+                "y": 1024
+            },
+            "status": "valid"
+        },
+        "7vci58nn97vc1": {
+            "e": "Image",
+            "id": "7vci58nn97vc1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/7vci58nn97vc1.jpg?width=108&crop=smart&auto=webp&s=2c84c5745731794af4a6f0668a13db565783adb6",
+                    "x": 108,
+                    "y": 108
+                },
+                {
+                    "u": "https://preview.redd.it/7vci58nn97vc1.jpg?width=216&crop=smart&auto=webp&s=0e4df6473cf53051c2a1d26efabaae515a231fa9",
+                    "x": 216,
+                    "y": 216
+                },
+                {
+                    "u": "https://preview.redd.it/7vci58nn97vc1.jpg?width=320&crop=smart&auto=webp&s=ca446935a7ab404b17c8fa22e8f97d329b530416",
+                    "x": 320,
+                    "y": 320
+                },
+                {
+                    "u": "https://preview.redd.it/7vci58nn97vc1.jpg?width=640&crop=smart&auto=webp&s=d10b054e1f056e11a0073d588129a5fe0078b75a",
+                    "x": 640,
+                    "y": 640
+                },
+                {
+                    "u": "https://preview.redd.it/7vci58nn97vc1.jpg?width=960&crop=smart&auto=webp&s=750908af113a7f3993af1d19248b6b8c18a5fe7b",
+                    "x": 960,
+                    "y": 960
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/7vci58nn97vc1.jpg?width=1024&format=pjpg&auto=webp&s=aee789d0263e3f4db71bcfa0e0bf679980dcccb6",
+                "x": 1024,
+                "y": 1024
+            },
+            "status": "valid"
+        },
+        "jzlwy6nn97vc1": {
+            "e": "Image",
+            "id": "jzlwy6nn97vc1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/jzlwy6nn97vc1.jpg?width=108&crop=smart&auto=webp&s=381e33dad3531e47a2a72dda10a8d1b1b01a0b37",
+                    "x": 108,
+                    "y": 108
+                },
+                {
+                    "u": "https://preview.redd.it/jzlwy6nn97vc1.jpg?width=216&crop=smart&auto=webp&s=3ed824132be612dcd3b46f884373edf98faef85d",
+                    "x": 216,
+                    "y": 216
+                },
+                {
+                    "u": "https://preview.redd.it/jzlwy6nn97vc1.jpg?width=320&crop=smart&auto=webp&s=2a1e265bff91670f1c754e70c75a489d30a11475",
+                    "x": 320,
+                    "y": 320
+                },
+                {
+                    "u": "https://preview.redd.it/jzlwy6nn97vc1.jpg?width=640&crop=smart&auto=webp&s=cff5c51c8b766cba9b94cf83ace3eb8344ff2672",
+                    "x": 640,
+                    "y": 640
+                },
+                {
+                    "u": "https://preview.redd.it/jzlwy6nn97vc1.jpg?width=960&crop=smart&auto=webp&s=4fb46ed89e6303d0a8db286d0fd8646ebc94703b",
+                    "x": 960,
+                    "y": 960
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/jzlwy6nn97vc1.jpg?width=1024&format=pjpg&auto=webp&s=3a097b5e5af7e6088a9a044354cb3c6cf0eb960d",
+                "x": 1024,
+                "y": 1024
+            },
+            "status": "valid"
+        },
+        "zpjoj7nn97vc1": {
+            "e": "Image",
+            "id": "zpjoj7nn97vc1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/zpjoj7nn97vc1.jpg?width=108&crop=smart&auto=webp&s=1a63fca9ed8c997e25c5ac4bd12d9344f96b0c3b",
+                    "x": 108,
+                    "y": 108
+                },
+                {
+                    "u": "https://preview.redd.it/zpjoj7nn97vc1.jpg?width=216&crop=smart&auto=webp&s=def796bd5561295bb1e8d3dc020855cddb6ebc6e",
+                    "x": 216,
+                    "y": 216
+                },
+                {
+                    "u": "https://preview.redd.it/zpjoj7nn97vc1.jpg?width=320&crop=smart&auto=webp&s=e2218455f960192da7a9c77a803a56a180ed1dd9",
+                    "x": 320,
+                    "y": 320
+                },
+                {
+                    "u": "https://preview.redd.it/zpjoj7nn97vc1.jpg?width=640&crop=smart&auto=webp&s=9a374054fd00c663761de2e1bc939a1f793fc4cd",
+                    "x": 640,
+                    "y": 640
+                },
+                {
+                    "u": "https://preview.redd.it/zpjoj7nn97vc1.jpg?width=960&crop=smart&auto=webp&s=72d4bd46a2df2a8ec1efdb82cc4e5cba9e1c2a51",
+                    "x": 960,
+                    "y": 960
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/zpjoj7nn97vc1.jpg?width=1024&format=pjpg&auto=webp&s=800eb0fc57c636291c249de1b85c50d3ad46ceb8",
+                "x": 1024,
+                "y": 1024
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1c6ydku",
+    "no_follow": true,
+    "num_comments": 155,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1c6ydku/my_local_restaurant_is_now_posting_reviews_with/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1713429532,
+    "saved": false,
+    "score": 2556,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "In a disturbing new development, whilst browsing local restaurants I came across \u2018reviews\u2019 combined with AI photos, all giving 5 stars of course. These photos almost fooled me for a while so would easily get past a casual scroller. Is this a worrying sign and how do we even combat this?",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5120433,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/kezE0GeF_dKOLXMkMIUUE3SNh-2Gf1KCjwWnQoBGYms.jpg",
+    "thumbnail_height": 140,
+    "thumbnail_width": 140,
+    "title": "My local restaurant is now posting reviews with very realistic AI photos",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 2556,
+    "upvote_ratio": 0.9700000286102295,
+    "url": "https://www.reddit.com/gallery/1c6ydku",
+    "url_overridden_by_dest": "https://www.reddit.com/gallery/1c6ydku",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

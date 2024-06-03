@@ -1,0 +1,170 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1713931096
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "Rare_Adhesiveness518",
+    "author_flair_background_color": "",
+    "author_flair_css_class": null,
+    "author_flair_richtext": [
+        {
+            "a": ":Discord:",
+            "e": "emoji",
+            "u": "https://emoji.redditmedia.com/0zlhaela6zub1_t5_7hqomg/Discord"
+        }
+    ],
+    "author_flair_template_id": null,
+    "author_flair_text": ":Discord:",
+    "author_flair_text_color": "dark",
+    "author_flair_type": "richtext",
+    "author_fullname": "t2_xvwpuyudd",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1713801490,
+    "created_utc": 1713801490,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1caefs3",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#ddbd37",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "News \ud83d\udcf0"
+        }
+    ],
+    "link_flair_template_id": "1c39d510-f1ac-11ed-8167-5e7479c0f87c",
+    "link_flair_text": "News \ud83d\udcf0",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1caefs3",
+    "no_follow": true,
+    "num_comments": 20,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1caefs3/gpt4_can_exploit_real_vulnerabilities_by_reading/",
+    "pinned": false,
+    "post_hint": "self",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "uN48p1065wFo9PNpsLcdB7q---a48_BN4_aDqHZDMIk",
+                "resolutions": [
+                    {
+                        "height": 60,
+                        "url": "https://external-preview.redd.it/ahq23RZro3O98HBBvWBpKLh1NRm_A3lKzylBXcpCMio.jpg?width=108&crop=smart&auto=webp&s=356621a185dad6193d3f98aa1cc7a8e12bb0e3ad",
+                        "width": 108
+                    },
+                    {
+                        "height": 121,
+                        "url": "https://external-preview.redd.it/ahq23RZro3O98HBBvWBpKLh1NRm_A3lKzylBXcpCMio.jpg?width=216&crop=smart&auto=webp&s=fa8f5172f7700551dd4af23e722bf0888b3d2b52",
+                        "width": 216
+                    },
+                    {
+                        "height": 180,
+                        "url": "https://external-preview.redd.it/ahq23RZro3O98HBBvWBpKLh1NRm_A3lKzylBXcpCMio.jpg?width=320&crop=smart&auto=webp&s=7f97a875318ee2bd0a572cce70c9c29913413d3b",
+                        "width": 320
+                    },
+                    {
+                        "height": 360,
+                        "url": "https://external-preview.redd.it/ahq23RZro3O98HBBvWBpKLh1NRm_A3lKzylBXcpCMio.jpg?width=640&crop=smart&auto=webp&s=d781f11a0adcfaa6adf91a9d9df4cbc8cd4c6a41",
+                        "width": 640
+                    },
+                    {
+                        "height": 540,
+                        "url": "https://external-preview.redd.it/ahq23RZro3O98HBBvWBpKLh1NRm_A3lKzylBXcpCMio.jpg?width=960&crop=smart&auto=webp&s=b03a6c84009063a0d3f75a736bda347c291cd547",
+                        "width": 960
+                    },
+                    {
+                        "height": 607,
+                        "url": "https://external-preview.redd.it/ahq23RZro3O98HBBvWBpKLh1NRm_A3lKzylBXcpCMio.jpg?width=1080&crop=smart&auto=webp&s=3431ca6a4c20867f42ab6c68d5f38fd486eedd08",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 700,
+                    "url": "https://external-preview.redd.it/ahq23RZro3O98HBBvWBpKLh1NRm_A3lKzylBXcpCMio.jpg?auto=webp&s=1a503666caabdee0f629f42c68e1d782df215c01",
+                    "width": 1244
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1713801505,
+    "saved": false,
+    "score": 275,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "In a newly released\u00a0paper, University of Illinois Urbana-Champaign (UIUC) computer scientists report that OpenAI's GPT-4 large language model (LLM) can\u00a0[autonomously exploit vulnerabilities in real-world systems](https://www.theregister.com/2024/04/17/gpt4_can_exploit_real_vulnerabilities/)\u00a0if given a CVE advisory describing the flaw.\n\nIf you want to stay ahead of the curve in AI and tech,\u00a0[take a look here](https://smmry.tech/?utm_source=reddit).\n\n**Key findings:**\n\n* OpenAI's GPT-4 can exploit real-world security vulnerabilities by reading security advisories (CVE descriptions). It achieved an 87% success rate on a set of 15 vulnerabilities.\n* GPT-4 is significantly more successful than other large language models (LLMs) and open-source vulnerability scanners tested in the research.\n* Researchers are concerned that future, even more capable LLMs could make exploiting vulnerabilities much easier.\n* Limiting public availability of security information is not seen as a viable defense because proactive measures like applying security patches are more important.\n\n[Source (The Register)](https://www.theregister.com/2024/04/17/gpt4_can_exploit_real_vulnerabilities/)\n\nLink to the paper\u00a0[here](https://arxiv.org/abs/2404.08144).\n\n**PS: If you enjoyed this post**, you\u2019ll love my\u00a0[ML-powered newsletter](https://smmry.tech/?utm_source=reddit)\u00a0that summarizes the best AI/tech news from 50+ media sources. It\u2019s already being read by\u00a0**hundreds of professionals**\u00a0from\u00a0**OpenAI, HuggingFace, Apple**\u2026",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5176282,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "self",
+    "thumbnail_height": null,
+    "thumbnail_width": null,
+    "title": "GPT-4 can exploit real vulnerabilities by reading security advisories",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 275,
+    "upvote_ratio": 0.9599999785423279,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1caefs3/gpt4_can_exploit_real_vulnerabilities_by_reading/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

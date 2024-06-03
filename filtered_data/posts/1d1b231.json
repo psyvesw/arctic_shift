@@ -1,0 +1,291 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1716886769
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "420XXXRAMPAGE",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_17d3e6",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1716757160,
+    "created_utc": 1716757160,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1d1b231",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#dadada",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Use cases "
+        }
+    ],
+    "link_flair_template_id": "c9233c3a-b336-11ed-b456-fab66c9d9d9e",
+    "link_flair_text": "Use cases ",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "8sog2qu94u2d1": {
+            "e": "Image",
+            "id": "8sog2qu94u2d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/8sog2qu94u2d1.png?width=108&crop=smart&auto=webp&s=7d90d56a43cc22011d35cd4cf00f0ccbb8af4ed3",
+                    "x": 108,
+                    "y": 110
+                },
+                {
+                    "u": "https://preview.redd.it/8sog2qu94u2d1.png?width=216&crop=smart&auto=webp&s=f604b50de61b8aa470bdfd9c27fcd3c1f3272f31",
+                    "x": 216,
+                    "y": 221
+                },
+                {
+                    "u": "https://preview.redd.it/8sog2qu94u2d1.png?width=320&crop=smart&auto=webp&s=857a89ea0c65425d43d876410a2bc1d077bef48d",
+                    "x": 320,
+                    "y": 328
+                },
+                {
+                    "u": "https://preview.redd.it/8sog2qu94u2d1.png?width=640&crop=smart&auto=webp&s=cab4ecc749cf53889450401d2c2e83315686bb64",
+                    "x": 640,
+                    "y": 657
+                },
+                {
+                    "u": "https://preview.redd.it/8sog2qu94u2d1.png?width=960&crop=smart&auto=webp&s=37a0bc981eee3c76e71520e5719fc714291d175d",
+                    "x": 960,
+                    "y": 986
+                },
+                {
+                    "u": "https://preview.redd.it/8sog2qu94u2d1.png?width=1080&crop=smart&auto=webp&s=2c8e6c3e2e30845ba25961f0065f5881ba9ff4a8",
+                    "x": 1080,
+                    "y": 1109
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/8sog2qu94u2d1.png?width=1154&format=png&auto=webp&s=c5b74de9a1c4640ec21da0125ae83f88a2cdadbd",
+                "x": 1154,
+                "y": 1186
+            },
+            "status": "valid"
+        },
+        "9w3mtqu94u2d1": {
+            "e": "Image",
+            "id": "9w3mtqu94u2d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/9w3mtqu94u2d1.png?width=108&crop=smart&auto=webp&s=48b03e1d7e26854e65488de94c417bb08c8922fb",
+                    "x": 108,
+                    "y": 72
+                },
+                {
+                    "u": "https://preview.redd.it/9w3mtqu94u2d1.png?width=216&crop=smart&auto=webp&s=bc301a4126267cecd92b92e4b691d998bec16f52",
+                    "x": 216,
+                    "y": 145
+                },
+                {
+                    "u": "https://preview.redd.it/9w3mtqu94u2d1.png?width=320&crop=smart&auto=webp&s=b4cde4a359739123ecb34e6bf948f87d568b62a7",
+                    "x": 320,
+                    "y": 215
+                },
+                {
+                    "u": "https://preview.redd.it/9w3mtqu94u2d1.png?width=640&crop=smart&auto=webp&s=abec52e3dab7c1e5c1635dd66e4bfe24de1e92d0",
+                    "x": 640,
+                    "y": 430
+                },
+                {
+                    "u": "https://preview.redd.it/9w3mtqu94u2d1.png?width=960&crop=smart&auto=webp&s=c748e90e7fe07502b33ccb9d7d7b8bea1f927cc3",
+                    "x": 960,
+                    "y": 645
+                },
+                {
+                    "u": "https://preview.redd.it/9w3mtqu94u2d1.png?width=1080&crop=smart&auto=webp&s=dc91eec44e92f3740c10ab7e6c4c7c74790d8964",
+                    "x": 1080,
+                    "y": 726
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/9w3mtqu94u2d1.png?width=1082&format=png&auto=webp&s=067b089b3eb7508a18a8cc34338b95856b947f55",
+                "x": 1082,
+                "y": 728
+            },
+            "status": "valid"
+        },
+        "m9glbqu94u2d1": {
+            "e": "Image",
+            "id": "m9glbqu94u2d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/m9glbqu94u2d1.png?width=108&crop=smart&auto=webp&s=2e0b4263635a9a578e536df406a6133a81798f92",
+                    "x": 108,
+                    "y": 78
+                },
+                {
+                    "u": "https://preview.redd.it/m9glbqu94u2d1.png?width=216&crop=smart&auto=webp&s=3660591b4c71e539f0dbf2e54f00749dc7bebe41",
+                    "x": 216,
+                    "y": 156
+                },
+                {
+                    "u": "https://preview.redd.it/m9glbqu94u2d1.png?width=320&crop=smart&auto=webp&s=43320320d87d627eca16e89fd456d0b3de8f8944",
+                    "x": 320,
+                    "y": 231
+                },
+                {
+                    "u": "https://preview.redd.it/m9glbqu94u2d1.png?width=640&crop=smart&auto=webp&s=b1c76a615746a24e66a91c7d6446d3d9620e9a48",
+                    "x": 640,
+                    "y": 463
+                },
+                {
+                    "u": "https://preview.redd.it/m9glbqu94u2d1.png?width=960&crop=smart&auto=webp&s=2381c2b16be9965f30c5193711cd336e04255a3f",
+                    "x": 960,
+                    "y": 694
+                },
+                {
+                    "u": "https://preview.redd.it/m9glbqu94u2d1.png?width=1080&crop=smart&auto=webp&s=3743efb87eea0d13ec5d3bc1f575abb2ad2196d8",
+                    "x": 1080,
+                    "y": 781
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/m9glbqu94u2d1.png?width=1166&format=png&auto=webp&s=e7f76f69152ac6a969ffdb6d80c4e20bc3a53a37",
+                "x": 1166,
+                "y": 844
+            },
+            "status": "valid"
+        },
+        "zqir70v94u2d1": {
+            "e": "Image",
+            "id": "zqir70v94u2d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/zqir70v94u2d1.png?width=108&crop=smart&auto=webp&s=d9f53ab3eeba5a271188ddeb282bb066db3bc20c",
+                    "x": 108,
+                    "y": 74
+                },
+                {
+                    "u": "https://preview.redd.it/zqir70v94u2d1.png?width=216&crop=smart&auto=webp&s=fddbebc74659be9bf6626c9d02f13e0764655170",
+                    "x": 216,
+                    "y": 148
+                },
+                {
+                    "u": "https://preview.redd.it/zqir70v94u2d1.png?width=320&crop=smart&auto=webp&s=313144429f23bd7e6f5d36ead1086f157994f8f8",
+                    "x": 320,
+                    "y": 219
+                },
+                {
+                    "u": "https://preview.redd.it/zqir70v94u2d1.png?width=640&crop=smart&auto=webp&s=6f0724e40cb89772773b47573b0653a0997b5f07",
+                    "x": 640,
+                    "y": 439
+                },
+                {
+                    "u": "https://preview.redd.it/zqir70v94u2d1.png?width=960&crop=smart&auto=webp&s=9355cce1ead57901d9ff3f827f8021db5705c611",
+                    "x": 960,
+                    "y": 658
+                },
+                {
+                    "u": "https://preview.redd.it/zqir70v94u2d1.png?width=1080&crop=smart&auto=webp&s=6fefd5ab1bf50524b5cc93d9d390fe090abde0e1",
+                    "x": 1080,
+                    "y": 741
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/zqir70v94u2d1.png?width=1804&format=png&auto=webp&s=5519e9928df777b0adaa60628ab4cf9f4c47d12e",
+                "x": 1804,
+                "y": 1238
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1d1b231",
+    "no_follow": false,
+    "num_comments": 5,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1d1b231/does_chatgpt_send_duolingo_the_way_of_big_commerce/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1716757175,
+    "saved": false,
+    "score": 1,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "i had this stunning interaction with chatgpt this evening \u2014 using it to teach me dutch. it made me wonder if duolingo could compete with a product like this. the thing can generate an infinite quiz on the fly, no dev in sight, almost by accident.\n\nbig commerce, the predecessor to Shopify, was huge until mobile. they just couldn't make the jump.   \n  \ni wonder if companies like duolingo are going to be swept away in a similar way.\n\nhttps://preview.redd.it/8sog2qu94u2d1.png?width=1154&format=png&auto=webp&s=c5b74de9a1c4640ec21da0125ae83f88a2cdadbd\n\nhttps://preview.redd.it/zqir70v94u2d1.png?width=1804&format=png&auto=webp&s=5519e9928df777b0adaa60628ab4cf9f4c47d12e\n\nhttps://preview.redd.it/m9glbqu94u2d1.png?width=1166&format=png&auto=webp&s=e7f76f69152ac6a969ffdb6d80c4e20bc3a53a37\n\nhttps://preview.redd.it/9w3mtqu94u2d1.png?width=1082&format=png&auto=webp&s=067b089b3eb7508a18a8cc34338b95856b947f55\n\n",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5640773,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://a.thumbs.redditmedia.com/hxJYU-x3jeJ6l0SjY49ROKCQwc4N3j2Fy26pP88CuL4.jpg",
+    "thumbnail_height": 140,
+    "thumbnail_width": 140,
+    "title": "does chatgpt send duolingo the way of big commerce?",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 1,
+    "upvote_ratio": 0.6700000166893005,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1d1b231/does_chatgpt_send_duolingo_the_way_of_big_commerce/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

@@ -1,0 +1,219 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1713111904
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "BeckyLiBei",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_b56mm4ke",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1712982296,
+    "created_utc": 1712982296,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "reddit.com",
+    "downs": 0,
+    "edited": false,
+    "gallery_data": {
+        "items": [
+            {
+                "id": 436810547,
+                "media_id": "w974trb0b6uc1"
+            },
+            {
+                "id": 436810548,
+                "media_id": "hrd3sob0b6uc1"
+            }
+        ]
+    },
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1c2tctq",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_gallery": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#ffb000",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Gone Wild "
+        }
+    ],
+    "link_flair_template_id": "bd4e6832-7bbc-11ed-97cb-0e48625ac41d",
+    "link_flair_text": "Gone Wild ",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "hrd3sob0b6uc1": {
+            "e": "Image",
+            "id": "hrd3sob0b6uc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/hrd3sob0b6uc1.png?width=108&crop=smart&auto=webp&s=5add1e904763526cfde92bd55a9905ec9f2a17a3",
+                    "x": 108,
+                    "y": 50
+                },
+                {
+                    "u": "https://preview.redd.it/hrd3sob0b6uc1.png?width=216&crop=smart&auto=webp&s=3dff7e1ff24f9b05cd7b8af8bbfec7bd6cb0613a",
+                    "x": 216,
+                    "y": 100
+                },
+                {
+                    "u": "https://preview.redd.it/hrd3sob0b6uc1.png?width=320&crop=smart&auto=webp&s=fe5ae98c806dbd96e7404ec57d07a09e033a91e2",
+                    "x": 320,
+                    "y": 149
+                },
+                {
+                    "u": "https://preview.redd.it/hrd3sob0b6uc1.png?width=640&crop=smart&auto=webp&s=5c7afa10b3f4640e798dc10f1a307f9c575516a3",
+                    "x": 640,
+                    "y": 298
+                },
+                {
+                    "u": "https://preview.redd.it/hrd3sob0b6uc1.png?width=960&crop=smart&auto=webp&s=b0fa99179e8658832c56e17a1a09c746f02df580",
+                    "x": 960,
+                    "y": 447
+                },
+                {
+                    "u": "https://preview.redd.it/hrd3sob0b6uc1.png?width=1080&crop=smart&auto=webp&s=a984fd559bef706ff5cac2d30f68c5f55dcd0ef7",
+                    "x": 1080,
+                    "y": 503
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/hrd3sob0b6uc1.png?width=1118&format=png&auto=webp&s=59d42a8731ba17b57762b3b794bc6fc31b578615",
+                "x": 1118,
+                "y": 521
+            },
+            "status": "valid"
+        },
+        "w974trb0b6uc1": {
+            "e": "Image",
+            "id": "w974trb0b6uc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/w974trb0b6uc1.png?width=108&crop=smart&auto=webp&s=55b265a9b1eca5f0f59374b367995705f3ba80f2",
+                    "x": 108,
+                    "y": 61
+                },
+                {
+                    "u": "https://preview.redd.it/w974trb0b6uc1.png?width=216&crop=smart&auto=webp&s=2d381cd2836d54291dde512da806d04b1dffc186",
+                    "x": 216,
+                    "y": 123
+                },
+                {
+                    "u": "https://preview.redd.it/w974trb0b6uc1.png?width=320&crop=smart&auto=webp&s=1d0b35ffd54e23ec4e7b65eae83f8721e9ecac1d",
+                    "x": 320,
+                    "y": 183
+                },
+                {
+                    "u": "https://preview.redd.it/w974trb0b6uc1.png?width=640&crop=smart&auto=webp&s=8d3ceb934affd23a8c48dae78b0a13e9fec56451",
+                    "x": 640,
+                    "y": 366
+                },
+                {
+                    "u": "https://preview.redd.it/w974trb0b6uc1.png?width=960&crop=smart&auto=webp&s=66ee3c2026c8954b9165887d80bbef453164b3b2",
+                    "x": 960,
+                    "y": 550
+                },
+                {
+                    "u": "https://preview.redd.it/w974trb0b6uc1.png?width=1080&crop=smart&auto=webp&s=a5e00edeea3b5c1ab4287037804f19660f77ce92",
+                    "x": 1080,
+                    "y": 619
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/w974trb0b6uc1.png?width=1202&format=png&auto=webp&s=aae61cc427e938a2e0190aec6374e93c1e9c52a9",
+                "x": 1202,
+                "y": 689
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1c2tctq",
+    "no_follow": true,
+    "num_comments": 8,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1c2tctq/a_paper_about_chatgpt_being_plagiarized_probably/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1712982312,
+    "saved": false,
+    "score": 13,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5060308,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://a.thumbs.redditmedia.com/uaYbgKpZfmrkk3_2uGbe6nx3-6kXk_yxernXGYTwu94.jpg",
+    "thumbnail_height": 80,
+    "thumbnail_width": 140,
+    "title": "A paper about ChatGPT being plagiarized (probably) by ChatGPT: which one do you think is the original?",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 13,
+    "upvote_ratio": 0.8500000238418579,
+    "url": "https://www.reddit.com/gallery/1c2tctq",
+    "url_overridden_by_dest": "https://www.reddit.com/gallery/1c2tctq",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

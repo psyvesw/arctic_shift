@@ -1,0 +1,272 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1715751696
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "Scared-Sport172",
+    "author_flair_background_color": "",
+    "author_flair_css_class": null,
+    "author_flair_richtext": [
+        {
+            "a": ":Discord:",
+            "e": "emoji",
+            "u": "https://emoji.redditmedia.com/0zlhaela6zub1_t5_7hqomg/Discord"
+        }
+    ],
+    "author_flair_template_id": null,
+    "author_flair_text": ":Discord:",
+    "author_flair_text_color": "dark",
+    "author_flair_type": "richtext",
+    "author_fullname": "t2_c2fufp5w",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1715622072,
+    "created_utc": 1715622072,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "reddit.com",
+    "downs": 0,
+    "edited": false,
+    "gallery_data": {
+        "items": [
+            {
+                "id": 452996572,
+                "media_id": "qre7wh18d80d1"
+            },
+            {
+                "id": 452996573,
+                "media_id": "oeoeuoj8d80d1"
+            },
+            {
+                "id": 452996574,
+                "media_id": "hz7uw4v8d80d1"
+            }
+        ]
+    },
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1cr5cmn",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_gallery": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#0079d3",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Educational Purpose Only "
+        }
+    ],
+    "link_flair_template_id": "26e7b998-7bbc-11ed-ba93-22ce55064b6a",
+    "link_flair_text": "Educational Purpose Only ",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "hz7uw4v8d80d1": {
+            "e": "Image",
+            "id": "hz7uw4v8d80d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/hz7uw4v8d80d1.png?width=108&crop=smart&auto=webp&s=efcc6c149a715fbc049248a0794c990ceae64229",
+                    "x": 108,
+                    "y": 60
+                },
+                {
+                    "u": "https://preview.redd.it/hz7uw4v8d80d1.png?width=216&crop=smart&auto=webp&s=878c253f0fa9863593665d935bfe97ec2df6e7ae",
+                    "x": 216,
+                    "y": 121
+                },
+                {
+                    "u": "https://preview.redd.it/hz7uw4v8d80d1.png?width=320&crop=smart&auto=webp&s=14e3dd94986d72c9712679a0e959e6ae99e44257",
+                    "x": 320,
+                    "y": 180
+                },
+                {
+                    "u": "https://preview.redd.it/hz7uw4v8d80d1.png?width=640&crop=smart&auto=webp&s=38afca57176c256710f126529dc2a77c1ca167f2",
+                    "x": 640,
+                    "y": 360
+                },
+                {
+                    "u": "https://preview.redd.it/hz7uw4v8d80d1.png?width=960&crop=smart&auto=webp&s=8638374f4d6bfb622c4e1972cebec279dd8941f8",
+                    "x": 960,
+                    "y": 540
+                },
+                {
+                    "u": "https://preview.redd.it/hz7uw4v8d80d1.png?width=1080&crop=smart&auto=webp&s=ce5d91a5fcec5ac87f91419a2395e457049cca5f",
+                    "x": 1080,
+                    "y": 607
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/hz7uw4v8d80d1.png?width=1920&format=png&auto=webp&s=314d981d49218ce57635e8b8946bdfc4bb653507",
+                "x": 1920,
+                "y": 1080
+            },
+            "status": "valid"
+        },
+        "oeoeuoj8d80d1": {
+            "e": "Image",
+            "id": "oeoeuoj8d80d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/oeoeuoj8d80d1.png?width=108&crop=smart&auto=webp&s=1219456d02cd4e0b229f61401c50bf0df61513c8",
+                    "x": 108,
+                    "y": 60
+                },
+                {
+                    "u": "https://preview.redd.it/oeoeuoj8d80d1.png?width=216&crop=smart&auto=webp&s=315ef78f9a60c62edfc73f3dbdfa78a05ddd4209",
+                    "x": 216,
+                    "y": 121
+                },
+                {
+                    "u": "https://preview.redd.it/oeoeuoj8d80d1.png?width=320&crop=smart&auto=webp&s=eb68ff8e0e6c235db0a41aa68271ad0011c99f4b",
+                    "x": 320,
+                    "y": 180
+                },
+                {
+                    "u": "https://preview.redd.it/oeoeuoj8d80d1.png?width=640&crop=smart&auto=webp&s=abc2c17d4637d7b512cdca54b908ee4483bb5991",
+                    "x": 640,
+                    "y": 360
+                },
+                {
+                    "u": "https://preview.redd.it/oeoeuoj8d80d1.png?width=960&crop=smart&auto=webp&s=959d521df22aed73b27eed24e3799c7c55e2899f",
+                    "x": 960,
+                    "y": 540
+                },
+                {
+                    "u": "https://preview.redd.it/oeoeuoj8d80d1.png?width=1080&crop=smart&auto=webp&s=f813aa45e419714960ecd5437a9b9366fdb29305",
+                    "x": 1080,
+                    "y": 607
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/oeoeuoj8d80d1.png?width=1920&format=png&auto=webp&s=3b8364e01114d69fe369947d00c046eef068a92a",
+                "x": 1920,
+                "y": 1080
+            },
+            "status": "valid"
+        },
+        "qre7wh18d80d1": {
+            "e": "Image",
+            "id": "qre7wh18d80d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/qre7wh18d80d1.png?width=108&crop=smart&auto=webp&s=9e8a6c18efe773396238dc2cab4f1fa4725a1220",
+                    "x": 108,
+                    "y": 60
+                },
+                {
+                    "u": "https://preview.redd.it/qre7wh18d80d1.png?width=216&crop=smart&auto=webp&s=ef68a401fb2a4b15f0ceb473d8f43bc77f882b56",
+                    "x": 216,
+                    "y": 121
+                },
+                {
+                    "u": "https://preview.redd.it/qre7wh18d80d1.png?width=320&crop=smart&auto=webp&s=0b28f0fc9963c99b45cb61e6ea07c2fa7b5aa04c",
+                    "x": 320,
+                    "y": 180
+                },
+                {
+                    "u": "https://preview.redd.it/qre7wh18d80d1.png?width=640&crop=smart&auto=webp&s=35b752c1aa2ef5248fb8c0e59c4be35d0d8b3b3e",
+                    "x": 640,
+                    "y": 360
+                },
+                {
+                    "u": "https://preview.redd.it/qre7wh18d80d1.png?width=960&crop=smart&auto=webp&s=17b97feaaee4340ec59fb6fcfe6ce970e77da3c3",
+                    "x": 960,
+                    "y": 540
+                },
+                {
+                    "u": "https://preview.redd.it/qre7wh18d80d1.png?width=1080&crop=smart&auto=webp&s=566e084419c335c08fd38e5a122a3883b9095a53",
+                    "x": 1080,
+                    "y": 607
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/qre7wh18d80d1.png?width=1920&format=png&auto=webp&s=29e81a70b33a2ca6c47f28814180b8c8d2d07d07",
+                "x": 1920,
+                "y": 1080
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1cr5cmn",
+    "no_follow": true,
+    "num_comments": 2,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1cr5cmn/chatgpt4o/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1715622086,
+    "saved": false,
+    "score": 5,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "\ud83d\ude80 I'm currently attending a live event showcasing the capabilities of **ChatGPT-4o** and I am in awe! \n\nNot only does it have complex coding capabilities, but its ability to solve mathematical problems is truly impressive. It's like having a personal mathematician at your fingertips! The live language translation feature is another highlight, making cross-language communication seamless and effortless.\n\nOne of the most striking aspects of ChatGPT-40 is its human-like interaction. The way it understands and responds to queries makes you feel like you're conversing with a real human being. This level of sophistication in AI is truly remarkable.\n\nWitnessing these features in action, I am reminded of the immense potential of AI. From automating tasks and improving productivity, to revolutionizing the way we learn and teach coding, breaking down language barriers, making complex calculations accessible to all, and now providing a human-like interaction - the possibilities are endless.\n\nAs I continue to attend this event, my excitement and anticipation for the future of AI only grows. Stay tuned for more updates! \ud83c\udf1f",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5431876,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/gnD0rEHeUAXW-KJ49Yyx8NmKsEGpW5nK1usFnQKph_M.jpg",
+    "thumbnail_height": 78,
+    "thumbnail_width": 140,
+    "title": "ChatGPT4o",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 5,
+    "upvote_ratio": 0.7799999713897705,
+    "url": "https://www.reddit.com/gallery/1cr5cmn",
+    "url_overridden_by_dest": "https://www.reddit.com/gallery/1cr5cmn",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

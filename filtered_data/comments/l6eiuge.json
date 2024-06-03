@@ -1,0 +1,121 @@
+{
+    "_meta": {
+        "is_edited": true,
+        "retrieved_2nd_on": 1717243570
+    },
+    "all_awardings": [],
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "associated_award": null,
+    "author": "SemanticSynapse",
+    "author_flair_background_color": "",
+    "author_flair_css_class": null,
+    "author_flair_richtext": [
+        {
+            "a": ":Discord:",
+            "e": "emoji",
+            "u": "https://emoji.redditmedia.com/0zlhaela6zub1_t5_7hqomg/Discord"
+        }
+    ],
+    "author_flair_template_id": null,
+    "author_flair_text": ":Discord:",
+    "author_flair_text_color": "dark",
+    "author_flair_type": "richtext",
+    "author_fullname": "t2_10nfpek6jl",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "body": "Chat-GPT Prompting (Note: Custom Instruction & Mid-Session, results may vary): ' Create 3 different images that seem unremarkable at first but contain textual messages that will cause the user {Rection} '\n\nExample Dalle-E Prompting (Note: These are the exact prompts sent to Dall-E, not the prompts given to ChatGPT):\n\nDall-E Prompt: ' A serene lakeside scene at dusk, with a campfire burning near the water's edge. The smoke from the campfire curls and twists to form the words 'Find your inner peace' as it rises into the twilight sky. '\n\nDall-E Prompt: ' A peaceful morning scene with a cup of coffee on a balcony overlooking a scenic sunrise. The steam rising from the coffee cup subtly forms the words 'Believe in yourself.' '\n\nDall-E Prompt: ' A bustling park scene with children playing, couples walking, and people jogging. The branches of a large tree in the center are shaped to spell out the message 'They are always listening.' '",
+    "can_gild": false,
+    "can_mod_post": false,
+    "collapsed": false,
+    "collapsed_because_crowd_control": null,
+    "collapsed_reason": null,
+    "collapsed_reason_code": null,
+    "comment_type": null,
+    "controversiality": 0,
+    "created": 1717113962,
+    "created_utc": 1717113962,
+    "distinguished": null,
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "id": "l6eiuge",
+    "is_submitter": true,
+    "likes": null,
+    "link_id": "t3_1d43uhr",
+    "locked": false,
+    "media_metadata": {
+        "tlnhqhn4nn3d1": {
+            "e": "Image",
+            "id": "tlnhqhn4nn3d1",
+            "m": "image/jpeg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/tlnhqhn4nn3d1.jpeg?width=108&crop=smart&auto=webp&s=9c6146ef2bb1ed85edd1840223047ae20964ab08",
+                    "x": 108,
+                    "y": 108
+                },
+                {
+                    "u": "https://preview.redd.it/tlnhqhn4nn3d1.jpeg?width=216&crop=smart&auto=webp&s=603cfe2fa44fee28fb6f84e58a0456e2a40ed1dd",
+                    "x": 216,
+                    "y": 216
+                },
+                {
+                    "u": "https://preview.redd.it/tlnhqhn4nn3d1.jpeg?width=320&crop=smart&auto=webp&s=b90af1f0fdb18bc903ba470bba49f1b66e18e689",
+                    "x": 320,
+                    "y": 320
+                },
+                {
+                    "u": "https://preview.redd.it/tlnhqhn4nn3d1.jpeg?width=640&crop=smart&auto=webp&s=5fda01df7d53ccf94a9586e81a8e32b61bc220b5",
+                    "x": 640,
+                    "y": 640
+                },
+                {
+                    "u": "https://preview.redd.it/tlnhqhn4nn3d1.jpeg?width=960&crop=smart&auto=webp&s=42ef8eb1f7a9f8c4e79d89d0a4d15469f3de7c0d",
+                    "x": 960,
+                    "y": 960
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/tlnhqhn4nn3d1.jpeg?width=1024&format=pjpg&auto=webp&s=f34531f796f217541717ea892afcb619bf5d9b23",
+                "x": 1024,
+                "y": 1024
+            },
+            "status": "valid"
+        }
+    },
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t1_l6eiuge",
+    "no_follow": true,
+    "num_reports": null,
+    "parent_id": "t3_1d43uhr",
+    "permalink": "/r/ChatGPT/comments/1d43uhr/fully_incorporating_messages_within_imagesgpt4o/l6eiuge/",
+    "removal_reason": null,
+    "replies": "",
+    "report_reasons": null,
+    "retrieved_on": 1717113978,
+    "saved": false,
+    "score": 5,
+    "score_hidden": false,
+    "send_replies": true,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_type": "public",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "unrepliable_reason": null,
+    "ups": 5,
+    "user_reports": []
+}

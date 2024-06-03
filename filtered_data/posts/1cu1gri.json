@@ -1,0 +1,305 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1716069689
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "thevelarfricative",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_7pykk",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1715940079,
+    "created_utc": 1715940079,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "reddit.com",
+    "downs": 0,
+    "edited": false,
+    "gallery_data": {
+        "items": [
+            {
+                "caption": "",
+                "id": 454722973,
+                "media_id": "jkcx4abumy0d1",
+                "outbound_url": ""
+            },
+            {
+                "caption": "",
+                "id": 454722974,
+                "media_id": "qr6woxdumy0d1",
+                "outbound_url": ""
+            },
+            {
+                "caption": "",
+                "id": 454722975,
+                "media_id": "u7x3yagumy0d1",
+                "outbound_url": ""
+            },
+            {
+                "caption": "",
+                "id": 454722976,
+                "media_id": "8p6i2zhumy0d1",
+                "outbound_url": ""
+            }
+        ]
+    },
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1cu1gri",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_gallery": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#0079d3",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Educational Purpose Only "
+        }
+    ],
+    "link_flair_template_id": "26e7b998-7bbc-11ed-ba93-22ce55064b6a",
+    "link_flair_text": "Educational Purpose Only ",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "8p6i2zhumy0d1": {
+            "e": "Image",
+            "id": "8p6i2zhumy0d1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/8p6i2zhumy0d1.jpg?width=108&crop=smart&auto=webp&s=84aa02306fc10de812e298542af40039c89bd7ff",
+                    "x": 108,
+                    "y": 216
+                },
+                {
+                    "u": "https://preview.redd.it/8p6i2zhumy0d1.jpg?width=216&crop=smart&auto=webp&s=a058ce660b272b7b8b94a3eb660a881126fe4e23",
+                    "x": 216,
+                    "y": 432
+                },
+                {
+                    "u": "https://preview.redd.it/8p6i2zhumy0d1.jpg?width=320&crop=smart&auto=webp&s=414a1b92ab8ff90e62af164cc9947177c33cd5d1",
+                    "x": 320,
+                    "y": 640
+                },
+                {
+                    "u": "https://preview.redd.it/8p6i2zhumy0d1.jpg?width=640&crop=smart&auto=webp&s=920a231f3fb8c6f5d369d8bf886d84eb882935b0",
+                    "x": 640,
+                    "y": 1280
+                },
+                {
+                    "u": "https://preview.redd.it/8p6i2zhumy0d1.jpg?width=960&crop=smart&auto=webp&s=c2a66400463fdcfd5540787e851d9358a55b83d7",
+                    "x": 960,
+                    "y": 1920
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/8p6i2zhumy0d1.jpg?width=1078&format=pjpg&auto=webp&s=65deb80f344cefc99d721d16fe8015312540832a",
+                "x": 1078,
+                "y": 4326
+            },
+            "status": "valid"
+        },
+        "jkcx4abumy0d1": {
+            "e": "Image",
+            "id": "jkcx4abumy0d1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/jkcx4abumy0d1.jpg?width=108&crop=smart&auto=webp&s=e2d7af7c2401e9387acee08ed1c25ad8724dca3e",
+                    "x": 108,
+                    "y": 181
+                },
+                {
+                    "u": "https://preview.redd.it/jkcx4abumy0d1.jpg?width=216&crop=smart&auto=webp&s=b6b764741822c7b99a328675e748b60de00be709",
+                    "x": 216,
+                    "y": 363
+                },
+                {
+                    "u": "https://preview.redd.it/jkcx4abumy0d1.jpg?width=320&crop=smart&auto=webp&s=6ecb03dd44ddea378cb58a7307a1f3d910ea0b2b",
+                    "x": 320,
+                    "y": 537
+                },
+                {
+                    "u": "https://preview.redd.it/jkcx4abumy0d1.jpg?width=640&crop=smart&auto=webp&s=d5f9b0ce4e222804c906ea779fca306479c2e556",
+                    "x": 640,
+                    "y": 1075
+                },
+                {
+                    "u": "https://preview.redd.it/jkcx4abumy0d1.jpg?width=960&crop=smart&auto=webp&s=84ec1007c66f970be4cc56fa4a93357ca77021a2",
+                    "x": 960,
+                    "y": 1613
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/jkcx4abumy0d1.jpg?width=1078&format=pjpg&auto=webp&s=a7fc2b73a89de0f5a6c93b5ccdad3d28d39f7a9f",
+                "x": 1078,
+                "y": 1812
+            },
+            "status": "valid"
+        },
+        "qr6woxdumy0d1": {
+            "e": "Image",
+            "id": "qr6woxdumy0d1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/qr6woxdumy0d1.jpg?width=108&crop=smart&auto=webp&s=f10e8e6fa94bb23c3ca32cc19ecc04432af13f49",
+                    "x": 108,
+                    "y": 208
+                },
+                {
+                    "u": "https://preview.redd.it/qr6woxdumy0d1.jpg?width=216&crop=smart&auto=webp&s=cd388b2970471d1202b4cbf46a124cdcbd82cb9c",
+                    "x": 216,
+                    "y": 417
+                },
+                {
+                    "u": "https://preview.redd.it/qr6woxdumy0d1.jpg?width=320&crop=smart&auto=webp&s=1e61f831877da4a0de2416bfd911fe65bcdd99d5",
+                    "x": 320,
+                    "y": 618
+                },
+                {
+                    "u": "https://preview.redd.it/qr6woxdumy0d1.jpg?width=640&crop=smart&auto=webp&s=6babbfcd3aa0496d0a67b826930dcd1634ea905c",
+                    "x": 640,
+                    "y": 1237
+                },
+                {
+                    "u": "https://preview.redd.it/qr6woxdumy0d1.jpg?width=960&crop=smart&auto=webp&s=9ea955977c8630c01252e6e8f297ff0ab377cccc",
+                    "x": 960,
+                    "y": 1856
+                },
+                {
+                    "u": "https://preview.redd.it/qr6woxdumy0d1.jpg?width=1080&crop=smart&auto=webp&s=90e5aa3a228f4ebaaa71b08914902601c78f472c",
+                    "x": 1080,
+                    "y": 2088
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/qr6woxdumy0d1.jpg?width=1080&format=pjpg&auto=webp&s=c635d58f4af807e575f9276bfef5f32963886bb1",
+                "x": 1080,
+                "y": 2088
+            },
+            "status": "valid"
+        },
+        "u7x3yagumy0d1": {
+            "e": "Image",
+            "id": "u7x3yagumy0d1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/u7x3yagumy0d1.jpg?width=108&crop=smart&auto=webp&s=480a005c328d4ba893d4aaf6f74e7b702442c5d3",
+                    "x": 108,
+                    "y": 216
+                },
+                {
+                    "u": "https://preview.redd.it/u7x3yagumy0d1.jpg?width=216&crop=smart&auto=webp&s=3c6c29749aa4f3a755bb8f4425fb5c46b148ef08",
+                    "x": 216,
+                    "y": 432
+                },
+                {
+                    "u": "https://preview.redd.it/u7x3yagumy0d1.jpg?width=320&crop=smart&auto=webp&s=9e40fc48a4a939ebf413997a29f8cbe172cf1d90",
+                    "x": 320,
+                    "y": 640
+                },
+                {
+                    "u": "https://preview.redd.it/u7x3yagumy0d1.jpg?width=640&crop=smart&auto=webp&s=746acf3d265097d4277364f4bd73b471c4929596",
+                    "x": 640,
+                    "y": 1280
+                },
+                {
+                    "u": "https://preview.redd.it/u7x3yagumy0d1.jpg?width=960&crop=smart&auto=webp&s=c5d1afaf61af44acf5542f1dd3993661dd79f851",
+                    "x": 960,
+                    "y": 1920
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/u7x3yagumy0d1.jpg?width=1078&format=pjpg&auto=webp&s=135751d422114f97a70a54e4cbd9d9af334caaa6",
+                "x": 1078,
+                "y": 4590
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1cu1gri",
+    "no_follow": true,
+    "num_comments": 1,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1cu1gri/gpt4o_vs_gpt3_on_a_river_crossing_puzzle_variant/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1715940096,
+    "saved": false,
+    "score": 1,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "As seen in the first two screenshots, GPT 3 fails hilariously at this task. It just gets into a loop of giving the same solution over and over again\u2014completely unable to generalize from the most common version of this puzzle, where  taking the chicken (or its equivalent) over in the first step is, in fact, the correct move.\n\nIn the last two screenshots, GPT-4o does seem to be able to solve this puzzle. However, in its initial answer, it says contradictory things, such as claiming all 3 animals are on the same side after step 2 (if that were true, the puzzle would have been failed, but it is not, in fact, true, if the previous steps are followed as written). If prompted to reword itself and simply state where every animal is after each step, it appears to correct its own mistake.\n\nI strongly suspect, especially given the apparent contradictions above, that it would be very easy to permute this puzzle in such a way that GPT-4o still can't solve it, even where the solution is plainly obvious to any human who knows the solution to the basic variant of the puzzle. I suspect that it is doing better here only because the particular variant I asked it is now in its training data (it has made the rounds on Reddit and elsewhere on the Internet a number of times at this point and of course it appears in the question history itself). I was attempting to test these hypotheses when I ran out of free GPT-4o\n\n(Any anthropomorphizing done above is purely metaphorical, for rhetorical convenience. Ascribing sentience, intelligence, or agency to a language model is, of course, a [category error](https://en.wikipedia.org/wiki/Category_mistake), and thus I do it only for ease of communication.)",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5494918,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/N0zfeylukEmaZLEK2C4uDhjg7ua2vLH1C_uPd3ULgZc.jpg",
+    "thumbnail_height": 140,
+    "thumbnail_width": 140,
+    "title": "GPT-4o vs GPT3 on a river crossing puzzle variant",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 1,
+    "upvote_ratio": 0.6000000238418579,
+    "url": "https://www.reddit.com/gallery/1cu1gri",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

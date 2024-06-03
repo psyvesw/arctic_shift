@@ -1,0 +1,109 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1716835681
+    },
+    "all_awardings": [],
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "associated_award": null,
+    "author": "Kuane",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_az9jb",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "body": "Built an AI app that can serve as a research assistant that can seek up-to-date information on the internet and provide a concise summary with proper citations and references in any referencing style you prefer.\n\nIt is free to use (75 queries per month) at [https://personifyai.net/](https://personifyai.net/)\n\nSubscribers can also use other functions such as report card comment drafting, reference letter drafting and receiving feedback on some IB subjects.\n\nhttps://preview.redd.it/0jbf8d95wp2d1.png?width=714&format=png&auto=webp&s=8b82d06cd18aa0dd7bf97a9b344fb52c0e96c43d",
+    "can_gild": false,
+    "can_mod_post": false,
+    "collapsed": false,
+    "collapsed_because_crowd_control": null,
+    "collapsed_reason": null,
+    "collapsed_reason_code": null,
+    "comment_type": null,
+    "controversiality": 0,
+    "created": 1716706075,
+    "created_utc": 1716706075,
+    "distinguished": null,
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "id": "l5pq22b",
+    "is_submitter": false,
+    "likes": null,
+    "link_id": "t3_1cwf7pd",
+    "locked": false,
+    "media_metadata": {
+        "0jbf8d95wp2d1": {
+            "e": "Image",
+            "id": "0jbf8d95wp2d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/0jbf8d95wp2d1.png?width=108&crop=smart&auto=webp&s=c07cedd55ea5b84ec38469df729771dc7b5bacb7",
+                    "x": 108,
+                    "y": 142
+                },
+                {
+                    "u": "https://preview.redd.it/0jbf8d95wp2d1.png?width=216&crop=smart&auto=webp&s=c8c3b2761c774d56048daf05173dc4c8b4d06926",
+                    "x": 216,
+                    "y": 285
+                },
+                {
+                    "u": "https://preview.redd.it/0jbf8d95wp2d1.png?width=320&crop=smart&auto=webp&s=6bb5b5800503732a0542fe0dc32db36648ab5454",
+                    "x": 320,
+                    "y": 423
+                },
+                {
+                    "u": "https://preview.redd.it/0jbf8d95wp2d1.png?width=640&crop=smart&auto=webp&s=7b7d055475f2044521db779dab01a3de9a8db2aa",
+                    "x": 640,
+                    "y": 847
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/0jbf8d95wp2d1.png?width=714&format=png&auto=webp&s=8b82d06cd18aa0dd7bf97a9b344fb52c0e96c43d",
+                "x": 714,
+                "y": 945
+            },
+            "status": "valid"
+        }
+    },
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t1_l5pq22b",
+    "no_follow": true,
+    "num_reports": null,
+    "parent_id": "t3_1cwf7pd",
+    "permalink": "/r/ChatGPT/comments/1cwf7pd/weekly_selfpromotional_mega_thread_32_20052024/l5pq22b/",
+    "removal_reason": null,
+    "replies": "",
+    "report_reasons": null,
+    "retrieved_on": 1716706092,
+    "saved": false,
+    "score": 1,
+    "score_hidden": false,
+    "send_replies": true,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_type": "public",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "unrepliable_reason": null,
+    "ups": 1,
+    "user_reports": []
+}

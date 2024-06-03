@@ -1,0 +1,238 @@
+{
+    "_meta": {
+        "removal_type": "deleted",
+        "retrieved_2nd_on": 1713205357,
+        "was_deleted_later": true
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "guriboysf",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_18iko",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": true,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1713075742,
+    "created_utc": 1713075742,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "reddit.com",
+    "downs": 0,
+    "edited": false,
+    "gallery_data": {
+        "items": [
+            {
+                "id": 437365652,
+                "media_id": "lkiquabw0euc1"
+            },
+            {
+                "id": 437365653,
+                "media_id": "h6ulseaw0euc1"
+            },
+            {
+                "id": 437365654,
+                "media_id": "uh0jwq2c1euc1"
+            }
+        ]
+    },
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1c3msax",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_gallery": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#0dd3bb",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Funny "
+        }
+    ],
+    "link_flair_template_id": "935162a0-7be9-11ed-913e-6a257d69e3b3",
+    "link_flair_text": "Funny ",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "h6ulseaw0euc1": {
+            "e": "Image",
+            "id": "h6ulseaw0euc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/h6ulseaw0euc1.png?width=108&crop=smart&auto=webp&s=ecedfa7da99216a02ece1ff47e366cac2546828c",
+                    "x": 108,
+                    "y": 90
+                },
+                {
+                    "u": "https://preview.redd.it/h6ulseaw0euc1.png?width=216&crop=smart&auto=webp&s=797311fd7965429c4586b91289b43071bd3f6561",
+                    "x": 216,
+                    "y": 181
+                },
+                {
+                    "u": "https://preview.redd.it/h6ulseaw0euc1.png?width=320&crop=smart&auto=webp&s=76026db4fcc0e1920da6c2afb091e2fa09d334f2",
+                    "x": 320,
+                    "y": 268
+                },
+                {
+                    "u": "https://preview.redd.it/h6ulseaw0euc1.png?width=640&crop=smart&auto=webp&s=abd61c886c2a09bc89576c6eaae87ab1c653bf93",
+                    "x": 640,
+                    "y": 537
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/h6ulseaw0euc1.png?width=786&format=png&auto=webp&s=016cef261a52a4f91fee37c08795f327e555d707",
+                "x": 786,
+                "y": 660
+            },
+            "status": "valid"
+        },
+        "lkiquabw0euc1": {
+            "e": "Image",
+            "id": "lkiquabw0euc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/lkiquabw0euc1.png?width=108&crop=smart&auto=webp&s=88cb07f979bc5fc7a4d1a364b715b443ae0abca1",
+                    "x": 108,
+                    "y": 77
+                },
+                {
+                    "u": "https://preview.redd.it/lkiquabw0euc1.png?width=216&crop=smart&auto=webp&s=dd3c794da55ae9b879262e6da6f3b3b95a691770",
+                    "x": 216,
+                    "y": 155
+                },
+                {
+                    "u": "https://preview.redd.it/lkiquabw0euc1.png?width=320&crop=smart&auto=webp&s=4b4472effca24bf30cce2010b2b77b4ddc81bd6f",
+                    "x": 320,
+                    "y": 230
+                },
+                {
+                    "u": "https://preview.redd.it/lkiquabw0euc1.png?width=640&crop=smart&auto=webp&s=1dfeca96040c6e02a33666ba3be9d2bbacc1c211",
+                    "x": 640,
+                    "y": 460
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/lkiquabw0euc1.png?width=762&format=png&auto=webp&s=a49a22ac4759bdd4a1f1aa02a1039239c847b2d1",
+                "x": 762,
+                "y": 548
+            },
+            "status": "valid"
+        },
+        "uh0jwq2c1euc1": {
+            "e": "Image",
+            "id": "uh0jwq2c1euc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/uh0jwq2c1euc1.png?width=108&crop=smart&auto=webp&s=aeb2303183c4ba8c4b5bdb04ea7baad625e5acf7",
+                    "x": 108,
+                    "y": 77
+                },
+                {
+                    "u": "https://preview.redd.it/uh0jwq2c1euc1.png?width=216&crop=smart&auto=webp&s=4cef80f29f694d2c943a97e73bdfd9b6bb0bd030",
+                    "x": 216,
+                    "y": 154
+                },
+                {
+                    "u": "https://preview.redd.it/uh0jwq2c1euc1.png?width=320&crop=smart&auto=webp&s=4cf5846c50198bce41d25db3f5fc6fe4557c99d5",
+                    "x": 320,
+                    "y": 229
+                },
+                {
+                    "u": "https://preview.redd.it/uh0jwq2c1euc1.png?width=640&crop=smart&auto=webp&s=db5443c871a7d136253e6ac076f6fe63785fca12",
+                    "x": 640,
+                    "y": 458
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/uh0jwq2c1euc1.png?width=726&format=png&auto=webp&s=2da3da3bc1a4793331d5f7e5ca8c879bb5e2b666",
+                "x": 726,
+                "y": 520
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1c3msax",
+    "no_follow": false,
+    "num_comments": 1,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1c3msax/after_giving_me_a_lecture_on_racial_diversity/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1713075757,
+    "saved": false,
+    "score": 1,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5072975,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/FDSi5Hor4OxlCn77HdN2zXKqFWEfSH9ffpytofW8f-w.jpg",
+    "thumbnail_height": 100,
+    "thumbnail_width": 140,
+    "title": "After giving me a lecture on racial diversity ChatGPT did this. \ud83d\ude02",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 1,
+    "upvote_ratio": 1,
+    "url": "https://www.reddit.com/gallery/1c3msax",
+    "url_overridden_by_dest": "https://www.reddit.com/gallery/1c3msax",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

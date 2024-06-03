@@ -1,0 +1,109 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1716682390
+    },
+    "all_awardings": [],
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "associated_award": null,
+    "author": "Severe_Ad620",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_hsaa6o8qp",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "body": ">Time/date stamp and inquiry numbering\n\nTry this browser extension:\n\n[https://chromewebstore.google.com/detail/chatgpt-4-message-counter/lfijkccneagembdmjojhdndppiffinke](https://chromewebstore.google.com/detail/chatgpt-4-message-counter/lfijkccneagembdmjojhdndppiffinke)\n\n>Can anyone help me figure out how to make ChatGPT save my request to time and date stamp all my inquiries\n\nPut this instruction in the 'Custom Instructions' bottom box (top right icon > Customize ChatGPT):\n\n    After answering,  run a python program to print the current time\n    in the Phoenix AZ timezone.\n\nhttps://preview.redd.it/wgopmifn8d2d1.png?width=821&format=png&auto=webp&s=f3bf7d49bd2bebafe51abc996b2c40377e135ab3",
+    "can_gild": false,
+    "can_mod_post": false,
+    "collapsed": false,
+    "collapsed_because_crowd_control": null,
+    "collapsed_reason": null,
+    "collapsed_reason_code": null,
+    "comment_type": null,
+    "controversiality": 0,
+    "created": 1716552779,
+    "created_utc": 1716552779,
+    "distinguished": null,
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "id": "l5gl2er",
+    "is_submitter": false,
+    "likes": null,
+    "link_id": "t3_1czbfku",
+    "locked": false,
+    "media_metadata": {
+        "wgopmifn8d2d1": {
+            "e": "Image",
+            "id": "wgopmifn8d2d1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/wgopmifn8d2d1.png?width=108&crop=smart&auto=webp&s=9ecd057ad2160d5a179946af811447c93f32cda6",
+                    "x": 108,
+                    "y": 38
+                },
+                {
+                    "u": "https://preview.redd.it/wgopmifn8d2d1.png?width=216&crop=smart&auto=webp&s=2bbe8e7af4f4064549fbd8579ce14502685cac77",
+                    "x": 216,
+                    "y": 77
+                },
+                {
+                    "u": "https://preview.redd.it/wgopmifn8d2d1.png?width=320&crop=smart&auto=webp&s=e78ff2448f5f735daa0a12cf8ca26da345e11d8f",
+                    "x": 320,
+                    "y": 114
+                },
+                {
+                    "u": "https://preview.redd.it/wgopmifn8d2d1.png?width=640&crop=smart&auto=webp&s=63ee6f8b0fb66a99450349ddc91aacf23c6a7363",
+                    "x": 640,
+                    "y": 228
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/wgopmifn8d2d1.png?width=821&format=png&auto=webp&s=f3bf7d49bd2bebafe51abc996b2c40377e135ab3",
+                "x": 821,
+                "y": 293
+            },
+            "status": "valid"
+        }
+    },
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t1_l5gl2er",
+    "no_follow": true,
+    "num_reports": null,
+    "parent_id": "t3_1czbfku",
+    "permalink": "/r/ChatGPT/comments/1czbfku/timedate_stamp_and_inquiry_numbering_why_wont_it/l5gl2er/",
+    "removal_reason": null,
+    "replies": "",
+    "report_reasons": null,
+    "retrieved_on": 1716552794,
+    "saved": false,
+    "score": 1,
+    "score_hidden": false,
+    "send_replies": true,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_type": "public",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "unrepliable_reason": null,
+    "ups": 1,
+    "user_reports": []
+}

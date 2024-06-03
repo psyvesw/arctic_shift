@@ -1,0 +1,214 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1714491627
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "stonkluver",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_55m2ritw",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1714362014,
+    "created_utc": 1714362014,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "self.ChatGPT",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1cfpf19",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": true,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#0dd3bb",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "GPTs"
+        },
+        {
+            "a": ":illuminati:",
+            "e": "emoji",
+            "u": "https://emoji.redditmedia.com/mv60bklq1guz_t5_3nqvj/illuminati"
+        }
+    ],
+    "link_flair_template_id": "bcb51ede-7ef9-11ee-b24e-cecbc98d93fe",
+    "link_flair_text": "GPTs:illuminati:",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "q4h1xpfw9cxc1": {
+            "e": "Image",
+            "id": "q4h1xpfw9cxc1",
+            "m": "image/png",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/q4h1xpfw9cxc1.png?width=108&crop=smart&auto=webp&s=f90086f51214498af83f8cd89e102dd6bba12eee",
+                    "x": 108,
+                    "y": 56
+                },
+                {
+                    "u": "https://preview.redd.it/q4h1xpfw9cxc1.png?width=216&crop=smart&auto=webp&s=7086efe02b89c7e3b4ba7b0d15e19e5a6a49fca7",
+                    "x": 216,
+                    "y": 112
+                },
+                {
+                    "u": "https://preview.redd.it/q4h1xpfw9cxc1.png?width=320&crop=smart&auto=webp&s=d645d73d5a4f3cd315d9f3fbcdd85bdc95239687",
+                    "x": 320,
+                    "y": 166
+                },
+                {
+                    "u": "https://preview.redd.it/q4h1xpfw9cxc1.png?width=640&crop=smart&auto=webp&s=928db49d0db7b18e825535991efdd4db59559d23",
+                    "x": 640,
+                    "y": 333
+                },
+                {
+                    "u": "https://preview.redd.it/q4h1xpfw9cxc1.png?width=960&crop=smart&auto=webp&s=926437b58b84d8965a0eef2a8b83924de02c30fd",
+                    "x": 960,
+                    "y": 499
+                },
+                {
+                    "u": "https://preview.redd.it/q4h1xpfw9cxc1.png?width=1080&crop=smart&auto=webp&s=838f9a56416e68f0db97d45a107869d66264e02e",
+                    "x": 1080,
+                    "y": 562
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/q4h1xpfw9cxc1.png?width=1978&format=png&auto=webp&s=023053c9a554dcc8ce85a2c6dfa37dabe27e655e",
+                "x": 1978,
+                "y": 1030
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1cfpf19",
+    "no_follow": false,
+    "num_comments": 1,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1cfpf19/made_an_app_that_puts_chatgpt_into_your_thoughts/",
+    "pinned": false,
+    "post_hint": "self",
+    "preview": {
+        "enabled": false,
+        "images": [
+            {
+                "id": "_VfQuJsJFNNZU4Lyq4O7zlAv8WC6cLKYFPWcFw9HC7A",
+                "resolutions": [
+                    {
+                        "height": 56,
+                        "url": "https://external-preview.redd.it/5YZv1lA1EuhcKPMimHBFlxeIYFlGGJ62YNDOdM4KYHk.jpg?width=108&crop=smart&auto=webp&s=84343c8674d353e2b25d85a1c5ce4a0168097d22",
+                        "width": 108
+                    },
+                    {
+                        "height": 113,
+                        "url": "https://external-preview.redd.it/5YZv1lA1EuhcKPMimHBFlxeIYFlGGJ62YNDOdM4KYHk.jpg?width=216&crop=smart&auto=webp&s=8a646599df24633c36d5e4ad3352e7403f9fcd07",
+                        "width": 216
+                    },
+                    {
+                        "height": 168,
+                        "url": "https://external-preview.redd.it/5YZv1lA1EuhcKPMimHBFlxeIYFlGGJ62YNDOdM4KYHk.jpg?width=320&crop=smart&auto=webp&s=3de0de24db8920a2ed4eb65181fddc60629003dd",
+                        "width": 320
+                    },
+                    {
+                        "height": 336,
+                        "url": "https://external-preview.redd.it/5YZv1lA1EuhcKPMimHBFlxeIYFlGGJ62YNDOdM4KYHk.jpg?width=640&crop=smart&auto=webp&s=651fd76c338e23fd3b8c70f0cdb45de04f080c1c",
+                        "width": 640
+                    },
+                    {
+                        "height": 504,
+                        "url": "https://external-preview.redd.it/5YZv1lA1EuhcKPMimHBFlxeIYFlGGJ62YNDOdM4KYHk.jpg?width=960&crop=smart&auto=webp&s=344f9824cead0d2e41a794b1c0724577be4de074",
+                        "width": 960
+                    },
+                    {
+                        "height": 567,
+                        "url": "https://external-preview.redd.it/5YZv1lA1EuhcKPMimHBFlxeIYFlGGJ62YNDOdM4KYHk.jpg?width=1080&crop=smart&auto=webp&s=af461d575cdbb18040f82551a441093477d43852",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 630,
+                    "url": "https://external-preview.redd.it/5YZv1lA1EuhcKPMimHBFlxeIYFlGGJ62YNDOdM4KYHk.jpg?auto=webp&s=6b6123bf35d242b0745eba20e93cd5550a3e3bbb",
+                    "width": 1200
+                },
+                "variants": {}
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1714362032,
+    "saved": false,
+    "score": 2,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "[https://apps.apple.com/us/app/convogpt/id6448891108](https://apps.apple.com/us/app/convogpt/id6448891108)\n\nhttps://preview.redd.it/q4h1xpfw9cxc1.png?width=1978&format=png&auto=webp&s=023053c9a554dcc8ce85a2c6dfa37dabe27e655e\n\n  \n",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5252308,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://a.thumbs.redditmedia.com/ebfUvbtlFvIojaduQBhduyugCBK1ytj3fxXr2MBACo8.jpg",
+    "thumbnail_height": 73,
+    "thumbnail_width": 140,
+    "title": "Made an app that puts ChatGPT into your thoughts by telling you what to say during conversation - used for work meetings and study sessions but some used it for interviews and dating which is kinda funny - app is  free ",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 2,
+    "upvote_ratio": 0.6299999952316284,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1cfpf19/made_an_app_that_puts_chatgpt_into_your_thoughts/",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

@@ -1,0 +1,205 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1715415392
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "Horror-Phone-975",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_e76y1yxps",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1715285781,
+    "created_utc": 1715285781,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "i.redd.it",
+    "downs": 0,
+    "edited": false,
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1co6tnl",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": false,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": true,
+    "is_robot_indexable": false,
+    "is_self": false,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#ffb000",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Gone Wild "
+        }
+    ],
+    "link_flair_template_id": "bd4e6832-7bbc-11ed-97cb-0e48625ac41d",
+    "link_flair_text": "Gone Wild ",
+    "link_flair_text_color": "dark",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1co6tnl",
+    "no_follow": true,
+    "num_comments": 1,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1co6tnl/i_discovered_that_you_can_teach_chatgpt/",
+    "pinned": false,
+    "post_hint": "image",
+    "preview": {
+        "enabled": true,
+        "images": [
+            {
+                "id": "bPNAZBUBzDz2I3KgwX7pNsy0DjXyMy7dm622mktTGnk",
+                "resolutions": [
+                    {
+                        "height": 135,
+                        "url": "https://preview.redd.it/uq3a889algzc1.jpeg?width=108&crop=smart&auto=webp&s=7f4d9de1e49d406a045ab902147420690cb05166",
+                        "width": 108
+                    },
+                    {
+                        "height": 270,
+                        "url": "https://preview.redd.it/uq3a889algzc1.jpeg?width=216&crop=smart&auto=webp&s=716f3ef348b610faf43f675f47afc1e0ed2f66dd",
+                        "width": 216
+                    },
+                    {
+                        "height": 400,
+                        "url": "https://preview.redd.it/uq3a889algzc1.jpeg?width=320&crop=smart&auto=webp&s=5ed6699fc2c9716146ac0c8c82b2d53b1934749e",
+                        "width": 320
+                    },
+                    {
+                        "height": 800,
+                        "url": "https://preview.redd.it/uq3a889algzc1.jpeg?width=640&crop=smart&auto=webp&s=3be72c291165bf8ea84c6a6cf1f56449a3182bb0",
+                        "width": 640
+                    },
+                    {
+                        "height": 1200,
+                        "url": "https://preview.redd.it/uq3a889algzc1.jpeg?width=960&crop=smart&auto=webp&s=d7869c90cd2477eb54b190355bca811a3fdf49db",
+                        "width": 960
+                    },
+                    {
+                        "height": 1350,
+                        "url": "https://preview.redd.it/uq3a889algzc1.jpeg?width=1080&crop=smart&auto=webp&s=88095934ebe4695e95e7ac3ffd33663cfac6a231",
+                        "width": 1080
+                    }
+                ],
+                "source": {
+                    "height": 1463,
+                    "url": "https://preview.redd.it/uq3a889algzc1.jpeg?auto=webp&s=321587a07110b5d55441a6fbc348645e73d70088",
+                    "width": 1170
+                },
+                "variants": {
+                    "obfuscated": {
+                        "resolutions": [
+                            {
+                                "height": 135,
+                                "url": "https://preview.redd.it/uq3a889algzc1.jpeg?width=108&crop=smart&blur=10&format=pjpg&auto=webp&s=683eead445410c8c8e180db9da06f60eba4ef9d2",
+                                "width": 108
+                            },
+                            {
+                                "height": 270,
+                                "url": "https://preview.redd.it/uq3a889algzc1.jpeg?width=216&crop=smart&blur=21&format=pjpg&auto=webp&s=00a2496faf49e95b5b8a6502eae0c09960344dd8",
+                                "width": 216
+                            },
+                            {
+                                "height": 400,
+                                "url": "https://preview.redd.it/uq3a889algzc1.jpeg?width=320&crop=smart&blur=32&format=pjpg&auto=webp&s=f4e021bd6c5ec6cead87ab65dca626b5d0eed90d",
+                                "width": 320
+                            },
+                            {
+                                "height": 800,
+                                "url": "https://preview.redd.it/uq3a889algzc1.jpeg?width=640&crop=smart&blur=40&format=pjpg&auto=webp&s=32d6b7f16010cd2a151c74d085baab6e57f678ca",
+                                "width": 640
+                            },
+                            {
+                                "height": 1200,
+                                "url": "https://preview.redd.it/uq3a889algzc1.jpeg?width=960&crop=smart&blur=40&format=pjpg&auto=webp&s=602188ec7ec04bf474b279eb71bbc37377580f83",
+                                "width": 960
+                            },
+                            {
+                                "height": 1350,
+                                "url": "https://preview.redd.it/uq3a889algzc1.jpeg?width=1080&crop=smart&blur=40&format=pjpg&auto=webp&s=6988971ac206a0998dcae631860c9a2f1eae0253",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 1463,
+                            "url": "https://preview.redd.it/uq3a889algzc1.jpeg?blur=40&format=pjpg&auto=webp&s=3c8aded8ae615642f0feff6df2a5ac4819701216",
+                            "width": 1170
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": "moderator",
+    "report_reasons": null,
+    "retrieved_on": 1715285796,
+    "saved": false,
+    "score": 1,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "",
+    "send_replies": true,
+    "spoiler": true,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5381385,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "spoiler",
+    "thumbnail_height": 140,
+    "thumbnail_width": 140,
+    "title": "I discovered that you can teach ChatGPT definitions",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 1,
+    "upvote_ratio": 1,
+    "url": "https://i.redd.it/uq3a889algzc1.jpeg",
+    "url_overridden_by_dest": "https://i.redd.it/uq3a889algzc1.jpeg",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}

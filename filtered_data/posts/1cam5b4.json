@@ -1,0 +1,251 @@
+{
+    "_meta": {
+        "retrieved_2nd_on": 1713949946
+    },
+    "all_awardings": [],
+    "allow_live_comments": false,
+    "approved_at_utc": null,
+    "approved_by": null,
+    "archived": false,
+    "author": "Sea_Cranberry323",
+    "author_flair_background_color": null,
+    "author_flair_css_class": null,
+    "author_flair_richtext": [],
+    "author_flair_template_id": null,
+    "author_flair_text": null,
+    "author_flair_text_color": null,
+    "author_flair_type": "text",
+    "author_fullname": "t2_domyyibn",
+    "author_is_blocked": false,
+    "author_patreon_flair": false,
+    "author_premium": false,
+    "awarders": [],
+    "banned_at_utc": null,
+    "banned_by": null,
+    "can_gild": false,
+    "can_mod_post": false,
+    "category": null,
+    "clicked": false,
+    "content_categories": null,
+    "contest_mode": false,
+    "created": 1713820337,
+    "created_utc": 1713820337,
+    "discussion_type": null,
+    "distinguished": null,
+    "domain": "reddit.com",
+    "downs": 0,
+    "edited": false,
+    "gallery_data": {
+        "items": [
+            {
+                "id": 442060300,
+                "media_id": "uglklajrj3wc1"
+            },
+            {
+                "id": 442060301,
+                "media_id": "b7db2slrj3wc1"
+            },
+            {
+                "id": 442060302,
+                "media_id": "uqxxwwnrj3wc1"
+            }
+        ]
+    },
+    "gilded": 0,
+    "gildings": {},
+    "hidden": false,
+    "hide_score": false,
+    "id": "1cam5b4",
+    "is_created_from_ads_ui": false,
+    "is_crosspostable": true,
+    "is_gallery": true,
+    "is_meta": false,
+    "is_original_content": false,
+    "is_reddit_media_domain": false,
+    "is_robot_indexable": true,
+    "is_self": false,
+    "is_video": false,
+    "likes": null,
+    "link_flair_background_color": "#0dd3bb",
+    "link_flair_css_class": "",
+    "link_flair_richtext": [
+        {
+            "e": "text",
+            "t": "Funny "
+        }
+    ],
+    "link_flair_template_id": "935162a0-7be9-11ed-913e-6a257d69e3b3",
+    "link_flair_text": "Funny ",
+    "link_flair_text_color": "light",
+    "link_flair_type": "richtext",
+    "locked": false,
+    "media": null,
+    "media_embed": {},
+    "media_metadata": {
+        "b7db2slrj3wc1": {
+            "e": "Image",
+            "id": "b7db2slrj3wc1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/b7db2slrj3wc1.jpg?width=108&crop=smart&auto=webp&s=124d94e8e7c7a513d1186b483df740aaf99b903f",
+                    "x": 108,
+                    "y": 108
+                },
+                {
+                    "u": "https://preview.redd.it/b7db2slrj3wc1.jpg?width=216&crop=smart&auto=webp&s=ad45393a0e2c3079187e8d4ea08c884b54660c69",
+                    "x": 216,
+                    "y": 216
+                },
+                {
+                    "u": "https://preview.redd.it/b7db2slrj3wc1.jpg?width=320&crop=smart&auto=webp&s=b1e2c0322cb217095e9afe18fcf8355dbfa941d6",
+                    "x": 320,
+                    "y": 320
+                },
+                {
+                    "u": "https://preview.redd.it/b7db2slrj3wc1.jpg?width=640&crop=smart&auto=webp&s=7d698cc2dfee2dded8782e557f5af4130300b730",
+                    "x": 640,
+                    "y": 640
+                },
+                {
+                    "u": "https://preview.redd.it/b7db2slrj3wc1.jpg?width=960&crop=smart&auto=webp&s=5e609e5a9d552ad796200daa65e6322ac1781043",
+                    "x": 960,
+                    "y": 960
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/b7db2slrj3wc1.jpg?width=1024&format=pjpg&auto=webp&s=da3e282f8f822241d004a7b9d19081429d038a3a",
+                "x": 1024,
+                "y": 1024
+            },
+            "status": "valid"
+        },
+        "uglklajrj3wc1": {
+            "e": "Image",
+            "id": "uglklajrj3wc1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/uglklajrj3wc1.jpg?width=108&crop=smart&auto=webp&s=523ad42a5ce3aebdfceb1d34fee66fce6d06fa23",
+                    "x": 108,
+                    "y": 108
+                },
+                {
+                    "u": "https://preview.redd.it/uglklajrj3wc1.jpg?width=216&crop=smart&auto=webp&s=9420ef9d5a9c32f1ef470afc71763574fde800ea",
+                    "x": 216,
+                    "y": 216
+                },
+                {
+                    "u": "https://preview.redd.it/uglklajrj3wc1.jpg?width=320&crop=smart&auto=webp&s=cfaabbba524d52f551f4de4e86e9558a22e4cb67",
+                    "x": 320,
+                    "y": 320
+                },
+                {
+                    "u": "https://preview.redd.it/uglklajrj3wc1.jpg?width=640&crop=smart&auto=webp&s=98e4f625b5f8167ba37258a41c90177e452cf015",
+                    "x": 640,
+                    "y": 640
+                },
+                {
+                    "u": "https://preview.redd.it/uglklajrj3wc1.jpg?width=960&crop=smart&auto=webp&s=a2ea6bf68f50fac5cab964084875d7bc52e6a34e",
+                    "x": 960,
+                    "y": 960
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/uglklajrj3wc1.jpg?width=1024&format=pjpg&auto=webp&s=3110a19c151c3b1d0473fe885e78f2458b7ac549",
+                "x": 1024,
+                "y": 1024
+            },
+            "status": "valid"
+        },
+        "uqxxwwnrj3wc1": {
+            "e": "Image",
+            "id": "uqxxwwnrj3wc1",
+            "m": "image/jpg",
+            "p": [
+                {
+                    "u": "https://preview.redd.it/uqxxwwnrj3wc1.jpg?width=108&crop=smart&auto=webp&s=00d6ca2674907ee2704254c057d269d28f8aa28c",
+                    "x": 108,
+                    "y": 108
+                },
+                {
+                    "u": "https://preview.redd.it/uqxxwwnrj3wc1.jpg?width=216&crop=smart&auto=webp&s=3491de8db5977fdc5480c6ba87d501669766b4c4",
+                    "x": 216,
+                    "y": 216
+                },
+                {
+                    "u": "https://preview.redd.it/uqxxwwnrj3wc1.jpg?width=320&crop=smart&auto=webp&s=0d1e24cfb5d5ba0469f50cd7ae9404ab6387505d",
+                    "x": 320,
+                    "y": 320
+                },
+                {
+                    "u": "https://preview.redd.it/uqxxwwnrj3wc1.jpg?width=640&crop=smart&auto=webp&s=5f26329e06b5a4a21ae76301ac234265b2232ef1",
+                    "x": 640,
+                    "y": 640
+                },
+                {
+                    "u": "https://preview.redd.it/uqxxwwnrj3wc1.jpg?width=960&crop=smart&auto=webp&s=49a4db92e1db1335b5a26dfe00826fc710bd4912",
+                    "x": 960,
+                    "y": 960
+                }
+            ],
+            "s": {
+                "u": "https://preview.redd.it/uqxxwwnrj3wc1.jpg?width=1024&format=pjpg&auto=webp&s=c29c44aece0a822930b6a52a9a1f03615ddacd71",
+                "x": 1024,
+                "y": 1024
+            },
+            "status": "valid"
+        }
+    },
+    "media_only": false,
+    "mod_note": null,
+    "mod_reason_by": null,
+    "mod_reason_title": null,
+    "mod_reports": [],
+    "name": "t3_1cam5b4",
+    "no_follow": true,
+    "num_comments": 4,
+    "num_crossposts": 0,
+    "num_reports": null,
+    "over_18": false,
+    "parent_whitelist_status": "all_ads",
+    "permalink": "/r/ChatGPT/comments/1cam5b4/chatgpt_understands_the_assignment_no_chickfila/",
+    "pinned": false,
+    "pwls": 6,
+    "quarantine": false,
+    "removal_reason": null,
+    "removed_by": null,
+    "removed_by_category": null,
+    "report_reasons": null,
+    "retrieved_on": 1713820353,
+    "saved": false,
+    "score": 0,
+    "secure_media": null,
+    "secure_media_embed": {},
+    "selftext": "Each time more surreal...",
+    "send_replies": true,
+    "spoiler": false,
+    "stickied": false,
+    "subreddit": "ChatGPT",
+    "subreddit_id": "t5_7hqomg",
+    "subreddit_name_prefixed": "r/ChatGPT",
+    "subreddit_subscribers": 5179822,
+    "subreddit_type": "public",
+    "suggested_sort": null,
+    "thumbnail": "https://b.thumbs.redditmedia.com/8NetOcHJnJKRz1n4gQPRe5voKlWKngDq3F2mZ-1Erpo.jpg",
+    "thumbnail_height": 140,
+    "thumbnail_width": 140,
+    "title": "ChatGPT understands the assignment. No Chick-fil-A Sauce?",
+    "top_awarded_type": null,
+    "total_awards_received": 0,
+    "treatment_tags": [],
+    "ups": 0,
+    "upvote_ratio": 0.5,
+    "url": "https://www.reddit.com/gallery/1cam5b4",
+    "url_overridden_by_dest": "https://www.reddit.com/gallery/1cam5b4",
+    "user_reports": [],
+    "view_count": null,
+    "visited": false,
+    "whitelist_status": "all_ads",
+    "wls": 6
+}
